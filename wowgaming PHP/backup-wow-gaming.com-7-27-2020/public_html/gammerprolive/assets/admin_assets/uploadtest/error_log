@@ -1,0 +1,12 @@
+[29-Nov-2018 05:29:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php on line 17
+[29-Nov-2018 05:29:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php on line 17
+[29-Nov-2018 05:40:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/desig6ft/public_html/appletherapeutics.in/assets/admin_assets/uploadtest/upload.php on line 17

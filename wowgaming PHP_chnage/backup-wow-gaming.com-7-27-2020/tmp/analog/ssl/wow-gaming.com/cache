@@ -1,0 +1,1102 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	22624	80	91	103	322795168
+D	26594285	26598662
+18468	73	1	1	623
+18468	114	1	1	623
+18469	35	3	1	68783
+18469	36	1	0	2845
+18469	37	7	0	548987
+18469	38	28	0	1041150
+18469	117	2	0	67780
+18469	120	36	0	2856478
+18469	132	43	1	3028415
+18469	134	1	0	542194
+18469	135	3	1	6175
+18469	137	1	1	1554
+18469	138	25	0	437484
+18469	139	82	2	3320265
+18469	140	33	0	1399047
+18469	141	12	0	208597
+18469	142	2	0	94
+18469	143	4	0	188
+18469	144	2	0	94
+18469	145	3	0	141
+18469	146	5	0	143382
+18469	148	4	0	44987
+18469	149	222	8	13832685
+18469	150	39	0	103259
+18469	151	61	3	1309864
+18469	152	33	0	15493
+18469	153	26	0	14173
+18469	154	146	9	5862324
+18469	155	38	4	1543764
+18469	156	50	4	141068
+18469	157	15	1	102649
+18469	158	53	3	1174038
+18469	159	6	1	62630
+18469	160	6	0	462
+18469	161	11	0	176797
+18469	162	3	0	47213
+18469	163	27	0	1353372
+18469	164	26	0	103590
+18469	165	34	1	1320688
+18469	166	16	3	177060
+18469	167	10	0	165701
+18469	168	478	0	2109640
+18469	169	931	0	46787
+18469	170	103	0	41062
+18469	210	1	1	19251
+18469	232	29	1	1104983
+18469	237	1	1	19251
+18469	246	3	1	17149
+18469	247	2	1	24482
+18469	249	2	1	72844
+18469	280	2	1	19318
+18470	27	1	1	19251
+18470	37	1	0	186
+18470	38	60	2	2316484
+18470	39	58	1	4619220
+18470	40	41	0	84456
+18470	41	34	0	49110
+18470	42	462	0	222374
+18470	43	1808	0	144856
+18470	44	206	0	23186
+18470	45	4	2	3340
+18470	49	35	0	2835623
+18470	50	8	1	41271
+18470	52	3	0	2197
+18470	53	180	0	22040
+18470	54	1123	0	75241
+18470	55	4	0	10671
+18470	56	23	0	16405
+18470	57	595	0	107019
+18470	58	846	0	269299
+18470	59	106	0	31625
+18470	60	11	0	6779
+18470	61	232	0	99424
+18470	62	90	0	49133
+18470	66	6	0	21342
+18470	68	1075	0	101748
+18470	69	292	0	21564
+18470	70	7	0	21342
+18470	72	779	0	49436
+18470	73	402	0	27138
+18470	74	7	0	21409
+18470	76	1	1	19251
+18470	78	9	0	23539
+18470	82	24	0	43645
+18470	83	7	0	18085
+18470	84	3	0	2197
+18470	86	55	0	81143
+18470	87	35	0	35096
+18470	88	17	0	4271
+18470	89	25	0	10082
+18470	90	14	0	4789
+18470	91	34	0	23532
+18470	92	36	0	27461
+18470	93	12	0	3715
+18470	94	3	0	2197
+18470	95	6	0	4394
+18470	96	79	0	239174
+18470	97	30	0	20158
+18470	98	13	0	7528
+18470	99	25	0	15459
+18470	100	20	0	15163
+18470	101	44	1	1333939
+18470	102	59	0	490491
+18470	103	9	0	79309
+18470	104	69	0	272035
+18470	105	30	0	124347
+18470	106	29	0	2789372
+18470	108	38	0	261995
+18470	109	47	0	46908
+18470	110	6	0	15247
+18470	115	7	0	21342
+18470	119	14	0	10048
+18470	120	6	0	21342
+18470	123	80	0	638828
+18470	124	138	0	156630
+18470	125	49	0	59091
+18470	126	6	0	13485
+18470	127	1	0	46
+18470	131	68	0	82016
+18470	132	11	0	1395495
+18470	133	96	0	2175868
+18470	134	102	0	640389
+18470	135	50	0	924429
+18470	137	3	0	2221
+18470	138	3	0	2221
+18470	139	3	0	10671
+18470	141	4	0	10671
+18470	144	3	0	10671
+18470	146	6	0	4442
+18470	147	9	0	15113
+18470	149	6	0	12892
+18470	152	1615	0	3558122
+18470	153	1007	1	12989728
+18470	154	170	5	52451953
+18470	155	104	2	55448650
+18470	156	1396	0	1650381
+18470	157	1277	0	341912
+18470	158	416	1	48167801
+18470	159	350	0	13002735
+18470	160	76	0	491878
+18470	161	41	1	40506692
+18470	162	644	0	42939
+18470	163	380	0	42565
+18470	164	399	0	345140
+18470	165	150	0	6969
+18470	166	31	0	8418
+18470	167	23	0	13298
+18470	168	60	0	17303
+18470	169	27	0	7577
+18470	170	128	0	50032
+18470	171	152	0	52389
+18470	172	28	0	182333
+18470	173	22	0	9484
+18470	174	43	0	16791
+18470	175	48	0	2256
+18470	176	53	0	13001
+18470	177	50	0	3507
+18470	178	53	0	13501
+18470	179	47	0	2209
+18470	180	51	0	12927
+18470	181	49	0	2303
+18470	182	51	0	12927
+18470	183	51	0	10132
+18470	184	51	0	12927
+18470	185	49	0	2303
+18470	186	20	0	11470
+18470	188	4	0	10671
+18470	189	3	0	10671
+18470	190	3	0	231
+18470	191	2	0	154
+18470	192	6	0	10902
+18470	193	5	0	10825
+18470	194	3	0	231
+18470	195	2	0	154
+18470	196	6	0	10902
+18470	197	2	0	154
+18470	198	3	0	231
+18470	199	3	0	154
+18470	200	5	0	10825
+18470	203	3	0	10671
+18470	206	3	0	10671
+18470	208	3	0	10671
+18470	210	3	0	10671
+18470	212	4	0	10671
+18470	213	17	0	5028
+18470	214	188	0	96530
+18470	215	47	0	8720
+18470	216	10	0	11000
+18470	219	3	0	10671
+18470	220	7	0	5012
+18470	221	57	0	49283
+18470	223	4	0	10671
+18470	225	3	0	10671
+18470	228	3	0	10671
+18470	230	3	0	10671
+18470	235	3	0	10671
+18470	237	4	0	10671
+18470	239	3	0	10671
+18470	254	5	0	3293
+18470	255	25	0	146771
+18470	256	53	1	1119708
+18470	268	3	1	19320
+18470	269	5	1	30058
+18470	271	4	0	10671
+18470	274	3	0	10671
+18470	276	3	0	10671
+18470	277	3	0	10671
+18470	278	27	0	23035
+18470	280	3	0	10671
+18470	282	3	0	10671
+18470	284	4	0	10671
+18470	286	3	0	10671
+18471	0	3	0	10671
+18471	2	3	0	10671
+18471	4	3	0	10671
+18471	6	3	0	10671
+18471	8	4	0	10671
+18471	10	3	0	10671
+18471	12	3	0	10671
+18471	13	3	0	10671
+18471	17	3	0	10671
+18471	19	4	0	10671
+18471	21	3	0	10671
+18471	24	3	0	10671
+18471	28	3	0	10671
+18471	30	3	0	10671
+18471	31	4	4	77280
+18471	34	29	1	60828
+18471	35	4	0	100188
+18471	37	5	0	62343
+18471	40	22	0	348939
+18471	42	1	0	67
+18471	43	4	0	10671
+18471	45	3	0	2219
+18471	46	4	0	10725
+18471	47	1	0	51
+18471	50	3	0	10671
+18471	55	3	0	12893870
+18471	57	10	1	472153
+18471	58	29	0	17269
+18471	66	10	0	15032
+18471	68	4	0	10671
+18471	70	33	0	1570064
+18471	71	11	0	1405214
+18471	72	1	0	28041
+18471	73	7	0	135750
+18471	74	2	0	24046
+18471	75	13	0	159477
+18471	76	22	0	2516108
+18471	77	17	0	190366
+18471	78	42	0	2896715
+18471	79	4	0	10671
+18471	82	4	0	38712
+18471	84	1	0	28041
+1	1	0	0	0	26596107	0	0	26596107	0	0	19783	/wp-includes/js/dist/compose.min.js?ver=3c7f1e5a90aa3c9e9b0f65014efccb35
+1	15	0	0	0	26598529	0	0	26596107	0	0	725700	/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14
+1	0	0	1	0	0	26596064	0	0	26596064	0	0	/wp-admin/admin-post.php
+1	1	0	0	0	26596107	0	0	26596107	0	0	12882	/wp-includes/js/media-audiovideo.min.js?ver=5.4.2
+1	1	0	0	0	26596063	0	0	26596063	0	0	45846	/wp-admin/themes.php?activated=true
+1	14	0	0	0	26598630	0	0	26596178	0	0	5877620	/gammerprolive/assets/images/gameimage/tmjMbqdY3clR10EXIOai.jpg
+1	1	0	0	0	26596056	0	0	26596056	0	0	7890	/wp-includes/js/customize-base.min.js?ver=5.4.2
+1	1	0	0	0	26596142	0	0	26596142	0	0	17255	/wp-content/uploads/2020/07/Add-a-heading-1-1-300x120.png
+1	9	0	0	0	26597332	0	0	26597312	0	0	1299	/gammerprolive/admin/master/get-filter-details
+1	1	0	0	0	26596055	0	0	26596055	0	0	5583	/wp-admin/js/user-profile.min.js?ver=5.4.2
+1	6	0	0	0	26598634	0	0	26595550	0	0	16158	/gammerprolive/assets/admin_assets/js/plugins/gritter/jquery.gritter.css
+1	1	0	0	0	26596107	0	0	26596107	0	0	10896	/wp-includes/js/media-editor.min.js?ver=5.4.2
+1	14	0	0	0	26598411	0	0	26596107	0	0	203148	/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14
+1	6	0	0	0	26598633	0	0	26595547	0	0	222306	/gammerprolive/assets/admin_assets/js/bootstrap.min.js
+1	7	0	0	0	26598634	0	0	26595550	0	0	23863	/gammerprolive/assets/admin_assets/js/plugins/peity/jquery.peity.min.js
+1	7	0	0	0	26598634	0	0	26595550	0	0	172403	/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.pie.js
+1	1	0	0	0	26596063	0	0	26596063	0	0	42320	/wp-admin/theme-install.php?search=hello
+1	1	0	0	0	26597917	0	0	26597917	0	0	0	/wp-cron.php?doing_wp_cron=1595803059.1710081100463867187500
+1	2	0	0	0	26597570	0	0	26596107	0	0	5512	/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css?ver=1.5.0
+1	1	0	0	0	26597329	0	0	26597329	0	0	0	/wp-cron.php?doing_wp_cron=1595767747.5842568874359130859375
+1	1	0	0	0	26596107	0	0	26596107	0	0	10239	/wp-admin/js/image-edit.min.js?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	363833	/wp-content/themes/twentyseventeen/screenshot.png
+1	8	0	0	0	26598411	0	0	26597574	0	0	34419	/wp-content/uploads/elementor/css/post-5.css?ver=1595782482
+1	5	0	0	0	26596142	0	0	26596115	0	0	7142	/wp-admin/async-upload.php
+1	438	0	0	0	26598628	0	0	26596178	0	0	495816	/gammerprolive/webservices/game/getGameList
+1	6	0	0	0	26598634	0	0	26595550	0	0	35262	/gammerprolive/assets/admin_assets/css/patterns/header-profile.png
+1	1	0	0	0	26596151	0	0	26596151	0	0	4915	/wp-content/uploads/elementor/css/post-5.css?ver=1595697094
+1	1	0	0	0	26596056	0	0	26596056	0	0	108800	/wp-admin/load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils&ver=5.4.2
+1	30	0	0	0	26598530	0	0	26597002	0	0	81689	/gammerprolive/webservices/wallet-transaction-history
+1	1	0	0	0	26596107	0	0	26596107	0	0	13641	/wp-includes/js/dist/url.min.js?ver=b7106409bea2c78aabddc45249f7c1fc
+1	1	0	0	0	26596064	0	0	26596064	0	0	8961	/wp-content/plugins/elementor/assets/js/admin-feedback.min.js?ver=2.9.14
+1	17	0	0	0	26598620	0	0	26597331	0	0	2656760	/gammerprolive/assets/images/gameimage/v2ZuHOM7neBjgIzTiCRs.jpg
+1	26	0	0	0	26597661	0	0	26596198	0	0	7705	/gammerprolive/webservices/login
+1	1	0	0	0	26596115	0	0	26596115	0	0	7536	/wp-includes/images/spinner-2x.gif
+1	1	0	0	0	26596134	0	0	26596134	0	0	7880	/wp-includes/js/customize-preview-widgets.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	1797	/wp-json/wp/v2/pages/5?_locale=user
+1	2	0	0	0	26596109	0	0	26596056	0	0	30628	/wp-admin/js/edit-comments.min.js?ver=5.4.2
+1	1	0	0	0	26596114	0	0	26596114	0	0	6146	/wp-content/plugins/elementor/assets/images/placeholder.png
+1	1	0	0	0	26596107	0	0	26596107	0	0	2824	/wp-includes/js/dist/warning.min.js?ver=98c469cb6d86983eb5fa9fc7a8dfa0c4
+1	1	0	0	0	26596110	0	0	26596110	0	0	5997	/wp-content/plugins/elementor/templates/11198.json
+1	2	0	0	0	26596109	0	0	26596056	0	0	7570	/wp-includes/js/jquery/jquery.query.js?ver=2.1.7
+1	1	0	0	0	26596055	0	0	26596055	0	0	6272	/wp-admin/install.php?language=en_US
+1	5	0	0	0	26598595	0	0	26595961	0	0	117120	/gammerprolive/assets/admin_assets/fonts/glyphicons-halflings-regular.woff
+1	0	0	0	3	0	0	26596995	0	0	26596132	0	/gammerprolive/assets/admin_assets/js/plugins/dataTables/pdfmake.min.js.map
+1	8	0	0	0	26598627	0	0	26596998	0	0	1066792	/gammerprolive/assets/images/gameimage/1m5v3LTBoMjwHI8pqPzt.jpg
+1	0	0	1	0	0	26596064	0	0	26596064	0	0	/wp-admin/plugins.php?action=activate&plugin=elementor-pro/elementor-pro.php&plugin_status=all&paged=1&s&_wpnonce=9d98c458d0
+1	1	0	0	0	26596107	0	0	26596107	0	0	4186	/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.2
+1	6	0	0	0	26596109	0	0	26596109	0	0	2745	/wp-content/uploads/2020/07/DESIGNFORM-Logo.png
+1	3	0	0	0	26597331	0	0	26597331	0	0	2848	/gammerprolive/admin/MasterController/storeImages
+1	4	0	0	0	26597576	0	0	26597002	0	0	219776	/gammerprolive/uploads/images/profile/profile_8_5f1d2ecb649fc.jpg
+1	2	0	0	0	26597570	0	0	26596107	0	0	55753	/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0
+1	2	0	0	0	26597570	0	0	26596107	0	0	5999	/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js?ver=0.2.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	790	/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+1	1	0	0	0	26597259	0	0	26597259	0	0	0	/wp-cron.php?doing_wp_cron=1595763585.6554520130157470703125
+1	15	0	0	0	26598630	0	0	26596178	0	0	1350314	/gammerprolive/assets/images/gameimage/MmZivJdXhNbaocp4qPeS.jpg
+1	1	0	0	0	26595949	0	0	26595949	0	0	33890	/cpanel?66.249.73.171
+1	7	0	0	0	26598631	0	0	26596022	0	0	319453	/gammerprolive/admin/transaction/view-wallet-transaction-listing
+1	12	0	0	0	26598529	0	0	26596056	0	0	77784	/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+1	1	0	0	0	26596107	0	0	26596107	0	0	9787	/wp-includes/js/dist/redux-routine.min.js?ver=7b7d8224ca3d5f24509583833d71c388
+1	1	0	0	0	26596107	0	0	26596107	0	0	5911	/wp-admin/js/widgets/text-widgets.min.js?ver=5.4.2
+1	4	0	0	0	26596064	0	0	26596056	0	0	187081	/wp-admin/plugins.php
+1	1	0	0	0	26597025	0	0	26597025	0	0	0	/wp-cron.php?doing_wp_cron=1595749531.5485999584197998046875
+1	0	0	0	1	0	0	26596064	0	0	26596064	0	/wp-admin/admin.php?page=elementor-connect&app=activate&action=activate_pro&nonce=0da658e549
+1	1	0	0	0	26597224	0	0	26597224	0	0	1132	/gammerprolive/webservices/game/getGameList?66.249.73.171
+1	1	0	0	0	26596107	0	0	26596107	0	0	1845	/wp-content/plugins/elementor-pro/assets/css/preview.min.css?ver=2.10.3
+1	1	0	0	0	26596056	0	0	26596056	0	0	458	/wp-includes/js/wp-sanitize.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	4284	/wp-includes/js/dist/primitives.min.js?ver=ecfd167b66d8272c99af2b0220535f33
+1	1	0	0	0	26596109	0	0	26596109	0	0	2946	/wp-content/plugins/elementor/assets/js/new-template.min.js?ver=2.9.14
+1	2	0	0	0	26597312	0	0	26597311	0	0	37772	/gammerprolive/admin/master/manage-filter-list?game_id=7
+1	2	0	0	0	26597311	0	0	26597311	0	0	37768	/gammerprolive/admin/master/manage-filter-list?game_id=6
+1	1	0	0	0	26596134	0	0	26596134	0	0	863	/wp-admin/images/arrows-2x.png
+1	3	0	0	0	26597311	0	0	26597310	0	0	57545	/gammerprolive/admin/master/manage-filter-list?game_id=5
+1	1	0	0	0	26596521	0	0	26596521	0	0	0	/wp-cron.php?doing_wp_cron=1595719314.9680190086364746093750
+1	3	0	0	0	26597310	0	0	26597309	0	0	58707	/gammerprolive/admin/master/manage-filter-list?game_id=4
+1	1	0	0	0	26596056	0	0	26596056	0	0	0	/wp-cron.php?doing_wp_cron=1595691367.1755340099334716796875
+1	2	0	0	0	26596109	0	0	26596063	0	0	731146	/wp-content/themes/hello-elementor/screenshot.png
+1	2	0	0	0	26597570	0	0	26596107	0	0	43584	/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=1.12.0
+1	1	0	0	0	26596134	0	0	26596134	0	0	15658	/wp-includes/js/plupload/plupload.min.js?ver=2.1.9
+1	0	0	0	1	0	0	26597508	0	0	26597508	0	/wp-json/wp/v2/types/post?context=edit
+1	1	0	0	0	26596134	0	0	26596134	0	0	15899	/wp-includes/js/codemirror/codemirror.min.css?ver=5.29.1-alpha-ee20357
+1	1	0	0	0	26596132	0	0	26596132	0	0	8001	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-2-300x30.png
+1	0	0	0	3	0	0	26596039	0	0	26596021	0	/gammerprolive/
+1	6	0	0	0	26598634	0	0	26595550	0	0	914178	/gammerprolive/assets/admin_assets/css/summernote-bs3.css
+1	1	0	0	0	26596056	0	0	26596056	0	0	2418	/wp-admin/js/plugin-install.min.js?ver=5.4.2
+1	2	0	0	0	26596107	0	0	26596056	0	0	49782	/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4
+1	2	0	0	0	26597570	0	0	26596107	0	0	76030	/wp-content/plugins/elementor/assets/css/editor-preview.min.css?ver=2.9.14
+1	1	0	0	0	26596109	0	0	26596109	0	0	50233	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,clipboard,underscore,wp-util&ver=5.4.2
+1	1	0	0	0	26597681	0	0	26597681	0	0	0	/wp-cron.php?doing_wp_cron=1595788885.4694619178771972656250
+1	2	0	0	0	26596109	0	0	26596056	0	0	14872	/wp-includes/js/wp-lists.min.js?ver=5.4.2
+1	16	0	0	0	26598620	0	0	26597331	0	0	1124830	/gammerprolive/assets/images/gameimage/GsdISjQK9tiyFZRD10M7.jpg
+1	2	0	0	0	26597570	0	0	26596107	0	0	9163	/wp-content/plugins/elementor/assets/images/logo-panel.svg
+1	7	0	0	0	26597587	0	0	26596201	0	0	1305	/gammerprolive/webservices/update-profile-image
+1	2	0	0	0	26597570	0	0	26596107	0	0	75814	/wp-content/plugins/elementor/assets/lib/e-select2/js/e-select2.full.min.js?ver=4.0.6-rc.1
+1	11	0	0	0	26598081	0	0	26596107	0	0	72545	/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3
+1	2	0	0	0	26597570	0	0	26596107	0	0	602797	/wp-content/plugins/elementor/assets/js/editor.min.js?ver=2.9.14
+1	2	0	0	0	26597570	0	0	26596107	0	0	3254	/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.1.3
+1	1	0	0	0	26596056	0	0	26596056	0	0	99133	/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+1	6	0	0	0	26598620	0	0	26596200	0	0	277835	/gammerprolive/assets/images/gameimage/3tHFXaK8JLOjmiesU6Rp.jpg
+1	1	0	0	0	26596134	0	0	26596134	0	0	21822	/wp-admin/js/nav-menu.min.js?ver=5.4.2
+1	11	0	0	0	26598620	0	0	26596200	0	0	515060	/gammerprolive/assets/images/gameimage/qgQ3NmpRSKFkn4cd1lZ9.jpg
+1	2	0	0	0	26597570	0	0	26596107	0	0	43584	/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+1	1	0	0	0	26596055	0	0	26596055	0	0	822237	/wp-includes/js/zxcvbn.min.js
+1	0	0	0	7	0	0	26596995	0	0	26596030	0	/toastr.js.map
+1	1	0	0	0	26596134	0	0	26596134	0	0	345903	/wp-admin/load-scripts.php?c=1&load[chunk_0]=wp-hooks,heartbeat,customize-base,customize-controls,customize-widgets,jquery-ui-position,thickbox,accordion,wp-sanitize,customi&load[chunk_1]=ze-nav-menus,imgareaselect,customize-models,customize-views,mce-view,image-edit,updates,quicktags,wplink,jquery-ui-menu,jquery-u&load[chunk_2]=i-autocomplete,media-upload&ver=5.4.2
+1	1	0	0	0	26597456	0	0	26597456	0	0	0	/wp-cron.php?doing_wp_cron=1595775395.6460239887237548828125
+1	1	0	0	0	26597309	0	0	26597309	0	0	18293	/gammerprolive/admin/master/edit-filter-details?filter-id=3&game-id=4
+1	1	0	0	0	26596107	0	0	26596107	0	0	6889	/wp-includes/js/dist/plugins.min.js?ver=b1050e54f3a934a1c06648c984d141ed
+1	13	0	0	0	26598529	0	0	26596053	0	0	1259349	/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+1	1	1	0	0	26596134	0	0	26596134	0	0	45668	/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-0
+1	2	0	0	0	26596109	0	0	26596056	0	0	104187	/wp-admin/themes.php
+1	12	0	0	0	26598529	0	0	26596107	0	0	1613592	/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3
+1	1	0	0	0	26596107	0	0	26596107	0	0	1688	/wp-includes/js/dist/deprecated.min.js?ver=cd9e35508705772fbc5e2d9736bde31b
+1	7	0	0	0	26598634	0	0	26595550	0	0	12313	/gammerprolive/assets/admin_assets/js/demo/sparkline-demo.js
+1	1	0	0	0	26597508	0	0	26597508	0	0	0	/wp-cron.php?doing_wp_cron=1595778513.8918540477752685546875
+1	2	0	0	0	26596054	0	0	26596053	0	0	11734	/wp-includes/css/buttons.min.css?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	79875	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,thickbox,underscore,backbone,wp-util,wp-backbone&ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	572	/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6e4ada80e1&1595691368021
+1	46	0	0	0	26597905	0	0	26596202	0	0	4066	/gammerprolive/webservices/create-wallet-transaction
+1	1	0	0	0	26596107	0	0	26596107	0	0	31026	/wp-includes/js/dist/data.min.js?ver=e80048e7b309581a40e44b8bd8aaba41
+1	1	0	0	0	26596107	0	0	26596107	0	0	4985	/wp-includes/js/dist/notices.min.js?ver=74c8f15ff58eb236879fb3c4bcc0b9e2
+1	14	0	0	0	26598411	0	0	26596107	0	0	134178	/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	1470	/wp-admin/js/widgets/media-audio-widget.min.js?ver=5.4.2
+1	6	0	0	0	26598620	0	0	26597331	0	0	195654	/gammerprolive/admin/master/upload-image
+1	4	0	0	0	26596142	0	0	26596115	0	0	7286	/wp-content/uploads/2020/07/Logo-W-300x65.png
+1	1	0	0	0	26596107	0	0	26596107	0	0	73261	/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.15
+1	2	0	0	0	26596107	0	0	26596055	0	0	2158	/wp-includes/js/wp-util.min.js?ver=5.4.2
+1	1	0	0	0	26597861	0	0	26597861	0	0	0	/wp-cron.php?doing_wp_cron=1595799715.8467309474945068359375
+1	1	0	0	0	26596056	0	0	26596056	0	0	1114	/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6e4ada80e1&1595691367801
+1	12	0	0	0	26598081	0	0	26596107	0	0	643116	/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2
+1	6	0	0	0	26598417	0	0	26596186	0	0	250944	/gammerprolive/index.php/admin/transaction/get-withdrawal-details
+1	2	0	0	0	26596132	0	0	26596120	0	0	3806	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1-150x53.png
+1	8	0	0	0	26596150	0	0	26596137	0	0	19660	/wp-content/uploads/elementor/css/post-5.css?ver=1595696243
+1	1	0	0	0	26596107	0	0	26596107	0	0	150223	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-ui-draggable,jquery-ui-position,mce-view,imgareaselect,image-edit,quicktags,wplink,jquery-ui-menu,jquery-ui-autocomplete,&load[chunk_1]=thickbox,media-upload,wp-hooks,heartbeat,wp-auth-check,jquery-ui-resizable,imagesloaded&ver=5.4.2
+1	7	0	0	0	26598634	0	0	26595550	0	0	301735	/gammerprolive/assets/admin_assets/js/parsley.min.js
+1	1	0	0	0	26596107	0	0	26596107	0	0	14042	/wp-includes/js/media-models.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	5566	/wp-admin/js/widgets/custom-html-widgets.min.js?ver=5.4.2
+1	1	0	0	0	26596109	0	0	26596109	0	0	362313	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,site-health,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-poi&load[chunk_1]=nter,widgets,site-icon,l10n,buttons,wp-auth-check&ver=5.4.2
+1	2	0	0	0	26597570	0	0	26596107	0	0	1030	/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js?ver=1.0.0
+1	3	0	0	0	26598411	0	0	26596064	0	0	10794	/wp-content/plugins/elementor/assets/css/common.min.css?ver=2.9.14
+1	3825	0	0	0	26597874	0	0	26596203	0	0	259280	/gammerprolive/webservices/create-team
+1	1	0	0	0	26596056	0	0	26596056	0	0	26580	/wp-admin/js/theme.min.js?ver=5.4.2
+1	2	0	0	0	26596109	0	0	26596056	0	0	4200	/wp-includes/js/wp-ajax-response.min.js?ver=5.4.2
+1	6	0	0	0	26598633	0	0	26595547	0	0	1158324	/gammerprolive/assets/admin_assets/css/style.css
+1	1	0	0	0	26596134	0	0	26596134	0	0	10780	/wp-includes/js/customize-preview.min.js?ver=5.4.2
+1	2	0	0	0	26596054	0	0	26596053	0	0	48906	/wp-admin/css/forms.min.css?ver=5.4.2
+1	1	0	0	0	26596134	0	0	26596134	0	0	3099	/wp-admin/js/code-editor.min.js?ver=5.4.2
+1	1	0	0	0	26596187	0	0	26596187	0	0	0	/wp-cron.php?doing_wp_cron=1595699226.7482841014862060546875
+1	6	0	0	2	26598517	0	26595208	26596592	0	26594031	402	/robots.txt
+1	1	0	0	0	26596107	0	0	26596107	0	0	1718	/wp-includes/js/hoverintent-js.min.js?ver=2.2.1
+1	2	0	0	0	26596109	0	0	26596056	0	0	13376	/wp-admin/js/dashboard.min.js?ver=5.4.2
+1	17	0	0	0	26598618	0	0	26595961	0	0	714533	/gammerprolive/admin/transaction/get-withdrawal-details
+1	1	0	0	0	26596107	0	0	26596107	0	0	114123	/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.9.0
+1	1065	0	0	0	26598628	0	0	26596178	0	0	139049	/gammerprolive/webservices/get-filterlist
+1	1	0	0	0	26598458	0	0	26598458	0	0	0	/wp-cron.php?doing_wp_cron=1595835538.6884889602661132812500
+1	1	0	0	0	26596107	0	0	26596107	0	0	3232	/wp-includes/css/wp-pointer.min.css?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	160453	/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131
+1	3	3	0	0	26597574	0	0	26597570	0	0	111674	/?preview_id=5&preview_nonce=9f2fda72bc&preview=true
+1	1	0	0	0	26596107	0	0	26596107	0	0	13363	/wp-admin/js/editor.min.js?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	15238	/wp-includes/js/thickbox/loadingAnimation.gif
+1	1	0	0	0	26596107	0	0	26596107	0	0	184459	/wp-includes/js/dist/editor.min.js?ver=bb928f624169f992ec79a4889c7abf35
+1	1	0	0	0	26596107	0	0	26596107	0	0	198932	/wp-includes/js/dist/edit-post.min.js?ver=99ca111a562584048ddeb818a39c18f6
+1	1	0	0	0	26596594	0	0	26596594	0	0	4930	/wp-login.php?redirect_to=https://wow-gaming.com/wp-admin/&reauth=1
+1	1	0	0	0	26596107	0	0	26596107	0	0	1439	/wp-includes/js/dist/blob.min.js?ver=60ed48227f0a303ddf818dc8dc3e16fd
+1	2	0	0	0	26596054	0	0	26596053	0	0	24856	/wp-admin/setup-config.php
+1	1	0	0	0	26596107	0	0	26596107	0	0	3047	/wp-includes/js/wp-backbone.min.js?ver=5.4.2
+1	6	0	0	0	26598633	0	0	26595547	0	0	414492	/gammerprolive/assets/admin_assets/css/animate.css
+1	2	0	0	0	26597570	0	0	26596107	0	0	14773	/wp-content/plugins/elementor/assets/lib/e-select2/css/e-select2.min.css?ver=4.0.6-rc.1
+1	1	0	0	0	26598517	0	0	26598517	0	0	0	/wp-cron.php?doing_wp_cron=1595839039.5754389762878417968750
+1	1	0	0	0	26596056	0	0	26596056	0	0	1282	/wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard
+1	4	0	0	0	26596142	0	0	26596115	0	0	3431	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-150x65.png
+1	1	0	0	0	26597078	0	0	26597078	0	0	0	/wp-cron.php?doing_wp_cron=1595752724.3377280235290527343750
+1	2	0	0	0	26597570	0	0	26596107	0	0	57180	/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.14
+1	1	0	0	0	26596107	0	0	26596107	0	0	252588	/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+1	5	0	0	0	26597570	0	0	26596107	0	0	5463548	/wp-admin/post.php?post=5&action=elementor
+1	4	0	0	0	26596142	0	0	26596115	0	0	1937	/wp-content/uploads/2020/07/DESIGNFORM-Logo-150x20.png
+1	1	0	0	0	26596107	0	0	26596107	0	0	8422	/wp-includes/js/dist/server-side-render.min.js?ver=0982eea1efaf70db5d7a28a18b7f8bfa
+1	1	0	0	0	26597378	0	0	26597378	0	0	0	/wp-cron.php?doing_wp_cron=1595770719.6581640243530273437500
+1	2	0	0	0	26596107	0	0	26596056	0	0	2294	/wp-admin/js/media-upload.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	7334	/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=e5de24153978d727a85bc355566df02f
+1	1	0	0	0	26598637	0	0	26598637	0	0	0	/wp-cron.php?doing_wp_cron=1595846263.9509210586547851562500
+1	1	1	0	0	26596135	0	0	26596135	0	0	15710	/?elementor-preview=5&ver=1595696114
+1	15	0	0	0	26598630	0	0	26596178	0	0	3575600	/gammerprolive/assets/images/gameimage/Vfseqhm7i4u3S1v0Zkap.jpg
+1	1	0	0	0	26596056	0	0	26596056	0	0	66711	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,underscore,backbone,wp-util,wp-backbone&ver=5.4.2
+1	13169	0	0	0	26597883	0	0	26596203	0	0	620471	/gammerprolive/webservices/get-assign-team
+1	7	0	0	0	26598634	0	0	26595550	0	0	645442	/gammerprolive/assets/admin_assets/js/summernote.min.js
+1	17	0	0	0	26598620	0	0	26596178	0	0	2626880	/gammerprolive/assets/images/gameimage/TWJF7VmrwSqkZN46HfLP.jpg
+1	1	0	0	0	26596056	0	0	26596056	0	0	3142	/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+1	15	0	0	0	26597693	0	0	26597641	0	0	4158	/gammerprolive/webservices/send-notification
+1	7	0	0	0	26598634	0	0	26595550	0	0	22855	/gammerprolive/assets/admin_assets/js/plugins/metisMenu/jquery.metisMenu.js
+1	24	0	0	0	26598411	0	0	26596109	0	0	233167	/wp-content/uploads/elementor/css/global.css?ver=1595694545
+1	2	0	0	0	26596107	0	0	26596056	0	0	8406	/wp-admin/js/postbox.min.js?ver=5.4.2
+1	3	0	0	0	26596994	0	0	26596064	0	0	162448	/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.7.0
+1	1	0	0	0	26596109	0	0	26596109	0	0	76084	/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+1	1	0	0	0	26596109	0	0	26596109	0	0	54334	/wp-admin/edit.php?post_type=elementor_library&tabs_group=theme&elementor_library_type=header
+1	2	0	0	0	26597570	0	0	26596107	0	0	1801	/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+1	2	0	0	0	26596109	0	0	26596056	0	0	18630	/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	41285	/wp-includes/js/dist/core-data.min.js?ver=30bbd0e8996befdf7ce081c737c9c75c
+1	7	0	0	0	26598634	0	0	26595550	0	0	975821	/gammerprolive/assets/admin_assets/js/plugins/chartJs/Chart.min.js
+1	7	0	0	0	26598634	0	0	26595550	0	0	27587	/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.tooltip.min.js
+1	1	0	0	0	26596110	0	0	26596110	0	0	6122	/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+1	14	0	0	0	26598411	0	0	26596107	0	0	28985	/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14
+1	1	0	0	0	26596055	0	0	26596055	0	0	5312	/wp-admin/css/login.min.css?ver=5.4.2
+1	1	1	0	0	26597570	0	0	26597570	0	0	15974	/?elementor-preview=5&ver=1595782203
+1	15	0	0	0	26598630	0	0	26596178	0	0	1533546	/gammerprolive/assets/images/gameimage/7gtukcQja6x9ZiL1AVzy.jpg
+1	6	0	0	0	26598633	0	0	26595547	0	0	238506	/gammerprolive/assets/admin_assets/font-awesome/css/font-awesome.css
+1	2	0	0	0	26597570	0	0	26596107	0	0	23000	/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js?ver=13.0.0
+1	2	0	0	0	26597570	0	0	26596107	0	0	17222	/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=1.12.0
+1	2	0	0	0	26596107	0	0	26596056	0	0	54442	/wp-includes/css/editor.min.css?ver=5.4.2
+1	7	0	0	0	26598620	0	0	26597321	0	0	928398	/gammerprolive/assets/images/gameimage/49cMPjxzyBo6endsNEhX.jpg
+1	0	0	14	1	0	26598634	26595548	0	26595550	26595548	0	/gammerprolive/admin/LoginController/doLogin
+1	1	0	0	0	26596134	0	0	26596134	0	0	17735	/wp-includes/js/codemirror/htmlhint.js?ver=0.9.14-xwp
+1	1	0	0	0	26596107	0	0	26596107	0	0	14782	/wp-includes/js/dist/media-utils.min.js?ver=591443ff969b73a6db3bc4d8cc57722d
+1	3	3	0	0	26596108	0	0	26596108	0	0	43051	/?page_id=5&elementor-preview=5&ver=1595694494
+1	1	0	0	0	26597310	0	0	26597310	0	0	18294	/gammerprolive/admin/master/edit-filter-details?filter-id=4&game-id=4
+1	1	0	0	0	26596107	0	0	26596107	0	0	385939	/wp-includes/js/dist/block-library.min.js?ver=067800bc020babb22719c7a030bf65d9
+1	13	0	0	0	26596142	0	0	26596115	0	0	10341	/wp-content/uploads/2020/07/ezgif.com-webp-to-png.png
+1	1	0	0	0	26598620	0	0	26598620	0	0	33416	/gammerprolive/admin/master/upload-image?id=4
+1	1	0	0	0	26596107	0	0	26596107	0	0	25202	/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+1	2	0	0	0	26597570	0	0	26596107	0	0	26702	/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.14
+1	1	0	0	0	26596107	0	0	26596107	0	0	706638	/wp-includes/js/dist/components.min.js?ver=90861a4430fed183d94d6750cb7ae6f4
+1	0	0	1	0	0	26596109	0	0	26596109	0	0	/wp-admin/edit.php?post_type=elementor_library&action=elementor_new_post&_wpnonce=157d5cd1bf&template_type=header&_elementor_template_sub_type=&post_data[post_title]=HEADER
+1	2	0	0	0	26597571	0	0	26597570	0	0	9834	/wp-content/uploads/elementor/css/post-5.css?ver=1595782240
+1	1	0	0	0	26596134	0	0	26596134	0	0	3431	/wp-includes/js/mediaelement/wp-playlist.min.js?ver=5.4.2
+1	1	0	0	0	26596064	0	0	26596064	0	0	61933	/wp-admin/plugins.php?plugin_status=all&paged=1&s
+1	2	0	0	0	26597570	0	0	26596107	0	0	18291	/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js?ver=1.4.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	44517	/wp-includes/css/media-views.min.css?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	41049	/wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js
+1	1	0	0	0	26596056	0	0	26596056	0	0	2658	/wp-includes/js/thickbox/thickbox.css?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	35725	/wp-admin/js/updates.min.js?ver=5.4.2
+1	1	1	0	0	26596107	0	0	26596107	0	0	14469	/?page_id=5&elementor-preview=5&ver=1595694474
+1	1	0	0	0	26596107	0	0	26596107	0	0	1664	/wp-includes/js/dist/priority-queue.min.js?ver=8d7738a3dac3e69a70c11e046ecfd5ff
+1	1470	0	0	0	26598628	0	0	26596178	0	0	1476166	/gammerprolive/webservices/get-matchlist
+1	1	0	0	0	26597570	0	0	26597570	0	0	4915	/wp-content/uploads/elementor/css/post-5.css?ver=1595782219
+1	14	0	0	0	26598411	0	0	26596064	0	0	178299	/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0
+1	1	0	0	0	26597740	0	0	26597740	0	0	0	/wp-cron.php?doing_wp_cron=1595792416.8369619846343994140625
+1	1	0	0	0	26596107	0	0	26596107	0	0	19338	/wp-admin/css/media.min.css?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	13163	/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105
+1	7	0	0	0	26598634	0	0	26595550	0	0	882973	/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.js
+1	56	0	0	0	26597657	0	0	26597014	0	0	3518	/gammerprolive/webservices/update-match-play-status
+1	3	0	0	0	26598411	0	0	26596064	0	0	114609	/wp-content/plugins/elementor/assets/js/common.min.js?ver=2.9.14
+1	2	0	0	0	26597570	0	0	26596107	0	0	137811	/wp-content/plugins/elementor/assets/css/editor.min.css?ver=2.9.14
+1	1	0	0	0	26596107	0	0	26596107	0	0	4024	/wp-content/plugins/elementor-pro/assets/js/preview.min.js?ver=2.10.3
+1	1	0	0	0	26596107	0	0	26596107	0	0	1940	/wp-includes/css/wp-auth-check.min.css?ver=5.4.2
+1	14	0	0	0	26598411	0	0	26596064	0	0	117645	/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6
+1	35	0	0	0	26597874	0	0	26597424	0	0	1821	/gammerprolive/webservices/delete-team
+1	1	0	0	0	26596134	0	0	26596134	0	0	106931	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate&ver=5.4.2
+1	1	0	0	0	26596995	0	0	26596995	0	0	68291	/gammerprolive/uploads/images/profile/profile_8_5f1d2d0f7f19b.jpg
+1	7	0	0	0	26598634	0	0	26595550	0	0	87556	/gammerprolive/assets/admin_assets/js/plugins/pace/pace.min.js
+1	6	0	0	0	26598634	0	0	26595550	0	0	41292	/gammerprolive/assets/admin_assets/css/plugins/toastr/toastr.min.css
+1	1	0	0	0	26596055	0	0	26596055	0	0	766	/wp-admin/js/password-strength-meter.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	203523	/wp-includes/js/dist/date.min.js?ver=87f9d64d7050eeeffa6a6f670f0c546e
+1	10	0	7	0	26597332	26597333	0	26597312	26597313	0	238058	/gammerprolive/admin/match/add-match
+1	2	0	0	0	26596107	0	0	26596056	0	0	18414	/wp-includes/js/dist/i18n.min.js?ver=cced130522e86c87a37cd7b8397b882c
+1	4	0	0	0	26598190	0	0	26597349	0	0	312	/gammerprolive/webservices/terms-conditions
+1	1	0	0	0	26596134	0	0	26596134	0	0	27222	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=editor-buttons&ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	5812	/wp-content/plugins/elementor/assets/images/information.svg
+1	0	0	0	7	0	0	26596995	0	0	26596030	0	/gammerprolive/assets/admin_assets/js/parsley.min.js.map
+1	1	0	0	0	26596195	0	0	26596195	0	0	57	/gammerprolive/webservices/user-verification
+1	1	1	0	0	26596134	0	0	26596134	0	0	45702	/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	0	0	0	26596109	0	0	26596109	0	0	1018001	/wp-admin/post.php?post=8&action=elementor
+1	0	0	1	0	0	26596063	0	0	26596063	0	0	/wp-admin/themes.php?action=activate&_wpnonce=7da883f08f&stylesheet=hello-elementor
+1	1	1	0	0	26596134	0	0	26596134	0	0	45738	/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-2&customize_autosaved=on
+1	22	0	0	0	26598411	0	0	26596107	0	0	73051	/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	810187	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,buttons,media-views,editor-buttons,wp-components,wp-block-editor,wp-nux,wp-editor,wp-block-library,wp-block-&load[chunk_1]=library-theme,wp-edit-blocks,wp-edit-post,wp-format-library,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,t&load[chunk_2]=hemes,about,nav-menus,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	3271	/wp-includes/js/dist/data-controls.min.js?ver=01499e0a61256afb555131b4ed614fed
+1	4	4	0	0	26596134	0	0	26596109	0	0	128129	/home/?preview_id=5&preview_nonce=9ce462e573&preview=true
+1	12	0	0	0	26598529	0	0	26596107	0	0	17208	/wp-includes/js/wp-embed.min.js?ver=5.4.2
+1	0	0	0	5	0	0	26598453	0	0	26593112	0	/.well-known/assetlinks.json
+1	1	1	0	0	26596134	0	0	26596134	0	0	45725	/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-3&customize_autosaved=on
+1	1	0	0	0	26596107	0	0	26596107	0	0	8390	/wp-includes/js/dist/dom.min.js?ver=47fe5105eb1c16e22c3970e08b1f0953
+1	1	0	0	0	26598617	0	0	26598617	0	0	15062	/gammerprolive/admin/pages/terms-and-condition
+1	2	0	0	0	26597570	0	0	26596107	0	0	14863	/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.1.3
+1	1	0	0	0	26596107	0	0	26596107	0	0	376768	/wp-includes/js/dist/block-editor.min.js?ver=aacb5c07c68e448af6536df79db8f400
+1	1	0	0	0	26596134	0	0	26596134	0	0	300260	/wp-admin/customize.php?url=https://wow-gaming.com/home/%3Fpreview_id%3D5%26preview_nonce%3D9ce462e573%26preview%3Dtrue
+1	1	0	0	0	26596109	0	0	26596109	0	0	3749	/wp-content/plugins/elementor/templates/13236.json
+1	1	0	0	0	26596107	0	0	26596107	0	0	3791	/wp-includes/js/admin-bar.min.js?ver=5.4.2
+1	2	0	0	0	26596107	0	0	26596056	0	0	5320	/wp-includes/js/shortcode.min.js?ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	1219	/wp-includes/js/dist/dom-ready.min.js?ver=91fc8f05178d5c6365aec778f840ae17
+1	11	0	0	0	26598081	0	0	26596107	0	0	2330174	/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3
+1	1	0	0	0	26596056	0	0	26596056	0	0	8229	/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4
+1	1	0	0	0	26597796	0	0	26597796	0	0	0	/wp-cron.php?doing_wp_cron=1595795793.6086339950561523437500
+1	1	0	0	0	26596134	0	0	26596134	0	0	6242	/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4
+1	381	0	0	10	26597802	0	26597508	26596056	0	26596107	1059229	/wp-admin/admin-ajax.php
+1	1	0	1	0	26596064	26596064	0	26596064	26596064	0	62021	/wp-admin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+1	0	0	0	50	0	0	26597671	0	0	26597470	0	/gammerprolive/uploads/images/profile/profile_5_5f15f646990e0
+1	1	0	0	0	26596109	0	0	26596109	0	0	53308	/wp-admin/edit.php?post_type=elementor_library&tabs_group=theme
+1	1	0	0	0	26596056	0	0	26596056	0	0	2274	/wp-includes/js/dist/a11y.min.js?ver=45f739d280d1244f6cb498ed8f1bf042
+1	7	0	0	0	26598634	0	0	26595550	0	0	45248	/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.spline.js
+1	8	0	0	0	26596134	0	0	26596133	0	0	11133	/wp-content/uploads/elementor/css/post-5.css?ver=1595696031
+1	2	0	0	0	26596054	0	0	26596053	0	0	10252	/wp-admin/css/install.min.css?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	3259	/wp-includes/js/dist/token-list.min.js?ver=f2fd25ef34512e2ebba30cfede36f1da
+1	1	0	0	0	26596107	0	0	26596107	0	0	1193	/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	9714	/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	14170	/wp-admin/css/widgets.min.css?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	805	/wp-includes/js/api-request.min.js?ver=5.4.2
+1	1	0	0	0	26596134	0	0	26596134	0	0	10748	/wp-includes/js/customize-selective-refresh.min.js?ver=5.4.2
+1	2	0	0	0	26596054	0	0	26596053	0	0	15072	/wp-admin/images/spinner-2x.gif
+1	8	0	0	0	26597680	0	0	26596197	0	0	548	/gammerprolive/webservices/user-registration
+1	1	0	0	0	26596992	0	0	26596992	0	0	64617	/gammerprolive/uploads/images/profile/profile_8_5f1d2ba18fa88.jpg
+1	1	0	0	0	26596115	0	0	26596115	0	0	3542	/wp-includes/images/uploader-icons-2x.png
+1	0	0	1	0	0	26597331	0	0	26597331	0	0	/gammerprolive/admin/MasterController/deleteImages/14
+1	1	0	0	0	26596134	0	0	26596134	0	0	5054	/wp-includes/js/customize-preview-nav-menus.min.js?ver=5.4.2
+1	1	0	0	0	26598222	0	0	26598222	0	0	0	/wp-cron.php?doing_wp_cron=1595821334.5178709030151367187500
+1	11	0	0	0	26598081	0	0	26596056	0	0	152911	/wp-includes/js/wp-emoji-release.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	51679	/wp-includes/js/dist/vendor/moment.min.js?ver=2.22.2
+1	7	0	0	0	26598634	0	0	26595550	0	0	30254	/gammerprolive/assets/admin_assets/js/plugins/toastr/toastr.min.js
+1	1	0	0	0	26596055	0	0	26596055	0	0	1835	/wp-admin/setup-config.php?step=2
+1	1	1	0	0	26596118	0	0	26596118	0	0	29714	/home/
+1	1	0	0	0	26598081	0	0	26598081	0	0	0	/wp-cron.php?doing_wp_cron=1595812887.6050500869750976562500
+1	1	0	0	0	26596107	0	0	26596107	0	0	1777	/wp-includes/js/dist/escape-html.min.js?ver=4198c7c0e05a9f34f4126334be746ddd
+1	2	0	0	0	26596055	0	0	26596054	0	0	6764	/wp-admin/setup-config.php?step=1
+1	1	1	0	0	26596055	0	0	26596055	0	0	30845	/2020/07/25/hello-world/
+1	2	0	0	0	26596054	0	0	26596054	0	0	5494	/wp-admin/setup-config.php?step=0
+1	1	0	0	0	26596056	0	0	26596056	0	0	1815	/wp-includes/js/wp-auth-check.min.js?ver=5.4.2
+1	3	0	0	0	26596118	0	0	26596109	0	0	74	/wp-content/uploads/elementor/css/post-5.css?ver=1595694545
+1	1	0	0	0	26596056	0	0	26596056	0	0	5532	/wp-admin/js/svg-painter.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	54925	/wp-includes/js/dist/rich-text.min.js?ver=942ff14b26cac991c71bdc5fd907ea4b
+1	7	0	0	0	26598634	0	0	26595550	0	0	35007	/gammerprolive/assets/admin_assets/js/parsley.extend.js
+1	28	0	0	0	26598627	0	0	26596210	0	0	45916	/gammerprolive/webservices/user-match-history
+1	1	1	0	0	26596594	0	0	26596594	0	0	12152	/author/admin/
+1	1	0	0	0	26596107	0	0	26596107	0	0	4651	/wp-includes/js/dist/viewport.min.js?ver=a1159de92dac2fded88b078b7a172740
+1	38	0	0	0	26598662	0	0	26595550	0	0	1205765	/gammerprolive/admin/dashboard
+1	1	0	0	0	26596109	0	0	26596109	0	0	668	/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+1	9	0	0	0	26598620	0	0	26596200	0	0	448360	/gammerprolive/assets/images/gameimage/WBAVi2pHMgdc8bzRKPvY.jpg
+1	1	0	0	0	26596107	0	0	26596107	0	0	3037	/wp-includes/js/dist/wordcount.min.js?ver=3bd8af3b607ad44d3f7f3c491a33e6bc
+1	1	0	0	0	26596056	0	0	26596056	0	0	355757	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[chunk_1]=,site-icon,l10n,buttons,wp-auth-check&ver=5.4.2
+1	19	0	0	0	26598411	0	0	26596143	0	0	7230	/wp-content/uploads/elementor/css/post-8.css?ver=1595696624
+1	2	0	0	0	26596110	0	0	26596110	0	0	5971	/wp-content/uploads/2020/07/Logo-W.png
+1	1	0	0	0	26596064	0	0	26596064	0	0	0	/wp-cron.php?doing_wp_cron=1595691859.2531321048736572265625
+1	2	0	0	0	26597570	0	0	26596107	0	0	4987	/wp-content/plugins/elementor/assets/lib/tipsy/tipsy.min.js?ver=1.0.0
+1	1	0	0	0	26596134	0	0	26596134	0	0	2854	/wp-includes/css/customize-preview.min.css?ver=5.4.2
+1	1	0	0	0	26597560	0	0	26597560	0	0	0	/wp-cron.php?doing_wp_cron=1595781629.6641979217529296875000
+1	3	0	0	0	26597470	0	0	26597000	0	0	8241	/gammerprolive/uploads/images/profile/profile_17_5f1d2ea9c5cf6.jpg
+1	1	0	0	0	26596064	0	0	26596064	0	0	23971	/wp-includes/js/backbone.min.js?ver=1.4.0
+1	1	0	0	0	26596063	0	0	26596063	0	0	23612	/wp-content/themes/hello-elementor/assets/images/elementor-logo.png
+1	0	0	1	0	0	26598616	0	0	26598616	0	0	/gammerprolive/admin/PageController/updateContactUs
+1	2	0	0	0	26597572	0	0	26596202	0	0	55966	/gammerprolive/uploads/images/profile/profile_16_5f1c738e0e3cc.jpg
+1	1	0	0	0	26596134	0	0	26596134	0	0	88108	/wp-includes/js/plupload/moxie.min.js?ver=1.3.5
+1	8	0	0	0	26598617	0	0	26596023	0	0	159509	/gammerprolive/admin/pages/contact-us
+1	1	0	0	0	26596134	0	0	26596134	0	0	366769	/wp-includes/js/codemirror/csslint.js?ver=1.0.5
+1	1	0	0	0	26598144	0	0	26598144	0	0	0	/wp-cron.php?doing_wp_cron=1595816670.1065189838409423828125
+1	2	0	0	0	26596064	0	0	26596064	0	0	79444	/wp-admin/admin.php?page=elementor-license
+1	1	0	0	0	26596134	0	0	26596134	0	0	585414	/wp-includes/js/codemirror/codemirror.min.js?ver=5.29.1-alpha-ee20357
+1	3	0	0	0	26598411	0	0	26596064	0	0	3753	/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4
+1	1	0	0	0	26596056	0	0	26596056	0	0	108800	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate,utils&ver=5.4.2
+1	0	0	2	0	0	26597310	0	0	26597310	0	0	/gammerprolive/admin/master/update-filter-details
+1	2	0	0	0	26596054	0	0	26596053	0	0	818	/wp-admin/js/language-chooser.min.js?ver=5.4.2
+1	14	0	0	0	26598411	0	0	26596107	0	0	1196063	/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14
+1	6	0	0	0	26597569	0	0	26596187	0	0	19660	/wp-content/uploads/elementor/css/post-5.css?ver=1595697340
+1	1	0	0	0	26596107	0	0	26596107	0	0	602	/wp-json/wp/v2/users/me?_locale=user
+1	1	0	0	0	26596134	0	0	26596134	0	0	463851	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[chunk_1]=,l10n,buttons,customize-controls,customize-widgets,customize-nav-menus,media-views,code-editor&ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	50233	/wp-admin/load-scripts.php?c=0&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,clipboard,underscore,wp-util&ver=5.4.2
+1	1	0	0	0	26596212	0	0	26596212	0	0	23533	/gammerprolive/uploads/images/profile/profile_8_5f1b0bb62df34.jpg
+1	7	0	0	0	26598634	0	0	26595550	0	0	1775767	/gammerprolive/assets/admin_assets/js/plugins/jquery-ui/jquery-ui.min.js
+1	116	0	0	0	26598651	0	0	26597078	0	0	46516	/xmlrpc.php
+1	1	0	0	0	26598281	0	0	26598281	0	0	0	/wp-cron.php?doing_wp_cron=1595824865.9741370677947998046875
+1	1	0	0	0	26596107	0	0	26596107	0	0	1705	/wp-includes/js/dist/is-shallow-equal.min.js?ver=a4b6079b15ec86d646a9228996f79cf7
+1	1	0	0	0	26596064	0	0	26596064	0	0	38017	/wp-admin/admin.php?page=elementor-getting-started
+1	1	0	0	0	26596107	0	0	26596107	0	0	5638	/wp-includes/js/plupload/wp-plupload.min.js?ver=5.4.2
+1	1	0	0	0	26596116	0	0	26596116	0	0	2847	/wp-content/plugins/elementor-pro/modules/theme-builder/assets/images/conditions-tab.svg
+1	1	0	0	0	26597310	0	0	26597310	0	0	18503	/gammerprolive/index.php/admin/master/edit-filter-details?filter-id=3&game-id=4
+1	7	0	0	0	26598634	0	0	26595550	0	0	540120	/gammerprolive/assets/admin_assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+1	2	0	0	0	26597570	0	0	26596107	0	0	17655	/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js?ver=2.9.14
+1	1	0	0	0	26596994	0	0	26596994	0	0	0	/wp-cron.php?doing_wp_cron=1595747649.7850279808044433593750
+1	2	0	0	0	26596109	0	0	26596056	0	0	10098	/wp-admin/js/site-health.min.js?ver=5.4.2
+1	1	0	0	0	26596064	0	0	26596064	0	0	18847	/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4
+1	1	0	0	0	26596056	0	0	26596056	0	0	175535	/wp-content/themes/twentynineteen/screenshot.png
+1	1	0	0	0	26598529	0	0	26598529	0	0	21197	/wp-content/uploads/elementor/css/global.css?ver=1594080000
+1	1	0	0	0	26596064	0	0	26596064	0	0	27989	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,svg-painter&ver=5.4.2
+1	1	0	0	0	26596055	0	0	26596055	0	0	3365	/wp-admin/install.php?step=2
+1	2	0	0	0	26597570	0	0	26596107	0	0	6180	/wp-content/plugins/elementor/assets/images/go-pro.svg
+1	1	0	0	0	26598442	0	0	26598442	0	0	21243	/gammerprolive/admin/master/rules-master
+1	1	0	0	0	26596064	0	0	26596064	0	0	17355	/wp-content/plugins/elementor-pro/assets/css/admin.min.css?ver=2.10.3
+1	2	2	1	0	26596109	26596594	0	26596056	26596594	0	143099	/wp-admin/
+1	1	0	0	0	26596134	0	0	26596134	0	0	1002	/wp-includes/js/codemirror/fakejshint.js?ver=2.9.5
+1	21	0	0	0	26598411	0	0	26596142	0	0	100782	/wp-content/uploads/2020/07/Add-a-heading-1-1.png
+1	2	0	0	0	26596143	0	0	26596142	0	0	1446	/wp-content/uploads/elementor/css/post-8.css?ver=1595696552
+1	2	0	0	0	26597570	0	0	26596107	0	0	15055	/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.14
+1	1	0	0	0	26598582	0	0	26598582	0	0	0	/wp-cron.php?doing_wp_cron=1595842963.3788640499114990234375
+1	7	0	0	0	26598634	0	0	26595550	0	0	23611	/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.resize.js
+1	19	0	0	0	26598633	0	0	26595540	0	0	42280	/gammerprolive/admin/login
+1	2	0	0	0	26596107	0	0	26596056	0	0	22502	/wp-includes/js/wplink.min.js?ver=5.4.2
+1	6	0	0	0	26598630	0	0	26597309	0	0	137506	/gammerprolive/admin/master/create-game
+1	1	0	0	0	26596107	0	0	26596107	0	0	252997	/wp-admin/post-new.php?post_type=page
+1	1	0	0	0	26596109	0	0	26596109	0	0	55753	/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+1	6	0	0	0	26598190	0	0	26597349	0	0	30906	/gammerprolive/webservices/privacy-policy
+1	1	0	0	0	26596107	0	0	26596107	0	0	2044	/wp-admin/js/widgets/media-image-widget.min.js?ver=5.4.2
+1	1	1	0	0	26597025	0	0	26597025	0	0	1649	/feed/
+1	1	0	0	0	26596107	0	0	26596107	0	0	11425	/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131
+1	2	0	0	0	26596107	0	0	26596056	0	0	22386	/wp-includes/js/quicktags.min.js?ver=5.4.2
+1	2	0	0	0	26596132	0	0	26596132	0	0	3806	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1-1-150x53.png
+1	6	0	0	0	26598633	0	0	26595547	0	0	520278	/gammerprolive/assets/admin_assets/js/jquery-3.1.1.min.js
+1	1	0	0	0	26596056	0	0	26596056	0	0	362313	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,site-health,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-poi&load[chunk_1]=nter,widgets,site-icon,l10n,buttons,wp-auth-check&ver=5.4.2
+1	19	0	0	0	26598629	0	0	26596197	0	0	436052	/gammerprolive/admin/match/match-list
+1	24	0	0	0	26598517	0	0	26597575	0	0	161348011	/wowgaming.apk
+1	2	0	0	0	26597570	0	0	26596107	0	0	24313	/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js?ver=1.5.0
+1	1	1	0	0	26596118	0	0	26596118	0	0	15760	/home/?elementor-preview=5&ver=1595695087
+1	2	0	0	0	26596054	0	0	26596053	0	0	4954	/wp-admin/css/l10n.min.css?ver=5.4.2
+1	0	0	44	2	0	26598613	26596021	0	26596066	26595537	0	/favicon.ico
+1	1	0	0	0	26596107	0	0	26596107	0	0	14294	/wp-admin/js/widgets/media-widgets.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	212568	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate,utils,moxiejs,plupload&ver=5.4.2
+1	7	0	0	0	26598634	0	0	26595550	0	0	30275	/gammerprolive/assets/admin_assets/js/plugins/gritter/jquery.gritter.min.js
+1	1	0	0	0	26596107	0	0	26596107	0	0	21375	/wp-includes/css/admin-bar.min.css?ver=5.4.2
+1	26	0	0	0	26598411	0	0	26596120	0	0	39798	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1.png
+1	1	0	0	0	26596134	0	0	26596134	0	0	6256	/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.13-9993131
+1	1	1	0	0	26596107	0	0	26596107	0	0	604	/wp-json/wp/v2/users/?who=authors&per_page=100&_locale=user
+1	1	0	0	0	26596064	0	0	26596064	0	0	27755	/wp-content/plugins/elementor/assets/css/admin.min.css?ver=2.9.14
+1	29	0	0	0	26598613	0	0	26596066	0	0	119451	/wp-includes/images/w-logo-blue-white-bg.png
+1	1	0	0	0	26597588	0	0	26597588	0	0	10874	/gammerprolive/uploads/images/profile/profile_7_5f1db865bc459.jpg
+1	0	0	0	1	0	0	26594490	0	0	26594490	0	/robots.txt?66.249.73.171
+1	1	0	0	0	26596055	0	0	26596055	0	0	16154	/wp-includes/js/underscore.min.js?ver=1.8.3
+1	1	0	0	0	26596107	0	0	26596107	0	0	4079	/wp-includes/js/dist/shortcode.min.js?ver=6b07711152e32e32d3fc082cc7dd632c
+1	1	0	0	0	26596115	0	0	26596115	0	0	0	/wp-cron.php?doing_wp_cron=1595694953.1821360588073730468750
+1	1	0	0	0	26596056	0	0	26596056	0	0	42242	/wp-admin/theme-install.php
+1	1	0	0	0	26598157	0	0	26598157	0	0	0	/wp-cron.php?doing_wp_cron=1595817464.7086470127105712890625
+1	1	0	0	0	26596055	0	0	26596055	0	0	0	/wp-cron.php?doing_wp_cron=1595691349.6906390190124511718750
+1	1	0	0	0	26596107	0	0	26596107	0	0	24193	/wp-includes/js/dist/format-library.min.js?ver=1cceafc98ef77eb54f1da78b10949b4b
+1	1	0	0	0	26596064	0	0	26596064	0	0	30459	/wp-content/plugins/elementor-pro/assets/js/admin.min.js?ver=2.10.3
+1	2	0	0	0	26597570	0	0	26596107	0	0	668	/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0
+1	7	0	0	0	26598634	0	0	26595550	0	0	5579	/gammerprolive/assets/admin_assets/js/demo/peity-demo.js
+1	1	0	0	0	26596107	0	0	26596107	0	0	166857	/wp-includes/js/dist/blocks.min.js?ver=423068d7079f57cf9f02458ccb4a6131
+1	1	0	0	0	26596107	0	0	26596107	0	0	14565	/wp-content/plugins/elementor-pro/assets/css/editor.min.css?ver=2.10.3
+1	2	0	0	0	26597570	0	0	26596107	0	0	215085	/wp-content/plugins/elementor/assets/js/editor-document.min.js?ver=2.9.14
+1	0	0	1	0	0	26596064	0	0	26596064	0	0	/wp-admin/plugins.php?action=activate&plugin=elementor/elementor.php&plugin_status=all&paged=1&s&_wpnonce=d7069b9c31
+1	5	0	0	0	26598595	0	0	26595961	0	0	6003155	/gammerprolive/assets/admin_assets/js/plugins/dataTables/datatables.min.js
+1	1	0	0	0	26596110	0	0	26596110	0	0	661	/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+1	1	1	0	0	26597025	0	0	26597025	0	0	1624	/comments/feed/
+1	1	0	0	0	26596056	0	0	26596056	0	0	6838	/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+1	14	0	0	0	26598411	0	0	26596107	0	0	1530683	/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+1	11	0	0	0	26598620	0	0	26596200	0	0	5980590	/gammerprolive/assets/images/gameimage/5THSYlARgCLW4n9fG7Xi.jpg
+1	1	0	0	0	26596056	0	0	26596056	0	0	5934	/wp-includes/js/heartbeat.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	907	/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4.2
+1	1	0	0	0	26598339	0	0	26598339	0	0	0	/wp-cron.php?doing_wp_cron=1595828356.0336239337921142578125
+1	7	0	0	0	26598634	0	0	26595550	0	0	61551	/gammerprolive/assets/admin_assets/js/inspinia.js
+1	1	0	0	0	26596107	0	0	26596107	0	0	106832	/wp-includes/js/media-views.min.js?ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	5493	/wp-includes/js/dist/keycodes.min.js?ver=46e6adf844a1e989da37d39c64fca9e2
+1	6	0	0	0	26598634	0	0	26595550	0	0	40932	/gammerprolive/assets/admin_assets/css/parsley.css
+1	1	0	0	0	26596056	0	0	26596056	0	0	1	/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6e4ada80e1&1595691368216
+1	1	0	0	0	26596056	0	0	26596056	0	0	39691	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,underscore,wp-util&ver=5.4.2
+1	2	0	0	0	26596054	0	0	26596053	0	0	95116	/wp-includes/css/dashicons.min.css?ver=5.4.2
+1	7	0	0	0	26598620	0	0	26597282	0	0	1171506	/gammerprolive/assets/images/gameimage/oitq59XvG4bPyQgY81nk.jpg
+1	1	0	0	0	26596107	0	0	26596107	0	0	8148	/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	317972	/wp-admin/load-scripts.php?c=1&load[chunk_0]=underscore,jquery-core,jquery-migrate,backbone,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,shortcode,utils,wp-util,wp-backbo&load[chunk_1]=ne,media-models,moxiejs,plupload,wp-plupload,jquery-ui-sortable&ver=5.4.2
+1	1	0	0	0	26596056	0	0	26596056	0	0	53066	/wp-content/themes/twentytwenty/screenshot.png
+1	1	0	0	0	26596055	0	0	26596055	0	0	353	/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+1	15	0	0	0	26598529	0	0	26596107	0	0	1412772	/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14
+1	3	0	0	0	26596995	0	0	26596030	0	0	1626582	/gammerprolive/assets/admin_assets/css/bootstrap.min.css.map
+1	1	0	0	0	26596107	0	0	26596107	0	0	13317	/wp-includes/js/dist/vendor/react.min.js?ver=16.9.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	22456	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar&ver=5.4.2
+1	2	0	0	0	26597570	0	0	26596107	0	0	17222	/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+1	3	0	0	0	26598620	0	0	26597331	0	0	1687128	/gammerprolive/assets/images/gameimage/qNSDf6ZtFh2aOo5y3pYe.png
+1	6	0	0	0	26596137	0	0	26596116	0	0	1899	/wp-content/uploads/elementor/css/post-8.css?ver=1595694991
+1	1	0	0	0	26597331	0	0	26597331	0	0	80345	/gammerprolive/assets/images/gameimage/sgdeINpW8ThJzU4v9VfX.jpg
+1	1	0	0	0	26596107	0	0	26596107	0	0	9908	/wp-includes/js/mce-view.min.js?ver=5.4.2
+1	53	53	3	0	26598529	26596574	0	26594285	26596053	0	1050053	/
+1	3	0	0	0	26598411	0	0	26596064	0	0	45066	/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5
+1	1	0	0	0	26596107	0	0	26596107	0	0	12338	/wp-includes/js/dist/api-fetch.min.js?ver=b437dd9d1118e698b1b85961e759bf03
+1	2	0	0	0	26596109	0	0	26596065	0	0	4500	/wp-admin/js/tags-suggest.min.js?ver=5.4.2
+1	0	0	2	8	0	26598397	26594226	0	26598397	26594224	0	/.git/HEAD
+1	23	0	0	0	26598411	0	0	26596107	0	0	62772	/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0
+1	1	0	0	0	26596107	0	0	26596107	0	0	1435	/wp-admin/load-scripts.php?c=1&load[chunk_0]=wp-embed&ver=5.4.2
+1	1	0	0	0	26596107	0	0	26596107	0	0	1408	/wp-includes/js/dist/html-entities.min.js?ver=81efc2ce02f13b864d66666c7bec2136
+1	2	0	0	0	26597570	0	0	26596107	0	0	25300	/wp-content/plugins/elementor/assets/css/editor-dark-mode.min.css?ver=2.9.14
+1	1	0	0	0	26597310	0	0	26597310	0	0	18501	/gammerprolive/index.php/admin/master/edit-filter-details?filter-id=4&game-id=4
+1	1	0	0	0	26596107	0	0	26596107	0	0	2735	/wp-admin/js/widgets/media-video-widget.min.js?ver=5.4.2
+1	1	0	0	0	26596134	0	0	26596134	0	0	283149	/wp-includes/js/codemirror/esprima.js?ver=4.0.0
+1	3	0	4	1	26596170	26598417	26596184	26596166	26596186	26596184	173	/gammerprolive/admin/transaction/update-withdrawal-details
+1	2	0	0	0	26597570	0	0	26596107	0	0	54354	/wp-content/plugins/elementor/assets/js/editor-modules.min.js?ver=2.9.14
+1	1	0	0	0	26596056	0	0	26596056	0	0	6177	/wp-includes/js/dist/hooks.min.js?ver=552e55b6e60db2edbd9073097f2686f7
+1	15	0	0	0	26598630	0	0	26596178	0	0	4096302	/gammerprolive/assets/images/gameimage/tsKRdFEQu4VcyMT6Xnib.jpg
+1	1	0	0	0	26597987	0	0	26597987	0	0	0	/wp-cron.php?doing_wp_cron=1595807240.7396249771118164062500
+1	0	0	1	0	0	26595550	0	0	26595550	0	0	/gammerprolive/admin/LoginController/logout
+1	1	0	0	0	26597623	0	0	26597623	0	0	0	/wp-cron.php?doing_wp_cron=1595785436.3203449249267578125000
+1	2	0	0	0	26596109	0	0	26596065	0	0	14640	/wp-admin/js/inline-edit-post.min.js?ver=5.4.2
+1	13	0	0	1	26597572	0	26597583	26597569	0	26597583	60333961	/wow_gaming.apk
+1	1	0	0	0	26596107	0	0	26596107	0	0	3796	/wp-admin/js/widgets/media-gallery-widget.min.js?ver=5.4.2
+1	2	0	0	0	26597570	0	0	26596107	0	0	661	/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0
+1	11	0	0	0	26598630	0	0	26596022	0	0	264777	/gammerprolive/admin/users/listing
+1	1	0	0	0	26596107	0	0	26596107	0	0	92333	/wp-content/plugins/elementor-pro/assets/js/editor.min.js?ver=2.10.3
+1	13	0	0	0	26598529	0	0	26596053	0	0	130728	/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+1	233	0	1	0	26598651	26596056	0	26596055	26596056	0	1196162	/wp-login.php
+1	1	0	0	0	26596064	0	0	26596064	0	0	25586	/wp-content/plugins/elementor/assets/js/admin.min.js?ver=2.9.14
+1	1	0	0	0	26596065	0	0	26596065	0	0	63947	/wp-admin/edit.php?post_type=page
+1	1	0	0	0	26596110	0	0	26596110	0	0	14071	/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+1	2	0	0	0	26596109	0	0	26596065	0	0	98536	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,common,hoverintent-js,admin-bar,jquery-ui-core,jquery-ui-widget,jquery-ui-position,jquery-ui-menu&ver=5.4.2
+1	2	0	0	0	26596054	0	0	26596053	0	0	3042	/wp-admin/images/wordpress-logo.svg?ver=20131107
+1	1	0	0	0	26596107	0	0	26596107	0	0	669216	/wp-includes/js/tinymce/wp-tinymce.js?ver=4960-20190918
+1	1	0	0	0	26596056	0	0	26596056	0	0	3931	/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+1	1	0	0	0	26598617	0	0	26598617	0	0	20052	/gammerprolive/admin/pages/privacy-policy
+1	1	0	0	0	26596107	0	0	26596107	0	0	7825	/wp-includes/js/dist/autop.min.js?ver=aa8f88d2344416fcd2f7946cac4d5dd4
+1	4	0	0	0	26596068	0	0	26595535	0	0	135560	/cpanel
+1	1	0	0	0	26597150	0	0	26597150	0	0	0	/wp-cron.php?doing_wp_cron=1595757014.6081950664520263671875
+1	1	0	0	0	26596107	0	0	26596107	0	0	14609	/wp-includes/js/dist/element.min.js?ver=a7bf20cbfb0791e9fc65111e966d5592
+1	1	1	0	0	26596109	0	0	26596109	0	0	14497	/?post_type=elementor_library&p=8&elementor-preview=8&ver=1595694565
+1	3	0	0	0	26598411	0	0	26596064	0	0	66786	/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=2.9.14
+1	4	0	0	0	26598595	0	0	26595961	0	0	25644	/gammerprolive/assets/admin_assets/css/plugins/dataTables/datatables.min.css
+1	2	0	0	0	26596107	0	0	26596056	0	0	19114	/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4
+1	1	0	0	0	26596110	0	0	26596110	0	0	676	/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+1	1	0	0	0	26596107	0	0	26596107	0	0	4481	/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=30e97d4a87a3a28bd9052050ce276b47
+1	28	0	0	0	26598411	0	0	26596132	0	0	94545	/wp-content/uploads/2020/07/ezgif.com-webp-to-png-2.png
+1	1	0	0	0	26596110	0	0	26596110	0	0	2264	/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+1	0	0	4	0	0	26598397	0	0	26598397	0	0	/?elementor_library=header
+1	1	0	0	0	26596107	0	0	26596107	0	0	9775	/wp-content/plugins/elementor/assets/js/gutenberg.min.js?ver=2.9.14
+1	6	0	0	0	26598633	0	0	26595547	0	0	727230	/gammerprolive/assets/admin_assets/css/bootstrap.min.css
+1	1	0	0	0	26596134	0	0	26596134	0	0	1868	/wp-includes/js/utils.min.js?ver=5.4.2
+1	33	0	0	0	26598475	0	0	26597014	0	0	3730	/gammerprolive/webservices/winning-loss-match-update
+1	1	0	0	0	26597213	0	0	26597213	0	0	0	/wp-cron.php?doing_wp_cron=1595760826.2392010688781738281250
+3	0	0	1	0	0	26596594	0	0	26596594	0	0	http://www.wow-gaming.com/wp-login.php
+3	32	0	0	0	26596107	0	0	26596107	0	0	1429369	https://wow-gaming.com/?page_id=5&elementor-preview=5&ver=1595694474
+3	2	0	0	0	26596134	0	0	26596134	0	0	0	https://wow-gaming.com/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-2&customize_autosaved=on
+3	1	0	0	1	26596064	0	26596064	26596064	0	26596064	40126	https://wow-gaming.com/wp-admin/plugins.php?plugin_status=all&paged=1&s
+3	4	3	1	0	26597569	26596053	0	26596021	26596053	0	52326	https://119.18.48.91:2083/
+3	1	0	0	0	26597987	0	0	26597987	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595807240.7396249771118164062500
+3	1	0	0	0	26597310	0	0	26597310	0	0	19575	https://wow-gaming.com/gammerprolive/index.php/admin/master/edit-filter-details?filter-id=4&game-id=4
+3	75	1	0	0	26596107	0	0	26596107	0	0	4977686	https://wow-gaming.com/wp-admin/post-new.php?post_type=page
+3	1	1	0	0	26596055	0	0	26596055	0	0	30845	https://wow-gaming.com/2020/07/25/hello-world/
+3	1	0	0	0	26597623	0	0	26597623	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595785436.3203449249267578125000
+3	3	0	0	0	26597574	0	0	26597570	0	0	14749	https://wow-gaming.com/?preview_id=5&preview_nonce=9f2fda72bc&preview=true
+3	14	0	4	2	26598619	26598417	26596184	26595961	26596165	26596022	2584686	https://wow-gaming.com/gammerprolive/admin/transaction/get-withdrawal-details
+3	1	0	0	0	26598281	0	0	26598281	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595824865.9741370677947998046875
+3	2	0	1	0	26596109	26596109	0	26596109	26596109	0	1018048	https://wow-gaming.com/wp-admin/edit.php?post_type=elementor_library&tabs_group=theme&elementor_library_type=header
+3	25	0	0	0	26596107	0	0	26596065	0	0	312822	https://wow-gaming.com/wp-admin/edit.php?post_type=page
+3	2	0	1	0	26596065	26596064	0	26596064	26596064	0	103265	https://wow-gaming.com/wp-admin/admin.php?page=elementor-license
+3	1	0	0	0	26596994	0	0	26596994	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595747649.7850279808044433593750
+3	17	0	0	0	26598630	0	0	26597312	0	0	1602845	https://wow-gaming.com/gammerprolive/admin/match/match-list
+3	7	0	0	0	26596055	0	0	26596055	0	0	849537	https://wow-gaming.com/wp-admin/install.php?language=en_US
+3	1	0	0	0	26597456	0	0	26597456	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595775395.6460239887237548828125
+3	3	0	0	0	26597312	0	0	26597312	0	0	63038	https://wow-gaming.com/gammerprolive/admin/master/manage-filter-list?game_id=7
+3	2	0	0	0	26597311	0	0	26597311	0	0	42304	https://wow-gaming.com/gammerprolive/admin/master/manage-filter-list?game_id=6
+3	2	0	0	0	26596063	0	0	26596063	0	0	389185	https://wow-gaming.com/wp-admin/themes.php?activated=true
+3	3	0	0	0	26597311	0	0	26597310	0	0	62081	https://wow-gaming.com/gammerprolive/admin/master/manage-filter-list?game_id=5
+3	1	0	0	0	26596056	0	0	26596056	0	0	66	https://wow-gaming.com/wp-admin/themes.php?theme=twentynineteen
+3	5	0	0	0	26596118	0	0	26596118	0	0	1009507	https://wow-gaming.com/home/
+3	1	0	0	0	26597310	0	0	26597310	0	0	19570	https://wow-gaming.com/gammerprolive/index.php/admin/master/edit-filter-details?filter-id=3&game-id=4
+3	3	0	0	0	26597310	0	0	26597309	0	0	59430	https://wow-gaming.com/gammerprolive/admin/master/manage-filter-list?game_id=4
+3	23	5	0	1	26596134	0	26596134	26596134	0	26596134	2571136	https://wow-gaming.com/wp-admin/customize.php?url=https://wow-gaming.com/home/%3Fpreview_id%3D5%26preview_nonce%3D9ce462e573%26preview%3Dtrue
+3	6	0	0	0	26598634	0	0	26595550	0	0	35262	https://wow-gaming.com/gammerprolive/assets/admin_assets/css/style.css
+3	1	0	0	0	26596055	0	0	26596055	0	0	4842	https://wow-gaming.com/wp-admin/install.php?step=2
+3	1	0	0	0	26597150	0	0	26597150	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595757014.6081950664520263671875
+3	1	0	0	0	26597508	0	0	26597508	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595778513.8918540477752685546875
+3	1	0	0	0	26598629	0	0	26598629	0	0	23631	https://wow-gaming.com/gammerprolive/admin/master/upload-image?id=4
+3	1	0	0	0	26596109	0	0	26596109	0	0	3749	https://wow-gaming.com/wp-content/plugins/elementor/templates/13236.json
+3	1	0	0	0	26597740	0	0	26597740	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595792416.8369619846343994140625
+3	4	0	0	0	26596054	0	0	26596053	0	0	18114	https://wow-gaming.com/wp-admin/css/install.min.css?ver=5.4.2
+3	1	0	0	0	26596110	0	0	26596110	0	0	5997	https://wow-gaming.com/wp-content/plugins/elementor/templates/11198.json
+3	2	0	0	0	26596135	0	0	26596135	0	0	0	https://wow-gaming.com/?elementor-preview=5&ver=1595696114
+3	3	0	2	0	26596192	26596190	0	26596188	26596188	0	106309	https://wow-gaming.com/gammerprolive/index.php/admin/transaction/get-withdrawal-details
+3	1	0	0	0	26597213	0	0	26597213	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595760826.2392010688781738281250
+3	1	1	0	0	26596594	0	0	26596594	0	0	12152	http://www.wow-gaming.com///?author=1
+3	1	0	0	0	26598582	0	0	26598582	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595842963.3788640499114990234375
+3	1	0	0	0	26597861	0	0	26597861	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595799715.8467309474945068359375
+3	0	0	0	1	0	0	26597508	0	0	26597508	0	https://wow-gaming.com/wp-json/wp/v2/types/post?context=edit
+3	2	1	1	0	26596056	26596056	0	26596055	26596056	0	67101	https://wow-gaming.com/wp-login.php
+3	9	0	0	0	26596134	0	0	26596134	0	0	47003	https://wow-gaming.com/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-0
+3	1	0	0	0	26596134	0	0	26596134	0	0	863	https://wow-gaming.com/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[chunk_1]=,l10n,buttons,customize-controls,customize-widgets,customize-nav-menus,media-views,code-editor&ver=5.4.2
+3	55	0	0	0	26596594	0	0	26596056	0	0	1477005	https://wow-gaming.com/wp-admin/
+3	2	0	0	0	26596064	0	0	26596064	0	0	47814	https://wow-gaming.com/wp-admin/plugins.php?activate=true&plugin_status=all&paged=1&s=
+3	1	0	0	0	26596109	0	0	26596109	0	0	76084	https://wow-gaming.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+3	10	0	0	0	26597570	0	0	26597570	0	0	0	https://wow-gaming.com/?elementor-preview=5&ver=1595782203
+3	7	0	0	0	26598634	0	0	26595550	0	0	540120	https://wow-gaming.com/gammerprolive/assets/admin_assets/font-awesome/css/font-awesome.css
+3	1	0	0	0	26596187	0	0	26596187	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595699226.7482841014862060546875
+3	48	0	16	1	26598634	26598634	26595548	26595547	26595550	26595548	3220083	https://wow-gaming.com/gammerprolive/admin/login
+3	1	0	0	0	26598443	0	0	26598443	0	0	33073	https://wow-gaming.com/gammerprolive/admin/master/rules-master
+3	1	0	0	0	26598617	0	0	26598617	0	0	19993	https://wow-gaming.com/gammerprolive/admin/pages/terms-and-condition
+3	1	0	0	0	26596056	0	0	26596056	0	0	67	https://wow-gaming.com/wp-admin/themes.php?theme=twentyseventeen
+3	1	0	0	0	26597917	0	0	26597917	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595803059.1710081100463867187500
+3	11	0	3	0	26596064	26596064	0	26596056	26596064	0	767532	https://wow-gaming.com/wp-admin/plugins.php
+3	5	0	0	0	26598595	0	0	26595961	0	0	117120	https://wow-gaming.com/gammerprolive/assets/admin_assets/css/bootstrap.min.css
+3	1	0	0	0	26597329	0	0	26597329	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595767747.5842568874359130859375
+3	40	0	1	0	26598620	26597331	0	26597331	26597331	0	5230188	https://wow-gaming.com/gammerprolive/admin/master/upload-image
+3	7	0	0	0	26598650	0	0	26596022	0	0	195148	https://wow-gaming.com/gammerprolive/admin/transaction/view-wallet-transaction-listing
+3	1	0	0	0	26598458	0	0	26598458	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595835538.6884889602661132812500
+3	1	0	0	0	26596115	0	0	26596115	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595694953.1821360588073730468750
+3	1	0	0	0	26598157	0	0	26598157	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595817464.7086470127105712890625
+3	1	0	0	0	26596055	0	0	26596055	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595691349.6906390190124511718750
+3	113	1	0	3	26596168	0	26596143	26596109	0	26596111	319048	https://wow-gaming.com/wp-admin/post.php?post=8&action=elementor
+3	1	0	0	0	26597796	0	0	26597796	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595795793.6086339950561523437500
+3	1	0	0	0	26598617	0	0	26598617	0	0	15062	https://wow-gaming.com/gammerprolive/admin/pages/privacy-policy
+3	8	0	1	0	26598618	26598616	0	26596023	26598616	0	217204	https://wow-gaming.com/gammerprolive/admin/pages/contact-us
+3	1	0	0	0	26598517	0	0	26598517	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595839039.5754389762878417968750
+3	12	0	0	0	26596109	0	0	26596056	0	0	1250573	https://wow-gaming.com/wp-admin/themes.php
+3	2	0	0	0	26596056	0	0	26596056	0	0	35620	https://wow-gaming.com/wp-admin/theme-install.php?browse=featured
+3	1	0	0	0	26597078	0	0	26597078	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595752724.3377280235290527343750
+3	1	0	1	0	26597310	26597310	0	26597310	26597310	0	18501	https://wow-gaming.com/gammerprolive/admin/master/edit-filter-details?filter-id=4&game-id=4
+3	13	0	0	0	26596064	0	0	26596064	0	0	450809	https://wow-gaming.com/wp-admin/admin.php?page=elementor-getting-started
+3	182	0	9	0	26598662	26597046	0	26595550	26595550	0	6970238	https://wow-gaming.com/gammerprolive/admin/dashboard
+3	10	0	0	0	26596142	0	0	26596109	0	0	71283	https://wow-gaming.com/?post_type=elementor_library&p=8&elementor-preview=8&ver=1595694565
+3	1	0	0	0	26598339	0	0	26598339	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595828356.0336239337921142578125
+3	1	0	0	0	26596055	0	0	26596055	0	0	6272	https://wow-gaming.com/wp-admin/setup-config.php?step=2
+3	1	0	0	0	26597378	0	0	26597378	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595770719.6581640243530273437500
+3	8	0	1	0	26596063	26596063	0	26596056	26596063	0	52540	https://wow-gaming.com/wp-admin/theme-install.php?search=hello
+3	1	0	0	0	26596055	0	0	26596055	0	0	1835	https://wow-gaming.com/wp-admin/setup-config.php?step=1
+3	18	0	0	0	26596054	0	0	26596053	0	0	391132	https://wow-gaming.com/wp-admin/setup-config.php
+3	2	0	0	0	26596055	0	0	26596054	0	0	6764	https://wow-gaming.com/wp-admin/setup-config.php?step=0
+3	6	0	0	0	26596109	0	0	26596109	0	0	116165	https://wow-gaming.com/wp-admin/edit.php?post_type=elementor_library&tabs_group=theme
+3	1	0	0	0	26597259	0	0	26597259	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595763585.6554520130157470703125
+3	1	0	0	0	26598637	0	0	26598637	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595846263.9509210586547851562500
+3	9	0	6	0	26598630	26597047	0	26596023	26597047	0	2562480	https://wow-gaming.com/gammerprolive/admin/users/listing
+3	1	0	0	0	26598222	0	0	26598222	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595821334.5178709030151367187500
+3	0	0	0	1	0	0	26595537	0	0	26595537	0	https://wow-gaming.com/cpanel
+3	1	0	0	0	26598081	0	0	26598081	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595812887.6050500869750976562500
+3	345	11	0	3	26597802	0	26596124	26596107	0	26596107	3247178	https://wow-gaming.com/wp-admin/post.php?post=5&action=elementor
+3	1	0	1	0	26597310	26597310	0	26597310	26597310	0	18503	https://wow-gaming.com/gammerprolive/admin/master/edit-filter-details?filter-id=3&game-id=4
+3	1	0	0	0	26597025	0	0	26597025	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595749531.5485999584197998046875
+3	432	1	23	3	26598529	26598144	26596039	26596134	26596134	26596021	170754070	https://wow-gaming.com/
+3	4	0	0	0	26596108	0	0	26596107	0	0	2020640	https://wow-gaming.com/wp-admin/post.php?post=5&action=edit
+3	1	0	0	0	26596064	0	0	26596064	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595691859.2531321048736572265625
+3	1	0	0	0	26597560	0	0	26597560	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595781629.6641979217529296875000
+3	0	0	0	3	0	0	26597508	0	0	26597508	0	https://wow-gaming.com/wp-admin/admin-ajax.php
+3	2	2	0	0	26596108	0	0	26596108	0	0	28582	https://wow-gaming.com/?page_id=5&elementor-preview=5&ver=1595694494
+3	4	0	0	0	26596132	0	0	26596120	0	0	0	https://wow-gaming.com/home/?elementor-preview=5&ver=1595695087
+3	1	0	0	0	26596056	0	0	26596056	0	0	66711	https://wow-gaming.com/wp-admin/theme-install.php
+3	22	0	7	0	26597333	26597333	0	26597312	26597313	0	322049	https://wow-gaming.com/gammerprolive/admin/match/add-match
+3	1	0	0	0	26596521	0	0	26596521	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595719314.9680190086364746093750
+3	19	0	0	0	26598631	0	0	26597309	0	0	2479104	https://wow-gaming.com/gammerprolive/admin/master/create-game
+3	3	0	0	0	26596994	0	0	26596064	0	0	162448	https://wow-gaming.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0
+3	1	0	0	0	26596056	0	0	26596056	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595691367.1755340099334716796875
+3	7	0	1	0	26597046	26597046	0	26597046	26597046	0	574873	http://wow-gaming.com/gammerprolive/admin/login
+3	1	0	0	0	26596134	0	0	26596134	0	0	0	https://wow-gaming.com/home/?preview_id=5&preview_nonce=9ce462e573&preview=true&customize_changeset_uuid=80f09de3-9575-4def-9e56-ac341cd380c9&customize_theme=hello-elementor&customize_messenger_channel=preview-1&customize_autosaved=on
+3	1	0	0	0	26598144	0	0	26598144	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595816670.1065189838409423828125
+3	1	0	0	0	26597681	0	0	26597681	0	0	0	https://wow-gaming.com/wp-cron.php?doing_wp_cron=1595788885.4694619178771972656250
+3	2	0	0	0	26596115	0	0	26596115	0	0	11078	https://wow-gaming.com/wp-includes/css/media-views.min.css?ver=5.4.2
+3	19	1	0	0	26596134	0	0	26596109	0	0	407185	https://wow-gaming.com/home/?preview_id=5&preview_nonce=9ce462e573&preview=true
+4	3769	0	0	42	26598468	0	26597587	26596998	0	26597470	7948092	Dalvik/2.1.0 (Linux; U; Android 10; RMX1992 Build/QKQ1.191201.002)
+4	1	1	0	0	26596935	0	0	26596935	0	0	19251	Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+4	2	0	0	5	26596995	0	26596995	26596030	0	26596030	1084388	Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+4	1	1	0	0	26596414	0	0	26596414	0	0	19251	Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+4	1	0	0	0	26597572	0	0	26597572	0	0	500	Mozilla/5.0 (Linux; Android 4.4.4; MI 3C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36
+4	2	1	1	0	26598144	26598144	0	26598144	26598144	0	19320	Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.4-g
+4	1	0	0	0	26597571	0	0	26597571	0	0	0	Mozilla/5.0 (Linux; Android 4.2.2; HM NOTE 1TD) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 baidubrowser/5.3.4.0 (Baidu; P1 4.3.1) tieba/6.5.8 BMW
+4	1	0	0	0	26597609	0	0	26597609	0	0	12893803	Mozilla/5.0 (Linux; U; Android 4.1.2; zh-cn; SCH-N719 Build/JZO54K) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrowser/5.4 TBS/025410 Mobile Safari/533.1 MicroMessenger/6.1.0.66_r1062275.542 NetType/CTNET
+4	13250	0	0	0	26597731	0	0	26596178	0	0	12560945	Dalvik/2.1.0 (Linux; U; Android 10; SM-G973F Build/QP1A.190711.020)
+4	18	0	0	0	26598475	0	0	26597424	0	0	14714	PostmanRuntime/7.26.2
+4	0	0	0	1	0	0	26597583	0	0	26597583	0	Mozilla/5.0 (Linux; U; Android 4.1.1; zh-CN; HTC T528d Build/JRO03H) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrowser/9.9.2.467 U3/0.8.0 Mobile Safari/533.1
+4	125	11	15	0	26597575	26597047	0	26596134	26596134	0	29934611	Mozilla/5.0 (Linux; Android 10; RMX1992) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+4	1289	0	0	0	26597584	0	0	26597579	0	0	1459163	Dalvik/2.1.0 (Linux; U; Android 10; SM-G965F Build/QP1A.190711.020)
+4	25	0	0	8	26597680	0	26597671	26597584	0	26597584	1675623	Dalvik/2.1.0 (Linux; U; Android 7.1.1; CPH1723 Build/N6F26Q)
+4	1	1	0	1	26594490	0	26594490	26594490	0	26594490	623	Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+4	63	2	6	0	26598081	26598081	0	26597591	26597592	0	60232222	Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g
+4	1	1	0	0	26596998	0	0	26596998	0	0	19251	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+4	1	0	0	0	26596597	0	0	26596597	0	0	5231	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.98 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	4	2	0	7	26598529	0	26598453	26596592	0	26593112	38705	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	1855	0	0	0	26598628	0	0	26596195	0	0	5080373	Dalvik/2.1.0 (Linux; U; Android 9; vivo 1909 Build/PKQ1.190302.001)
+4	1	0	0	0	26597609	0	0	26597609	0	0	500	Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-S5830 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MicroMessenger/5.3.0.80_r701542.440
+4	1	1	1	0	26596545	26596574	0	26596545	26596574	0	19251	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	1	0	0	0	26597609	0	0	26597609	0	0	12893803	Mozilla/5.0 (Linux; U; Android 4.1.2; zh-CN; Coolpad 5891Q Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.2.1.550 U3/0.8.0 Mobile Safari/534.30
+4	1	0	0	0	26597609	0	0	26597609	0	0	0	Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM-N9002 Build/KOT49H) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrowser/5.5 Mobile Safari/533.1 MicroMessenger/6.0.0.56_r856074.501 NetType/WIFI
+4	2	0	2	0	26598613	26598613	0	26598529	26598529	0	8238	Googlebot-Image/1.0
+4	1344	38	50	27	26598634	26598634	26596184	26595537	26595550	26595537	60472723	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+4	1	0	0	0	26597609	0	0	26597609	0	0	500	Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM-N9008S Build/KOT49H) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrowser/5.5 Mobile Safari/533.1 MicroMessenger/6.0.0.57_r870003.501 NetType/WIFI
+4	3	0	0	0	26597656	0	0	26595551	0	0	2233	WhatsApp/2.20.193.9 A
+4	1	0	0	0	26597572	0	0	26597572	0	0	500	Mozilla/5.0 (Linux; U; Android 4.2.1; zh-cn; C2 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30; 360 Aphone Browser Engine (900002)
+4	37	1	0	4	26598637	0	26597508	26596055	0	26597508	40591	WordPress/5.4.2; https://wow-gaming.com
+4	1	0	0	0	26597572	0	0	26597572	0	0	501	Mozilla/5.0 (Linux; Android 4.4.2; PE-TL10 Build/HuaweiPE-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 SogouMSESDK hot_sdk_1.5.0
+4	31	1	1	0	26597577	26597577	0	26597577	26597577	0	26892661	Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945.136 Mobile Safari/537.36
+4	1	0	0	0	26597572	0	0	26597572	0	0	12891192	Mozilla/5.0 (Linux; U; Android 4.2.2; zh-cn; Coolpad 8970L Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 MApi 1.0 (com.dianping.v1 7.0.0 om_sd_91zs Coolpad_8970L; Android 4.2.2) MApi 1.0 (com.dianping.v1 7.0.0 om_sd_91zs Coolpad_8970L; Android 4.2.2) efte/1.0 (efte-for-android)
+4	1	1	0	0	26596596	0	0	26596596	0	0	19251	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	9	0	0	0	26598529	0	0	26596607	0	0	502307	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/84.0.4147.98 Safari/537.36
+4	9	4	0	0	26598517	0	0	26596760	0	0	12935915	Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+4	1	1	0	0	26597180	0	0	26597180	0	0	19251	Mozilla/5.0 (Windows NT 9.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3731.88 Safari/537.36
+4	1	0	0	0	26597609	0	0	26597609	0	0	501	Mozilla/5.0 (Linux; U; Android 4.0.4; zh-cn; Lenovo S890 Build/IMM76D) AppleWebKit/534.24 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.24 T5/2.0 baidubrowser/5.6.4.0 (Baidu; P1 4.0.4)
+4	81	0	3	0	26598662	26598616	0	26598594	26598594	0	7227806	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+4	350	1	1	0	26598651	26596594	0	26596594	26596594	0	1254918	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+4	204	0	0	0	26598574	0	0	26597593	0	0	2432804	Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 Pro MIUI/V11.0.4.0.QGGINXM)
+4	117	4	5	0	26597609	26597609	0	26596187	26596187	0	51690389	Mozilla/5.0 (Linux; Android 9; vivo 1909 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.5.0.1
+4	1	1	0	0	26594285	0	0	26594285	0	0	623	Mozilla/5.0 (Windows N\\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+4	5	3	0	0	26598411	0	0	26595535	0	0	57829	WhatsApp/2.20.195.15 A
+4	6	0	0	0	26597609	0	0	26597571	0	0	347535	AHC/1.0
+5	3	0	0	0	26598442	0	0	26598442	0	0	10671	35.221.26.149
+5	3	0	0	0	26597329	0	0	26597329	0	0	10671	167.99.90.240
+5	3	0	0	0	26598473	0	0	26598473	0	0	10671	217.115.118.36
+5	3	0	0	0	26598242	0	0	26598242	0	0	10671	64.225.73.186
+5	3	0	0	0	26597091	0	0	26597091	0	0	10671	3.122.125.205
+5	3	0	0	0	26597535	0	0	26597535	0	0	10671	128.199.245.33
+5	1393	7	4	11	26598468	26598426	26597587	26597561	26598411	26597561	41527988	202.173.125.178
+5	3	0	0	0	26597940	0	0	26597940	0	0	10671	132.148.167.225
+5	3	0	0	0	26597883	0	0	26597883	0	0	10671	54.38.65.127
+5	3	0	0	0	26597237	0	0	26597237	0	0	10671	167.99.123.34
+5	3	0	0	0	26597571	0	0	26597571	0	0	10671	212.116.102.246
+5	3	0	0	0	26598637	0	0	26598637	0	0	10671	96.125.168.246
+5	3	0	0	0	26597429	0	0	26597429	0	0	10671	103.6.244.158
+5	6	0	0	0	26597731	0	0	26597634	0	0	21342	210.57.208.9
+5	3	0	0	0	26598180	0	0	26598180	0	0	10671	157.245.62.18
+5	3	0	0	0	26597459	0	0	26597458	0	0	10671	159.89.162.186
+5	3	0	0	0	26598596	0	0	26598596	0	0	10671	198.211.100.116
+5	3	0	0	0	26598349	0	0	26598349	0	0	10671	206.189.183.152
+5	3	0	0	0	26597306	0	0	26597306	0	0	10671	178.128.82.148
+5	1	1	0	0	26594285	0	0	26594285	0	0	623	69.25.58.61
+5	1	0	0	0	26597609	0	0	26597609	0	0	3619	149.129.136.157
+5	93	0	0	0	26597657	0	0	26597652	0	0	49269	47.30.191.185
+5	0	0	0	1	0	0	26597583	0	0	26597583	0	112.60.1.73
+5	3	0	0	0	26598609	0	0	26598609	0	0	10671	37.187.73.206
+5	6	0	0	0	26597975	0	0	26597456	0	0	21342	142.4.4.229
+5	1543	1	1	0	26596211	26596187	0	26596187	26596187	0	3278895	157.49.98.90
+5	102	0	0	20	26597476	0	26597486	26597470	0	26597470	1379658	47.30.159.34
+5	851	36	17	14	26596193	26596143	26596143	26595535	26596021	26596021	30908003	45.118.159.80
+5	4	0	0	0	26597609	0	0	26597571	0	0	340402	149.129.136.147
+5	1	0	0	1	26598613	0	26594031	26598613	0	26594031	4119	66.249.69.238
+5	3	0	0	0	26597840	0	0	26597840	0	0	10671	35.234.28.121
+5	3	0	0	0	26597403	0	0	26597403	0	0	10671	188.68.37.192
+5	3	0	0	1	26598529	0	26594031	26598453	0	26594031	214671	66.249.69.236
+5	3	0	0	0	26597329	0	0	26597329	0	0	10671	161.35.104.69
+5	8	1	2	3	26598529	26598613	26598453	26598529	26598529	26595208	257549	66.249.69.234
+5	3	0	0	0	26597710	0	0	26597710	0	0	10671	157.245.133.78
+5	3	0	0	0	26598571	0	0	26598571	0	0	10671	104.238.94.60
+5	39	0	0	8	26598475	0	26597671	26597584	0	26597584	1687475	106.207.27.82
+5	3	0	0	0	26598623	0	0	26598623	0	0	10671	37.28.157.162
+5	359	0	0	0	26597467	0	0	26597415	0	0	959768	47.30.134.182
+5	3	0	0	0	26597768	0	0	26597768	0	0	10671	154.0.168.71
+5	1320	1	1	0	26597584	26597577	0	26597577	26597577	0	28351824	223.185.131.239
+5	3	0	0	0	26597306	0	0	26597306	0	0	10671	104.131.81.54
+5	3	0	0	0	26597998	0	0	26597998	0	0	10671	195.167.159.161
+5	1	0	0	0	26597571	0	0	26597571	0	0	3514	149.129.146.231
+5	3	0	0	0	26597110	0	0	26597110	0	0	10671	138.197.101.254
+5	3	0	0	0	26597724	0	0	26597723	0	0	10671	18.217.151.134
+5	3	0	0	0	26598390	0	0	26598390	0	0	10671	157.230.248.89
+5	3	0	0	0	26597495	0	0	26597495	0	0	10671	138.197.179.94
+5	3	0	0	0	26597078	0	0	26597078	0	0	10671	157.245.139.32
+5	3	0	0	0	26597874	0	0	26597874	0	0	10671	159.65.185.253
+5	3	0	0	0	26597800	0	0	26597800	0	0	10671	178.62.76.138
+5	3	0	0	0	26597215	0	0	26597215	0	0	10671	159.203.37.43
+5	3	0	0	0	26597595	0	0	26597594	0	0	10671	18.188.210.51
+5	3	0	0	0	26598148	0	0	26598147	0	0	10671	150.95.152.199
+5	3	0	0	0	26597652	0	0	26597652	0	0	10671	213.212.132.47
+5	37	1	0	4	26598637	0	26597508	26596055	0	26597508	40591	119.18.48.91
+5	3	0	0	0	26597749	0	0	26597749	0	0	10671	163.44.198.31
+5	945	4	21	3	26597469	26597333	26596995	26596994	26596994	26596995	14192250	45.118.159.155
+5	1	1	0	0	26594490	0	0	26594490	0	0	623	54.36.149.83
+5	3	0	0	0	26597780	0	0	26597780	0	0	10671	167.172.68.76
+5	7	0	0	0	26598459	0	0	26597193	0	0	21743	45.127.106.204
+5	3	0	0	0	26597130	0	0	26597130	0	0	10671	113.161.176.157
+5	32	0	1	0	26598634	26598634	0	26598633	26598634	0	1565945	45.118.159.14
+5	1	1	0	0	26596414	0	0	26596414	0	0	19251	83.43.117.83
+5	1	1	0	0	26596935	0	0	26596935	0	0	19251	46.229.168.143
+5	6	0	0	0	26598360	0	0	26597929	0	0	21342	138.68.236.156
+5	1	0	0	0	26596597	0	0	26596597	0	0	5231	66.249.64.207
+5	3	0	0	0	26598651	0	0	26598651	0	0	10671	122.117.44.59
+5	1	1	0	0	26596606	0	0	26596606	0	0	19251	66.249.64.205
+5	3	0	0	0	26598309	0	0	26598309	0	0	10671	77.83.173.167
+5	3	1	0	1	26596607	0	26596593	26596592	0	26596593	72911	66.249.64.203
+5	3	0	0	0	26597851	0	0	26597851	0	0	10671	13.211.176.220
+5	2	0	0	0	26598517	0	0	26598517	0	0	12893870	207.180.219.145
+5	3	0	0	0	26597259	0	0	26597259	0	0	10671	139.59.78.248
+5	3	0	0	0	26597831	0	0	26597830	0	0	10671	192.169.200.145
+5	3	0	0	0	26598413	0	0	26598413	0	0	10671	52.80.20.135
+5	0	0	0	1	0	0	26593112	0	0	26593112	0	66.249.73.171
+5	3	0	0	0	26597661	0	0	26597661	0	0	10671	111.92.240.206
+5	0	0	0	1	0	0	26594226	0	0	26594226	0	93.158.66.49
+5	0	0	0	1	0	0	26594224	0	0	26594224	0	93.158.66.50
+5	0	0	0	2	0	0	26594226	0	0	26594225	0	93.158.66.48
+5	2	2	3	0	26598397	26598397	0	26598397	26598397	0	38640	93.158.66.47
+5	27	0	0	0	26598628	0	0	26598617	0	0	151980	157.49.124.60
+5	2	2	3	0	26598397	26598397	0	26598397	26598397	0	38640	93.158.66.45
+5	0	0	0	1	0	0	26594225	0	0	26594225	0	93.158.66.44
+5	0	0	0	3	0	0	26594224	0	0	26594224	0	93.158.66.43
+5	9	0	0	0	26598490	0	0	26597261	0	0	32013	167.99.78.164
+5	3	0	0	0	26597194	0	0	26597194	0	0	10671	64.202.184.249
+5	3	0	0	0	26598270	0	0	26598270	0	0	10671	35.204.80.82
+5	2	1	1	0	26596594	26596594	0	26596594	26596594	0	17082	5.253.25.217
+5	12	2	2	0	26596194	26596194	0	26596193	26596194	0	51655	47.31.71.153
+5	3	0	0	0	26597905	0	0	26597905	0	0	10671	31.172.238.173
+5	3	0	0	0	26597613	0	0	26597613	0	0	10671	54.224.187.228
+5	3	0	0	0	26597281	0	0	26597281	0	0	10671	165.227.86.14
+5	3	0	0	0	26597430	0	0	26597430	0	0	10671	51.68.34.141
+5	1	1	0	0	26597180	0	0	26597180	0	0	19251	119.3.24.235
+5	6	0	0	0	26597609	0	0	26597609	0	0	25789107	58.250.137.194
+5	3	0	0	0	26597917	0	0	26597917	0	0	10671	138.197.194.207
+5	3	0	0	0	26597238	0	0	26597238	0	0	10671	134.122.102.200
+5	2	1	0	0	26596760	0	0	26596760	0	0	19318	162.210.196.129
+5	3	0	0	0	26597095	0	0	26597095	0	0	10671	139.59.75.162
+5	3	0	0	0	26597623	0	0	26597623	0	0	10671	35.200.180.182
+5	36	0	0	0	26598574	0	0	26598530	0	0	21630	1.186.151.204
+5	3	0	0	0	26598189	0	0	26598189	0	0	10671	91.206.200.144
+5	3	0	0	0	26598582	0	0	26598582	0	0	10671	208.109.53.185
+5	1291	0	0	11	26597568	0	26597565	26597561	0	26597561	1114519	47.30.148.30
+5	3	0	0	0	26598262	0	0	26598262	0	0	10671	91.98.102.86
+5	3	0	0	0	26597895	0	0	26597895	0	0	10671	52.166.4.83
+5	1	1	1	0	26596545	26596574	0	26596545	26596574	0	19251	62.210.5.253
+5	3	0	0	0	26597466	0	0	26597466	0	0	10671	138.197.131.66
+5	3	0	0	0	26597404	0	0	26597404	0	0	10671	165.22.210.69
+5	6	0	0	0	26598212	0	0	26597740	0	0	21342	188.165.234.92
+5	137	0	17	15	26597435	26596190	26596184	26595537	26595550	26595537	6599456	106.207.51.172
+5	3	0	0	0	26597951	0	0	26597951	0	0	10671	192.241.194.230
+5	3	0	0	0	26598281	0	0	26598281	0	0	10671	138.197.95.2
+5	6	0	0	0	26598222	0	0	26597819	0	0	21342	173.236.224.115
+5	2	1	0	0	26598149	0	0	26598148	0	0	19387	162.210.196.100
+5	3	0	0	0	26597354	0	0	26597354	0	0	10671	185.237.85.21
+5	3	0	0	0	26598251	0	0	26598251	0	0	10671	72.167.222.102
+5	3	0	0	0	26597214	0	0	26597214	0	0	10671	164.132.48.179
+5	6	0	0	0	26597154	0	0	26597133	0	0	21342	148.72.209.191
+5	13287	3	3	0	26597731	26596151	0	26596150	26596150	0	13715172	103.216.140.123
+5	3	0	0	0	26597987	0	0	26597987	0	0	10671	66.115.173.18
+5	3	0	0	0	26597548	0	0	26597548	0	0	10671	188.166.222.27
+5	3	0	0	0	26597508	0	0	26597508	0	0	10671	118.69.108.35
+5	6	0	0	0	26597760	0	0	26597560	0	0	21342	167.71.216.37
+5	3	0	0	0	26598300	0	0	26598300	0	0	10671	188.166.60.138
+5	3	0	0	0	26597113	0	0	26597113	0	0	10671	35.224.216.78
+5	3	0	0	0	26598231	0	0	26598231	0	0	10671	104.210.150.110
+5	3	2	0	0	26597025	0	0	26597025	0	0	3340	192.151.145.178
+5	3	0	0	0	26598291	0	0	26598291	0	0	10671	47.114.151.29
+5	3	0	0	0	26597523	0	0	26597523	0	0	10671	46.101.150.9
+5	3	0	0	0	26597584	0	0	26597584	0	0	10671	120.79.180.193
+5	3	0	0	0	26597643	0	0	26597643	0	0	10671	74.208.228.35
+5	3	0	0	0	26597150	0	0	26597150	0	0	10671	52.237.72.57
+5	3	0	0	0	26597701	0	0	26597701	0	0	10671	206.189.85.88
+5	233	3	7	0	26598191	26598144	0	26597591	26597592	0	62662716	202.140.36.198
+5	6	0	0	0	26598380	0	0	26598157	0	0	21342	47.244.226.247
+5	0	0	0	1	0	0	26594490	0	0	26594490	0	54.36.148.220
+5	1	1	0	0	26596998	0	0	26596998	0	0	19251	44.234.60.101
+5	3	0	0	0	26598201	0	0	26598201	0	0	10671	157.245.106.153
+5	3	0	0	0	26598170	0	0	26598170	0	0	10671	157.230.234.117
+5	3	0	0	0	26597671	0	0	26597671	0	0	10671	159.203.176.82
+5	3	0	0	0	26597174	0	0	26597174	0	0	10671	182.92.156.152
+5	2	0	0	0	26597193	0	0	26597193	0	0	10270	114.143.247.174
+5	3	0	0	0	26597282	0	0	26597282	0	0	10671	149.202.8.66
+5	6	0	0	0	26598339	0	0	26597171	0	0	21342	148.72.210.140
+5	6	0	0	0	26597681	0	0	26597379	0	0	21342	198.211.108.68
+5	5	0	0	0	26597572	0	0	26597571	0	0	12892693	113.96.218.51
+5	3	0	0	0	26597690	0	0	26597690	0	0	10671	176.56.62.144
+5	14	0	0	0	26598662	0	0	26598629	0	0	1434114	103.117.239.5
+5	28	1	1	0	26596521	26596521	0	26596521	26596521	0	1104983	103.117.239.4
+5	3	0	0	0	26597861	0	0	26597861	0	0	10671	145.239.78.143
+5	441	2	6	0	26598620	26598616	0	26597571	26597571	0	58028596	103.117.239.3
+5	3	0	0	0	26597479	0	0	26597479	0	0	10671	167.71.63.47
+5	3	0	0	0	26598329	0	0	26598329	0	0	10671	132.148.28.20
+z	0	250	0	26598637	0
+z	1	2	0	26596107	2
+z	2	17903	0	26598530	934656
+z	3	2092	4	26598651	1039774
+z	4	1506	5	26598651	4692726
+z	5	571	71	26598662	21511649
+z	6	270	0	26598634	64846572
+z	7	17	0	26598595	62160794
+z	8	13	0	26598517	167608995
+c	200	22390	26598662
+c	206	22	26597609
+c	301	7	26598397
+c	302	54	26598613
+c	303	28	26598634
+c	304	212	26598443
+c	307	2	26597331
+c	400	3	26597508
+c	401	1	26597508
+c	404	87	26598453
+c	500	12	26596184

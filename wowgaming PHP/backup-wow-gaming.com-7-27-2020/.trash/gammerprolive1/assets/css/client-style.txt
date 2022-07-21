@@ -1,0 +1,5 @@
+.client-login{
+	background: url(../img/sign-upback.jpg) no-repeat;
+    background-size: cover;
+    padding: 50px 0px 35px;
+}

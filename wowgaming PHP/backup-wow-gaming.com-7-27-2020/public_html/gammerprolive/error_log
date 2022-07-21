@@ -1,0 +1,4 @@
+[07-Jul-2020 15:39:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/shopom/public_html/gammerprolive/application/config/database.php on line 83
+[10-Jul-2020 00:42:12 UTC] PHP Fatal error:  Cannot redeclare Users::getTermsConditions() in /home/shopom/public_html/gammerprolive/application/controllers/webservices/Users.php on line 93
+[16-Jul-2020 12:01:33 UTC] PHP Fatal error:  Cannot redeclare Match::matchList() in /home/shopom/public_html/gammerprolive/application/controllers/webservices/Match.php on line 48
+[16-Jul-2020 12:02:12 UTC] PHP Fatal error:  Cannot redeclare Match::matchList() in /home/shopom/public_html/gammerprolive/application/controllers/webservices/Match.php on line 48

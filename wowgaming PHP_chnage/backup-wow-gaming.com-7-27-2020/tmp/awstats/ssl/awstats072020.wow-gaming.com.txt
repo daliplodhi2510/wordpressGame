@@ -1,0 +1,512 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/wowgaming/tmp/awstats/ssl/awstats.wow-gaming.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2707                
+POS_VISITOR 8149                
+POS_DAY 13587               
+POS_DOMAIN 3541                
+POS_LOGIN 4137                
+POS_ROBOT 4292                
+POS_WORMS 4718                
+POS_EMAILSENDER 4849                
+POS_EMAILRECEIVER 4992                
+POS_SESSION 13751               
+POS_SIDER 13948               
+POS_FILETYPES 5127                
+POS_DOWNLOADS 5461                
+POS_OS 5509                
+POS_BROWSER 5672                
+POS_SCREENSIZE 6007                
+POS_UNKNOWNREFERER 6081                
+POS_UNKNOWNREFERERBROWSER 6335                
+POS_ORIGIN 6584                
+POS_SEREFERRALS 6723                
+POS_PAGEREFS 6867                
+POS_SEARCHWORDS 7075                
+POS_KEYWORDS 7227                
+POS_MISC 2370                
+POS_ERRORS 7286                
+POS_CLUSTER 3993                
+POS_SIDER_404 7456                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200727070228 11505 2237846 19254145098256
+FirstTime 20200724060531
+LastTime 20200727070228
+LastUpdate 20200727070909 11505 0 11505 0 0
+TotalVisits 168                 
+TotalUnique 126                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 126                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 44 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 19 64026 0 0 0
+1 16 16 53355 1 2 0
+2 22 45 261812 13 15 96531
+3 43 127 4770042 2605 2632 4765659
+4 20 50 2915097 2908 2927 13890257
+5 40 72 3090794 1709 1710 231519
+6 61 106 5927910 1236 1239 275102
+7 14 14 70725 227 227 156193
+8 80 106 4872056 310 312 514919
+9 12 12 99793 101 104 324150
+10 30 61 2923468 321 325 904448
+11 103 220 8988278 273 302 5147879
+12 337 765 104100765 2716 2771 43303354
+13 163 326 83083850 5106 5157 26416785
+14 32 32 68085 2182 2195 2504307
+15 26 26 72240 308 308 14476
+16 38 38 55049 0 0 0
+17 17 17 72606 249 249 99607
+18 16 16 53355 68 68 43953
+19 19 46 1177589 0 1 0
+20 2 2 17082 5 8 109129
+21 2 29 1105054 54 57 164718
+22 12 13 51333 1 3 19387
+23 19 19 64026 28 29 42353
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+in 651 1553 154876760
+us 210 237 1861156
+jp 145 240 27967004
+gb 18 18 64026
+cn 14 14 38730062
+fr 13 13 61935
+ca 11 21 83668
+nl 9 9 32013
+ru 9 9 32013
+it 6 6 21342
+au 6 6 21342
+vn 6 6 21342
+id 6 6 21342
+eu 3 3 10671
+ua 3 3 10671
+pl 3 3 10671
+za 3 3 10671
+de 3 3 10671
+tw 3 3 10671
+ie 3 3 10671
+gr 3 3 10671
+ir 3 3 10671
+my 3 3 10671
+se 3 3 10671
+kh 3 3 10671
+kz 2 2 17082
+es 1 1 19251
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Dalvik/ 20392 31157000 20200727062805 0
+Googlebot/ 15 565494 20200727044924 2
+MJ12bot/ 9 12935915 20200727043743 4
+no_user_agent 4 77280 20200727023746 0
+Googlebot\-Image/ 2 8238 20200727061324 0
+AhrefsBot/ 1 623 20200724093029 0
+baidu 1 0 20200726125158 0
+SemrushBot/ 1 19251 20200726021545 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+gif 4 37846 0 0
+js 509 27362418 0 0
+png 159 3491050 0 0
+html 67 1615017 0 0
+css 310 9494167 0 0
+jpg 44 5766143 0 0
+woff2 11 778652 0 0
+Unknown 211 4512394 0 0
+php 831 14405019 0 0
+woff 5 117120 0 0
+json 2 9746 0 0
+map 3 1626582 0 0
+svg 8 27044 0 0
+apk 13 154715192 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+winnt 1 1
+win16 1 1
+win10 1344 655
+macosx11 81 33
+linuxandroid 335 38
+Unknown 63 63
+linux 352 352
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome84.0.4147.89 1469 673
+Unknown 63 63
+firefox58.0 1 1
+chrome83.0.4103.97 1 1
+chrome67.0.3396.79 1 1
+chrome71.0.3578.141 61 6
+chrome79.0.3945.136 29 2
+android 4 4
+chrome71.0.3731.88 1 1
+chrome81.0.4044.122 81 33
+chrome62.0.3202.84 115 7
+firefox62.0 350 350
+chrome80.0.3987.119 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+PostmanRuntime/7.26.2 20200727035532
+WhatsApp/2.20.195.15_A 20200727025128
+WordPress/5.4.2;_https://wow-gaming.com 20200727063743
+WhatsApp/2.20.193.9_A 20200726141636
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+PostmanRuntime/7.26.2 20200727035532
+WhatsApp/2.20.195.15_A 20200727025128
+WhatsApp/2.20.193.9_A 20200726141636
+WordPress/5.4.2;_https://wow-gaming.com 20200727063743
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 464 464
+From1 0 0
+From2 0 0
+From3 4 4
+From4 675 1709
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://119.18.48.91:2083 3 3
+https://119.18.48.91:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+206 22 54072977
+500 12 9244
+301 7 0
+303 28 0
+302 10 0
+307 2 0
+404 85 178574
+400 3 3
+401 1 127
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/toastr.js.map 7 -
+/.well-known/assetlinks.json 5 -
+/gammerprolive/assets/admin_assets/js/parsley.min.js.map 7 -
+/wp-admin/admin-ajax.php 1 https://wow-gaming.com/wp-admin/customize.php
+/robots.txt 3 -
+/gammerprolive/assets/admin_assets/js/plugins/dataTables/pdfmake.min.js.map 3 -
+/gammerprolive/uploads/images/profile/profile_5_5f15f646990e0 50 -
+/wow_gaming.apk 1 -
+/.git/HEAD 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 126
+45.118.159.80 387 851 30908003 20200725135355
+202.173.125.178 139 234 27945662 20200727032312
+45.118.159.155 80 178 10435894 20200726085313
+106.207.51.172 67 137 6599456 20200726103512
+119.18.48.91 37 37 40591 20200727063743 20200727054243 /wp-cron.php
+103.117.239.3 29 126 46679988 20200727062035 20200727055412 /gammerprolive/admin/master/upload-image
+106.207.27.82 14 14 11852 20200727035532
+167.99.78.164 9 9 32013 20200727041008
+103.117.239.5 9 14 1434114 20200727070228 20200727062931 /gammerprolive/admin/dashboard
+45.127.106.204 7 7 21743 20200727033902
+103.216.140.123 7 37 1154227 20200726142953
+148.72.209.191 6 6 21342 20200726055401
+138.68.236.156 6 6 21342 20200727020028
+210.57.208.9 6 6 21342 20200726153148
+198.211.108.68 6 6 21342 20200726144127
+188.165.234.92 6 6 21342 20200726233240
+173.236.224.115 6 6 21342 20200726234217
+148.72.210.140 6 6 21342 20200727013916
+47.244.226.247 6 6 21342 20200727022026
+167.71.216.37 6 6 21342 20200726160004
+202.140.36.198 6 61 40910837 20200726222429
+142.4.4.229 6 6 21342 20200726193515
+66.115.173.18 3 3 10671 20200726194723
+163.44.198.31 3 3 10671 20200726154941
+157.230.248.89 3 3 10671 20200727023049
+5.253.25.217 2 2 17082 20200725203456
+113.161.176.157 3 3 10671 20200726053042
+159.203.37.43 3 3 10671 20200726065528
+132.148.28.20 3 3 10671 20200727012918
+157.49.98.90 1 28 1104983 20200725134706
+122.117.44.59 3 3 10671 20200727065153 20200727065149 /xmlrpc.php
+178.128.82.148 3 3 10671 20200726082629
+138.197.131.66 3 3 10671 20200726110641
+54.38.65.127 3 3 10671 20200726180321
+35.200.180.182 3 3 10671 20200726134356
+91.206.200.144 3 3 10671 20200726230948
+182.92.156.152 3 3 10671 20200726061457
+149.202.8.66 3 3 10671 20200726080256
+69.25.58.61 1 1 623 20200724060531
+139.59.78.248 3 3 10671 20200726073951
+154.0.168.71 3 3 10671 20200726160821
+72.167.222.102 3 3 10671 20200727001134
+176.56.62.144 3 3 10671 20200726145039
+167.71.63.47 3 3 10671 20200726111958
+138.197.194.207 3 3 10671 20200726183741
+31.172.238.173 3 3 10671 20200726182543
+35.224.216.78 3 3 10671 20200726051341
+165.22.210.69 3 3 10671 20200726100456
+157.230.234.117 3 3 10671 20200726225031
+167.99.123.34 3 3 10671 20200726071727
+96.125.168.246 3 3 10671 20200727063747 20200727063743 /xmlrpc.php
+164.132.48.179 3 3 10671 20200726065453
+188.166.60.138 3 3 10671 20200727010056
+3.122.125.205 3 3 10671 20200726045148
+47.114.151.29 3 3 10671 20200727005112
+167.99.90.240 3 3 10671 20200726084927
+103.117.239.4 1 28 1104983 20200725192154
+62.210.5.253 1 1 19251 20200725194531
+13.211.176.220 3 3 10671 20200726173140
+113.96.218.51 1 1 12891192 20200726125215
+45.118.159.14 3 32 1565945 20200727063408 20200727063356 /gammerprolive/assets/admin_assets/font-awesome/fonts/fontawesome-webfont.woff2
+206.189.183.152 3 3 10671 20200727014907
+128.199.245.33 3 3 10671 20200726121546
+114.143.247.174 2 2 10270 20200726063306
+132.148.167.225 3 3 10671 20200726190013
+104.131.81.54 3 3 10671 20200726082628
+167.172.68.76 3 3 10671 20200726162006
+64.202.184.249 3 3 10671 20200726063421
+192.169.200.145 3 3 10671 20200726171105
+139.59.75.162 3 3 10671 20200726045521
+145.239.78.143 3 3 10671 20200726174157
+159.65.185.253 3 3 10671 20200726175409
+217.115.118.36 3 3 10671 20200727035312
+35.234.28.121 3 3 10671 20200726172053
+77.83.173.167 3 3 10671 20200727010904
+212.116.102.246 3 3 10671 20200726125133
+104.210.150.110 3 3 10671 20200726235157
+46.101.150.9 3 3 10671 20200726120358
+161.35.104.69 3 3 10671 20200726084911
+47.31.71.153 2 12 51655 20200725135416
+185.237.85.21 3 3 10671 20200726091423
+223.185.131.239 2 29 13998857 20200726125722
+188.68.37.192 3 3 10671 20200726100349
+120.79.180.193 3 3 10671 20200726130437
+52.237.72.57 3 3 10671 20200726055015
+44.234.60.101 1 1 19251 20200726031859
+159.89.162.186 3 3 10671 20200726105900
+52.166.4.83 3 3 10671 20200726181512
+54.224.187.228 3 3 10671 20200726133308
+157.245.133.78 3 3 10671 20200726151021
+134.122.102.200 3 3 10671 20200726071820
+37.28.157.162 3 3 10671 20200727062355 20200727062353 /xmlrpc.php
+83.43.117.83 1 1 19251 20200725173424
+35.204.80.82 3 3 10671 20200727003047
+37.187.73.206 3 3 10671 20200727060927 20200727060925 /xmlrpc.php
+157.245.139.32 3 3 10671 20200726043851
+119.3.24.235 1 1 19251 20200726062002
+35.221.26.149 3 3 10671 20200727032252
+157.245.106.153 3 3 10671 20200726232159
+188.166.222.27 3 3 10671 20200726122840
+103.6.244.158 3 3 10671 20200726102958
+118.69.108.35 3 3 10671 20200726114836
+206.189.85.88 3 3 10671 20200726150147
+74.208.228.35 3 3 10671 20200726140331
+198.211.100.116 3 3 10671 20200727055616
+51.68.34.141 3 3 10671 20200726103055
+91.98.102.86 3 3 10671 20200727002248
+138.197.101.254 3 3 10671 20200726051051
+159.203.176.82 3 3 10671 20200726143143
+111.92.240.206 3 3 10671 20200726142154
+208.109.53.185 3 3 10671 20200727054246
+150.95.152.199 3 3 10671 20200726222801
+104.238.94.60 3 3 10671 20200727053131
+165.227.86.14 3 3 10671 20200726080127
+52.80.20.135 3 3 10671 20200727025345
+64.225.73.186 3 3 10671 20200727000230
+178.62.76.138 3 3 10671 20200726164009
+18.217.151.134 3 3 10671 20200726152409
+157.245.62.18 3 3 10671 20200726230031
+138.197.179.94 3 3 10671 20200726113522
+213.212.132.47 3 3 10671 20200726141220
+58.250.137.194 3 3 25787606 20200726132957
+18.188.210.51 3 3 10671 20200726131502
+138.197.95.2 3 3 10671 20200727004107
+192.241.194.230 3 3 10671 20200726191137
+195.167.159.161 3 3 10671 20200726195832
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20200724 1 1 623 1
+20200725 468 1096 41014796 15
+20200726 534 827 173320713 118
+20200727 140 253 9622258 34
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 8
+0s-30s 133
+2mn-5mn 2
+15mn-30mn 4
+5mn-15mn 5
+1h+ 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 62
+/wp-admin/admin-ajax.php 385 1062198 2 3
+/wp-login.php 234 1201092 115 1
+/xmlrpc.php 116 46516 1 110
+/ 52 1071881 20 12
+/gammerprolive/admin/dashboard 38 1205765 0 1
+/wp-cron.php 34 0 17 16
+/gammerprolive/admin/match/match-list 19 436052 1 2
+/gammerprolive/admin/login 19 42280 3 1
+/wp-admin/load-scripts.php 17 1788356 0 0
+/gammerprolive/admin/transaction/get-withdrawal-details 17 714533 0 0
+/gammerprolive/admin/users/listing 11 264777 0 0
+/gammerprolive/admin/master/manage-filter-list 10 191792 0 0
+/gammerprolive/webservices/send-notification 10 3918 1 0
+/gammerprolive/admin/match/add-match 10 238058 0 0
+/home/ 10 356436 0 0
+/wowgaming.apk 9 103150424 1 4
+/gammerprolive/admin/master/get-filter-details 9 1299 0 0
+/gammerprolive/admin/pages/contact-us 8 159509 0 0
+/gammerprolive/admin/transaction/view-wallet-transaction-listing 7 319453 0 0
+/wp-admin/setup-config.php 7 38949 0 0
+/gammerprolive/assets/admin_assets/font-awesome/fonts/fontawesome-webfont.woff2 7 540120 0 0
+/gammerprolive/admin/master/upload-image 7 229070 0 0
+/wp-admin/post.php 6 6481549 0 0
+/wp-admin/load-styles.php 6 2381643 0 0
+/gammerprolive/index.php/admin/transaction/get-withdrawal-details 6 250944 0 0
+/wp-admin/customize.php 1 300260 0 0
+/gammerprolive/assets/admin_assets/fonts/glyphicons-halflings-regular.woff 5 117120 0 1
+/gammerprolive/admin/master/rules-master 1 21243 0 0
+/wp-json/wp/v2/users/me 1 602 0 0
+/wp-admin/theme-install.php 2 84562 0 0
+/wp-admin/themes.php 3 150033 0 0
+/gammerprolive/webservices/delete-team 3 150 1 1
+/gammerprolive/admin/transaction/update-withdrawal-details 3 173 0 0
+/gammerprolive/admin/master/edit-filter-details 2 36587 0 0
+/gammerprolive/admin/pages/privacy-policy 1 20052 0 0
+/gammerprolive/admin/pages/terms-and-condition 1 15062 0 0
+/wp-admin/ 2 143099 0 0
+/gammerprolive/webservices/get-assign-team 3 141 1 1
+/gammerprolive/webservices/get-matchlist 3 4343 1 1
+/gammerprolive/admin/master/create-game 6 137506 0 1
+/wp-admin/async-upload.php 5 7142 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 76084 0 0
+/2020/07/25/hello-world/ 1 30845 0 0
+/wp-content/plugins/elementor/templates/11198.json 1 5997 0 0
+/wp-content/plugins/elementor/templates/13236.json 1 3749 0 0
+/gammerprolive/webservices/winning-loss-match-update 2 105 1 1
+/cpanel 5 169450 2 1
+/wp-admin/install.php 2 9637 0 0
+/gammerprolive/assets/admin_assets/css/bootstrap.min.css.map 3 1626582 0 0
+/wp-admin/plugins.php 6 311035 0 0
+/wow_gaming.apk 4 51564768 1 1
+/wp-admin/edit.php 3 171589 0 0
+/author/admin/ 1 12152 0 1
+/gammerprolive/webservices/create-team 1 52 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 3 162448 0 0
+/wp-json/wp/v2/pages/5 1 1797 0 0
+/gammerprolive/index.php/admin/master/edit-filter-details 2 37004 0 0
+/gammerprolive/webservices/user-match-history 2 7829 0 1
+/wp-json/wp/v2/users/ 1 604 0 0
+/wp-admin/post-new.php 1 252997 0 0
+/wp-admin/admin.php 3 117461 0 0
+/gammerprolive/admin/MasterController/storeImages 3 2848 0 0
+END_SIDER

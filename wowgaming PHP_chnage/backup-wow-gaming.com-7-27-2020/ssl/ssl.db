@@ -1,0 +1,87 @@
+--- 
+files: 
+  certificate: 
+    wow_gaming_com_b755f_9a737_1627035184_43a4f2c303beea1734dcd0f51da2c50f: 
+      created: '1595499184'
+      domains: 
+        - wow-gaming.com
+        - mail.wow-gaming.com
+        - www.wow-gaming.com
+        - cpanel.wow-gaming.com
+        - webmail.wow-gaming.com
+        - webdisk.wow-gaming.com
+        - cpcontacts.wow-gaming.com
+        - cpcalendars.wow-gaming.com
+      friendly_name: Cert for “wow-gaming.com”
+      id: wow_gaming_com_b755f_9a737_1627035184_43a4f2c303beea1734dcd0f51da2c50f
+      is_self_signed: 1
+      issuer.commonName: wow-gaming.com
+      issuer.organizationName: ~
+      modulus: b755f14d74b6193022e3a8a8428245290b4152c9572c309b3716e87c46d9fcaf3acb98da82c61812fc2c16c1984dafbd77c402dce12728dedf65a6677c6ec1a6dff3fb1592f06524d21cb6350a8e55d098ce227d598789515ff3a4ed94580b9be013bc4ca6a09b55ba030289701ada1ca8dd7bd6b7d01bf48bd9f35c42b1d58f0bb84e01d54f31c39c72f2cb18f57c0c18ec4d2132cfeb03734e0466f315f93db04135842ca9f219ee4b21af16d233301f1cb4a24285ce1bcdd8ff5e7da7da170b46bf9fc481e2de7bbeaad4374a2eaaa0a0e55e2c98d72f2224ccd42559e9dc0ee8d149e2f079def1770d7cf307b7c78f1342548ac923504f28177ef9d9a737
+      modulus_length: 2048
+      not_after: '1627035184'
+      not_before: '1595499184'
+      serial: 01950aa362
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: wow-gaming.com
+      validation_type: ~
+    wow_gaming_com_c6042_338bb_1603411199_7be5531555bc3423c40d67aa64fb2286: 
+      created: '1595580783'
+      domains: 
+        - wow-gaming.com
+        - cpanel.wow-gaming.com
+        - cpcalendars.wow-gaming.com
+        - cpcontacts.wow-gaming.com
+        - mail.wow-gaming.com
+        - webdisk.wow-gaming.com
+        - webmail.wow-gaming.com
+        - www.wow-gaming.com
+      friendly_name: Cert for “wow-gaming.com” 1595580783.0
+      id: wow_gaming_com_c6042_338bb_1603411199_7be5531555bc3423c40d67aa64fb2286
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: c6042eec41f985c73524ac35c81daeb9edd803bd65eb4c1f627ca1831100b7a434114566e80c837b1a505f5069fc668924993391d3dd6a52deec412ea79eb45543da29aac18f1521f3f7df5ff3e8f0a9b1dbe80275a09030c9384aee5e8e46dd7f55a062950ae011c2443bd4802e7066ef07df4bac928d5298ea6794a2f2db4459065cca909cb3eb9b661e5a697ad65458d338aea6585b536da8ff64dc85692a3a38424a1bd4172695cc7634430072b1f78b2aa541bbbb47a98ab531fadf66d6e4793da49ff26b858ab45ba9893ccd7e9bccd9430c2137cbd33065b661d59f8f8af452224be44aa23f3b32ebe5ede8c25ad99739df8f4e5d74e80b219b5338bb
+      modulus_length: 2048
+      not_after: '1603411199'
+      not_before: '1595548800'
+      serial: 6cc85726fbe49bbab2d0e33c42e735f2
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: wow-gaming.com
+      validation_type: dv
+  key: 
+    b755f_9a737_de2b2dedd752005c5a5f3ea5b75437f6: 
+      created: '1595499184'
+      friendly_name: Key for “wow-gaming.com”
+      id: b755f_9a737_de2b2dedd752005c5a5f3ea5b75437f6
+      modulus: b755f14d74b6193022e3a8a8428245290b4152c9572c309b3716e87c46d9fcaf3acb98da82c61812fc2c16c1984dafbd77c402dce12728dedf65a6677c6ec1a6dff3fb1592f06524d21cb6350a8e55d098ce227d598789515ff3a4ed94580b9be013bc4ca6a09b55ba030289701ada1ca8dd7bd6b7d01bf48bd9f35c42b1d58f0bb84e01d54f31c39c72f2cb18f57c0c18ec4d2132cfeb03734e0466f315f93db04135842ca9f219ee4b21af16d233301f1cb4a24285ce1bcdd8ff5e7da7da170b46bf9fc481e2de7bbeaad4374a2eaaa0a0e55e2c98d72f2224ccd42559e9dc0ee8d149e2f079def1770d7cf307b7c78f1342548ac923504f28177ef9d9a737
+      modulus_length: 2048
+    c6042_338bb_f1820b446074134cff1983ff7742d741: 
+      created: '1595580783'
+      friendly_name: Key for “wow-gaming.com” 1595580783.0
+      id: c6042_338bb_f1820b446074134cff1983ff7742d741
+      modulus: c6042eec41f985c73524ac35c81daeb9edd803bd65eb4c1f627ca1831100b7a434114566e80c837b1a505f5069fc668924993391d3dd6a52deec412ea79eb45543da29aac18f1521f3f7df5ff3e8f0a9b1dbe80275a09030c9384aee5e8e46dd7f55a062950ae011c2443bd4802e7066ef07df4bac928d5298ea6794a2f2db4459065cca909cb3eb9b661e5a697ad65458d338aea6585b536da8ff64dc85692a3a38424a1bd4172695cc7634430072b1f78b2aa541bbbb47a98ab531fadf66d6e4793da49ff26b858ab45ba9893ccd7e9bccd9430c2137cbd33065b661d59f8f8af452224be44aa23f3b32ebe5ede8c25ad99739df8f4e5d74e80b219b5338bb
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b755f14d74b6193022e3a8a8428245290b4152c9572c309b3716e87c46d9fcaf3acb98da82c61812fc2c16c1984dafbd77c402dce12728dedf65a6677c6ec1a6dff3fb1592f06524d21cb6350a8e55d098ce227d598789515ff3a4ed94580b9be013bc4ca6a09b55ba030289701ada1ca8dd7bd6b7d01bf48bd9f35c42b1d58f0bb84e01d54f31c39c72f2cb18f57c0c18ec4d2132cfeb03734e0466f315f93db04135842ca9f219ee4b21af16d233301f1cb4a24285ce1bcdd8ff5e7da7da170b46bf9fc481e2de7bbeaad4374a2eaaa0a0e55e2c98d72f2224ccd42559e9dc0ee8d149e2f079def1770d7cf307b7c78f1342548ac923504f28177ef9d9a737: 
+        wow_gaming_com_b755f_9a737_1627035184_43a4f2c303beea1734dcd0f51da2c50f: ~
+      c6042eec41f985c73524ac35c81daeb9edd803bd65eb4c1f627ca1831100b7a434114566e80c837b1a505f5069fc668924993391d3dd6a52deec412ea79eb45543da29aac18f1521f3f7df5ff3e8f0a9b1dbe80275a09030c9384aee5e8e46dd7f55a062950ae011c2443bd4802e7066ef07df4bac928d5298ea6794a2f2db4459065cca909cb3eb9b661e5a697ad65458d338aea6585b536da8ff64dc85692a3a38424a1bd4172695cc7634430072b1f78b2aa541bbbb47a98ab531fadf66d6e4793da49ff26b858ab45ba9893ccd7e9bccd9430c2137cbd33065b661d59f8f8af452224be44aa23f3b32ebe5ede8c25ad99739df8f4e5d74e80b219b5338bb: 
+        wow_gaming_com_c6042_338bb_1603411199_7be5531555bc3423c40d67aa64fb2286: ~
+    subject.commonName: 
+      wow-gaming.com: 
+        wow_gaming_com_b755f_9a737_1627035184_43a4f2c303beea1734dcd0f51da2c50f: ~
+        wow_gaming_com_c6042_338bb_1603411199_7be5531555bc3423c40d67aa64fb2286: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “wow-gaming.com”: wow_gaming_com_b755f_9a737_1627035184_43a4f2c303beea1734dcd0f51da2c50f
+      Cert for “wow-gaming.com” 1595580783.0: wow_gaming_com_c6042_338bb_1603411199_7be5531555bc3423c40d67aa64fb2286
+  key: 
+    friendly_name: 
+      Key for “wow-gaming.com”: b755f_9a737_de2b2dedd752005c5a5f3ea5b75437f6
+      Key for “wow-gaming.com” 1595580783.0: c6042_338bb_f1820b446074134cff1983ff7742d741
+    modulus: 
+      b755f14d74b6193022e3a8a8428245290b4152c9572c309b3716e87c46d9fcaf3acb98da82c61812fc2c16c1984dafbd77c402dce12728dedf65a6677c6ec1a6dff3fb1592f06524d21cb6350a8e55d098ce227d598789515ff3a4ed94580b9be013bc4ca6a09b55ba030289701ada1ca8dd7bd6b7d01bf48bd9f35c42b1d58f0bb84e01d54f31c39c72f2cb18f57c0c18ec4d2132cfeb03734e0466f315f93db04135842ca9f219ee4b21af16d233301f1cb4a24285ce1bcdd8ff5e7da7da170b46bf9fc481e2de7bbeaad4374a2eaaa0a0e55e2c98d72f2224ccd42559e9dc0ee8d149e2f079def1770d7cf307b7c78f1342548ac923504f28177ef9d9a737: b755f_9a737_de2b2dedd752005c5a5f3ea5b75437f6
+      c6042eec41f985c73524ac35c81daeb9edd803bd65eb4c1f627ca1831100b7a434114566e80c837b1a505f5069fc668924993391d3dd6a52deec412ea79eb45543da29aac18f1521f3f7df5ff3e8f0a9b1dbe80275a09030c9384aee5e8e46dd7f55a062950ae011c2443bd4802e7066ef07df4bac928d5298ea6794a2f2db4459065cca909cb3eb9b661e5a697ad65458d338aea6585b536da8ff64dc85692a3a38424a1bd4172695cc7634430072b1f78b2aa541bbbb47a98ab531fadf66d6e4793da49ff26b858ab45ba9893ccd7e9bccd9430c2137cbd33065b661d59f8f8af452224be44aa23f3b32ebe5ede8c25ad99739df8f4e5d74e80b219b5338bb: c6042_338bb_f1820b446074134cff1983ff7742d741

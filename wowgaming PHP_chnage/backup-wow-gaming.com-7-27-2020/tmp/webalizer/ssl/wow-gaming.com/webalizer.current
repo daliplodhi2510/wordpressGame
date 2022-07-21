@@ -1,0 +1,1650 @@
+# Webalizer V2.23-08 Incremental Data - 07/27/2020 07:02:28
+2020 7 27 7 2 28
+22818 22390 156 379 51 44 322983116 20624 80 0
+40 1 5204 23 27
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 0 0
+15 2 1246 10 2 2
+2744 2579 44788459 14 1690 18
+19704 19505 254936099 106 18802 49
+354 304 23257312 40 130 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 19 64026 0
+18 16 53355 0
+60 29 358343 21
+2759 2716 9535701 2624
+2977 2968 16805354 2911
+1782 1771 3322313 1710
+1345 1342 6203012 1263
+241 241 226918 228
+418 398 5386975 371
+116 115 423943 103
+386 384 3827916 329
+522 478 14136157 281
+3535 3374 134512927 2741
+5484 5396 122391827 5128
+2227 2223 2572392 2195
+334 334 86716 310
+38 38 55049 0
+266 266 172213 250
+84 84 97308 68
+47 46 1177589 2
+10 7 126211 5
+86 83 1269772 54
+16 14 70720 2
+48 48 106379 28
+0
+0
+0
+22390
+0
+0
+0
+0
+0
+22
+0
+7
+54
+28
+212
+0
+2
+3
+1
+0
+0
+87
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+# -urls- 
+/wp-admin/css/widgets.min.css
+0 1 8319045105058736492 14170 0 0
+/gammerprolive/assets/admin_assets/js/plugins/toastr/toastr.min.js
+0 7 0 30254 0 0
+/wp-admin/theme-install.php
+0 2 0 84562 0 0
+/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.spline.js
+0 7 0 45248 0 0
+/gammerprolive/assets/admin_assets/css/style.css
+0 6 0 1158324 0 0
+/wp-json/wp/v2/users/me
+0 1 0 602 1 0
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 1 0 99133 0 0
+/gammerprolive/webservices/login
+0 26 0 7705 2 1
+/wp-admin/css/install.min.css
+0 2 0 10252 0 0
+/gammerprolive/admin/pages/privacy-policy
+0 1 37201008 20052 0 0
+/gammerprolive/uploads/images/profile/profile_16_5f1c738e0e3cc.jpg
+0 2 0 55966 0 0
+/gammerprolive/assets/images/gameimage/MmZivJdXhNbaocp4qPeS.jpg
+0 15 0 1350314 0 0
+/wp-includes/js/dist/date.min.js
+0 1 0 203523 0 0
+/wp-admin/js/dashboard.min.js
+0 2 0 13376 0 0
+/gammerprolive/assets/admin_assets/js/plugins/jquery-ui/jquery-ui.min.js
+0 7 0 1775767 0 0
+/wp-content/uploads/2020/07/Add-a-heading-1-1.png
+0 21 0 100782 0 0
+/gammerprolive/admin/dashboard
+0 38 0 1205765 0 0
+/wp-admin/themes.php
+0 3 0 150033 0 0
+/wp-admin/js/widgets/media-gallery-widget.min.js
+0 1 0 3796 0 0
+/wp-includes/js/codemirror/codemirror.min.css
+0 1 0 15899 0 0
+/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css
+0 4 0 34444 0 0
+/wp-admin/css/l10n.min.css
+0 2 0 4954 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+0 3 0 111506 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 1 0 5054 0 0
+/wp-includes/js/codemirror/htmlhint.js
+0 1 0 17735 0 0
+/wp-includes/js/customize-preview.min.js
+0 1 0 10780 0 0
+/wp-content/uploads/2020/07/Logo-W-300x65.png
+0 4 0 7286 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1-1-150x53.png
+0 2 0 3806 0 0
+/gammerprolive/assets/images/gameimage/oitq59XvG4bPyQgY81nk.jpg
+0 7 0 1171506 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 3 0 1336 0 0
+/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
+0 2 0 17655 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 1 0 13163 0 0
+/wp-json/wp/v2/users/
+0 1 0 604 0 0
+/wp-includes/css/buttons.min.css
+0 2 0 11734 0 0
+/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.tooltip.min.js
+0 7 0 27587 0 0
+/wp-content/plugins/elementor/assets/lib/e-select2/js/e-select2.full.min.js
+0 2 0 75814 0 0
+/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js
+0 2 0 23000 0 0
+/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js
+0 1 0 252588 0 0
+/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.pie.js
+0 7 0 172403 0 0
+/wp-content/plugins/elementor/assets/lib/e-select2/css/e-select2.min.css
+0 2 0 14773 0 0
+/gammerprolive/admin/master/upload-image
+0 7 37222992 229070 0 0
+/gammerprolive/assets/admin_assets/js/inspinia.js
+0 7 0 61551 0 0
+/wp-content/plugins/elementor/assets/css/admin.min.css
+0 1 0 27755 0 0
+/wp-admin/js/editor.min.js
+0 1 0 13363 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+0 3 0 162448 0 0
+/wp-includes/css/customize-preview.min.css
+0 1 0 2854 0 0
+/wp-includes/js/dist/media-utils.min.js
+0 1 0 14782 0 0
+/wp-includes/js/tinymce/wp-tinymce.js
+0 1 0 669216 0 0
+/wp-includes/js/dist/notices.min.js
+0 1 0 4985 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 1 0 2658 0 0
+/wp-includes/js/shortcode.min.js
+0 2 0 5320 0 0
+/wp-includes/js/wp-lists.min.js
+0 2 7759204 14872 0 0
+/wp-content/plugins/elementor-pro/assets/js/frontend.min.js
+0 12 3544945550391326772 1613592 0 0
+/wp-includes/js/dist/viewport.min.js
+0 1 1595848150 4651 0 0
+/gammerprolive/assets/images/gameimage/5THSYlARgCLW4n9fG7Xi.jpg
+0 11 0 5980590 0 0
+/gammerprolive/webservices/get-filterlist
+0 1065 8101253776476876148 139049 1 0
+/wp-admin/images/arrows-2x.png
+0 1 4121129205299897600 863 0 0
+/gammerprolive/admin/login
+0 19 408514822401 42280 3 1
+/wp-includes/js/jquery/jquery.query.js
+0 2 3258134639288988461 7570 0 0
+/gammerprolive/admin/match/match-list
+0 19 1 436052 1 2
+/wp-includes/js/dist/api-fetch.min.js
+0 1 0 12338 0 0
+/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js
+0 4 0 87168 0 0
+/wp-admin/load-scripts.php
+0 17 0 1788356 0 0
+/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+0 14 0 134178 0 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 2 0 49782 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 76017 7536 0 0
+/wp-includes/js/dist/i18n.min.js
+0 2 682868773383899599 18414 0 0
+/gammerprolive/assets/images/gameimage/v2ZuHOM7neBjgIzTiCRs.jpg
+0 17 0 2656760 0 0
+/wp-content/uploads/2020/07/Add-a-heading-1-1-300x120.png
+0 1 0 17255 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+0 14 0 178299 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-150x65.png
+0 4 0 3431 0 0
+/wp-admin/plugins.php
+0 6 0 311035 0 0
+/wp-admin/js/plugin-install.min.js
+0 1 0 2418 0 0
+/gammerprolive/webservices/get-assign-team
+0 13169 0 620471 16 1
+/gammerprolive/admin/transaction/get-withdrawal-details
+0 17 0 714533 0 1
+/gammerprolive/assets/images/gameimage/Vfseqhm7i4u3S1v0Zkap.jpg
+0 15 0 3575600 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 1 0 7880 0 0
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+0 14 0 203148 0 0
+/wp-admin/post.php
+0 6 0 6481549 0 0
+/author/admin/
+0 1 0 12152 0 0
+/wp-admin/js/widgets/media-audio-widget.min.js
+0 1 0 1470 0 0
+/wp-includes/js/underscore.min.js
+0 1 0 16154 0 0
+/wp-admin/css/forms.min.css
+0 2 0 48906 0 0
+/wp-admin/js/widgets/media-image-widget.min.js
+0 1 104585504358708 2044 0 0
+/wp-includes/js/dist/wordcount.min.js
+0 1 87876483350607406 3037 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png.png
+0 13 13102661489589890617 10341 0 0
+/wp-includes/js/dist/blocks.min.js
+0 1 8100005404802547712 166857 0 0
+/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
+0 2 8026309991061616481 5999 0 0
+/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.js
+0 7 28015 882973 0 0
+/wp-includes/css/editor.min.css
+0 2 8319667402903088999 54442 0 0
+/wp-content/plugins/elementor/assets/js/common-modules.min.js
+0 3 4050475733862121728 66786 0 0
+/gammerprolive/uploads/images/profile/profile_8_5f1d2ecb649fc.jpg
+0 4 87029855101923890 219776 0 0
+/gammerprolive/assets/admin_assets/js/parsley.extend.js
+0 7 1635397231 35007 0 0
+/gammerprolive/assets/admin_assets/font-awesome/fonts/fontawesome-webfont.woff2
+0 7 8461808967506526208 540120 0 0
+/wp-admin/css/media.min.css
+0 1 3328219692404387128 19338 0 0
+/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+0 14 0 28985 0 0
+/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js
+0 1 0 25202 0 0
+/wp-content/plugins/elementor/assets/css/editor-preview.min.css
+0 2 0 76030 0 0
+/wp-admin/
+0 2 0 143099 1 1
+/wp-includes/js/wp-auth-check.min.js
+0 1 0 1815 0 0
+/gammerprolive/assets/admin_assets/js/plugins/metisMenu/jquery.metisMenu.js
+0 7 0 22855 0 0
+/gammerprolive/uploads/images/profile/profile_8_5f1d2d0f7f19b.jpg
+0 1 0 68291 0 0
+/wp-includes/js/dist/priority-queue.min.js
+0 1 0 1664 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1.png
+0 26 0 39798 0 0
+/wp-includes/js/plupload/plupload.min.js
+0 1 0 15658 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-1-150x53.png
+0 2 0 3806 0 0
+/wp-admin/load-styles.php
+0 6 0 2381643 0 0
+/wp-content/plugins/elementor/assets/js/admin.min.js
+0 1 0 25586 0 0
+/gammerprolive/assets/admin_assets/js/demo/sparkline-demo.js
+0 7 0 12313 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+0 2 0 15055 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 1 0 51679 0 0
+/gammerprolive/assets/admin_assets/js/plugins/chartJs/Chart.min.js
+0 7 0 975821 0 0
+/wp-includes/js/heartbeat.min.js
+0 1 0 5934 0 0
+/gammerprolive/admin/master/edit-filter-details
+0 2 37221408 36587 0 0
+/wp-content/plugins/elementor-pro/assets/js/admin.min.js
+0 1 0 30459 0 0
+/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+0 14 0 1530683 0 0
+/wp-content/plugins/elementor/assets/css/editor.min.css
+0 2 0 137811 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 1 0 160453 0 0
+/gammerprolive/assets/admin_assets/js/demo/peity-demo.js
+0 7 0 5579 0 0
+/wp-includes/js/dist/a11y.min.js
+0 1 0 2274 0 0
+/wp-includes/js/zxcvbn.min.js
+0 1 0 822237 0 0
+/wp-includes/js/imagesloaded.min.js
+0 1 0 8148 0 0
+/gammerprolive/webservices/wallet-transaction-history
+0 30 0 81689 0 0
+/home/
+0 10 0 356436 0 0
+/gammerprolive/assets/admin_assets/js/jquery-3.1.1.min.js
+0 6 0 520278 0 0
+/gammerprolive/assets/admin_assets/js/plugins/peity/jquery.peity.min.js
+0 7 0 23863 0 0
+/wp-includes/js/codemirror/codemirror.min.js
+0 1 0 585414 0 0
+/wp-content/plugins/elementor-pro/assets/js/editor.min.js
+0 1 0 92333 0 0
+/wp-content/plugins/elementor/assets/images/placeholder.png
+0 1 0 6146 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 0 790 0 0
+/wp-content/plugins/elementor-pro/assets/js/preview.min.js
+0 1 0 4024 0 0
+/wp-content/plugins/elementor/assets/images/information.svg
+0 1 0 5812 0 0
+/wp-includes/js/dist/data-controls.min.js
+0 1 0 3271 0 0
+/wp-includes/css/admin-bar.min.css
+0 1 0 21375 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 1 0 12882 0 0
+/wp-content/plugins/elementor-pro/assets/css/frontend.min.css
+0 11 0 2330174 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 2 0 4200 0 0
+/wp-admin/admin.php
+0 3 0 117461 0 0
+/wp-content/plugins/elementor/templates/11198.json
+0 1 0 5997 0 0
+/gammerprolive/
+0 8 0 287948 0 0
+/gammerprolive/assets/images/gameimage/WBAVi2pHMgdc8bzRKPvY.jpg
+0 9 0 448360 0 0
+/wp-includes/js/jquery/ui/droppable.min.js
+0 1 0 6242 0 0
+/wp-admin/install.php
+0 2 0 9637 0 0
+/wp-admin/js/theme.min.js
+0 1 0 26580 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-2-300x30.png
+0 1 0 8001 0 0
+/gammerprolive/admin/match/add-match
+0 10 37221808 238058 0 0
+/gammerprolive/webservices/privacy-policy
+0 6 37224048 30906 0 0
+/gammerprolive/admin/users/listing
+0 11 0 264777 0 0
+/wp-includes/js/dist/edit-post.min.js
+0 1 0 198932 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/migration/mapping.js
+0 1 0 41049 0 0
+/wp-content/plugins/elementor/assets/js/admin-feedback.min.js
+0 1 0 8961 0 0
+/gammerprolive/webservices/user-verification
+0 1 0 57 0 0
+/wp-includes/js/dist/format-library.min.js
+0 1 0 24193 0 0
+/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css
+0 2 0 5512 0 0
+/wp-includes/js/dist/vendor/lodash.min.js
+0 1 0 73261 0 0
+/wp-admin/edit.php
+0 3 0 171589 0 0
+/wp-includes/js/jquery/ui/draggable.min.js
+0 1 0 18847 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 1 0 3142 0 0
+/wp-includes/js/dist/components.min.js
+0 1 0 706638 0 0
+/wp-admin/js/widgets/custom-html-widgets.min.js
+0 1 0 5566 0 0
+/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+0 15 0 725700 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 1 0 458 0 0
+/wp-includes/js/media-editor.min.js
+0 1 0 10896 0 0
+/wp-content/themes/twentynineteen/screenshot.png
+0 1 0 175535 0 0
+/wp-includes/css/dashicons.min.css
+0 2 0 95116 0 0
+/gammerprolive/assets/admin_assets/js/bootstrap.min.js
+0 6 0 222306 0 0
+/wp-includes/js/customize-base.min.js
+0 1 0 7890 0 0
+/wp-admin/js/inline-edit-post.min.js
+0 2 0 14640 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 1 0 4186 0 0
+/wp-content/plugins/elementor/assets/css/editor-dark-mode.min.css
+0 2 0 25300 0 0
+/wp-content/plugins/elementor-pro/assets/css/admin.min.css
+0 1 0 17355 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 1 0 1193 0 0
+/gammerprolive/assets/admin_assets/css/bootstrap.min.css
+0 6 0 727230 0 0
+/gammerprolive/webservices/user-match-history
+0 28 0 45916 0 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+0 1 0 676 0 0
+/wp-content/themes/twentyseventeen/screenshot.png
+0 1 0 363833 0 0
+/gammerprolive/assets/images/gameimage/49cMPjxzyBo6endsNEhX.jpg
+0 7 0 928398 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 13 0 130728 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 1 0 353 0 0
+/gammerprolive/assets/admin_assets/css/bootstrap.min.css.map
+0 3 0 1626582 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+0 1 0 76084 0 0
+/wp-includes/js/dist/vendor/react.min.js
+0 1 0 13317 0 0
+/wp-content/uploads/2020/07/DESIGNFORM-Logo.png
+0 6 0 2745 0 0
+/wp-includes/js/dist/token-list.min.js
+0 1 0 3259 0 0
+/wp-content/uploads/2020/07/ezgif.com-webp-to-png-2.png
+0 28 0 94545 0 0
+/wp-admin/post-new.php
+0 1 0 252997 0 0
+/wp-includes/images/w-logo-blue-white-bg.png
+0 29 0 119451 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 1 0 3931 0 0
+/gammerprolive/assets/admin_assets/fonts/glyphicons-halflings-regular.woff
+0 5 0 117120 0 0
+/wp-includes/js/dist/editor.min.js
+0 1 0 184459 0 0
+/wp-includes/js/dist/block-serialization-default-parser.min.js
+0 1 0 4481 0 0
+/wp-includes/js/dist/redux-routine.min.js
+0 1 0 9787 0 0
+/wp-content/plugins/elementor/assets/js/new-template.min.js
+0 1 0 2946 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 3 0 1322 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+0 2 0 26702 0 0
+/wp-includes/js/wp-util.min.js
+0 2 0 2158 0 0
+/gammerprolive/webservices/terms-conditions
+0 4 37224192 312 0 0
+/wp-includes/js/mediaelement/wp-playlist.min.js
+0 1 0 3431 0 0
+/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js
+0 2 0 18291 0 0
+/wp-includes/js/dist/vendor/react-dom.min.js
+0 1 0 114123 0 0
+/wp-includes/js/dist/html-entities.min.js
+0 1 0 1408 0 0
+/2020/07/25/hello-world/
+0 1 0 30845 1 1
+/wp-admin/js/updates.min.js
+0 1 0 35725 0 0
+/wp-includes/js/media-models.min.js
+0 1 0 14042 0 0
+/wp-login.php
+0 234 0 1201092 0 0
+/wp-includes/js/dist/hooks.min.js
+0 1 0 6177 0 0
+/wp-includes/js/dist/keycodes.min.js
+0 1 0 5493 0 0
+/wp-admin/css/login.min.css
+0 1 0 5312 0 0
+/wp-admin/js/site-health.min.js
+0 2 0 10098 0 0
+/wp-admin/js/edit-comments.min.js
+0 2 0 30628 0 0
+/wp-includes/js/backbone.min.js
+0 1 0 23971 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 1 0 9714 0 0
+/wp-content/plugins/elementor/assets/css/common.min.css
+0 3 0 10794 0 0
+/wp-admin/js/widgets/media-widgets.min.js
+0 1 0 14294 0 0
+/wp-includes/js/dist/plugins.min.js
+0 1 0 6889 0 0
+/wp-content/uploads/elementor/css/post-5.css
+0 37 0 104610 0 0
+/wp-includes/js/jquery/jquery.js
+0 13 0 1259349 0 0
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+0 14 0 1196063 0 0
+/wp-content/uploads/2020/07/Logo-W.png
+0 2 0 5971 0 0
+/gammerprolive/webservices/user-registration
+0 8 0 548 0 0
+/wp-content/plugins/elementor-pro/assets/css/preview.min.css
+0 1 0 1845 0 0
+/wp-admin/js/tags-suggest.min.js
+0 2 0 4500 0 0
+/wp-includes/js/dist/is-shallow-equal.min.js
+0 1 0 1705 0 0
+/wp-includes/js/wp-embed.min.js
+0 12 0 17208 0 0
+/wp-includes/css/wp-pointer.min.css
+0 1 0 3232 0 0
+/wp-includes/js/dist/autop.min.js
+0 1 0 7825 0 0
+/wowgaming.apk
+0 24 37230992 161348011 0 0
+/gammerprolive/webservices/delete-team
+0 35 37225456 1821 1 8
+/wp-includes/js/wp-emoji-release.min.js
+0 11 0 152911 0 0
+/wp-admin/js/postbox.min.js
+0 2 0 8406 0 0
+/wp-includes/js/wp-backbone.min.js
+0 1 0 3047 0 0
+/gammerprolive/admin/pages/contact-us
+0 8 0 159509 0 0
+/wp-content/plugins/elementor-pro/modules/theme-builder/assets/images/conditions-tab.svg
+0 1 0 2847 0 0
+/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js
+0 11 0 72545 0 0
+/gammerprolive/admin/transaction/view-wallet-transaction-listing
+0 7 0 319453 0 0
+/gammerprolive/assets/images/gameimage/sgdeINpW8ThJzU4v9VfX.jpg
+0 1 0 80345 0 0
+/gammerprolive/admin/master/get-filter-details
+0 9 37222112 1299 0 0
+/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js
+0 2 0 24313 0 0
+/gammerprolive/assets/admin_assets/font-awesome/css/font-awesome.css
+0 6 0 238506 0 0
+/wp-includes/js/dist/element.min.js
+0 1 0 14609 0 0
+/gammerprolive/assets/images/gameimage/3tHFXaK8JLOjmiesU6Rp.jpg
+0 6 0 277835 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 1 0 907 0 0
+/wp-includes/js/dist/blob.min.js
+0 1 0 1439 0 0
+/wp-content/themes/hello-elementor/style.min.css
+0 22 0 73051 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 0 15238 0 0
+/xmlrpc.php
+0 116 0 46516 0 0
+/wp-includes/js/quicktags.min.js
+0 2 0 22386 0 0
+/wp-includes/js/dist/dom-ready.min.js
+0 1 0 1219 0 0
+/gammerprolive/webservices/send-notification
+0 15 37236832 4158 0 0
+/wp-includes/js/hoverintent-js.min.js
+0 1 0 1718 0 0
+/wp-includes/js/dist/block-editor.min.js
+0 1 0 376768 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+0 1 0 6122 0 0
+/wp-includes/js/api-request.min.js
+0 1 0 805 0 0
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+0 15 0 1412772 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 3042 0 0
+/wp-content/uploads/elementor/css/post-8.css
+0 27 0 10575 0 0
+/wp-includes/js/dist/url.min.js
+0 1 0 13641 0 0
+/wp-admin/js/user-profile.min.js
+0 1 0 5583 0 0
+/gammerprolive/admin/MasterController/storeImages
+0 3 37223424 2848 0 0
+/gammerprolive/assets/admin_assets/js/summernote.min.js
+0 7 0 645442 0 0
+/cpanel
+0 5 0 169450 2 1
+/gammerprolive/assets/admin_assets/js/parsley.min.js
+0 7 0 301735 0 0
+/wp-content/uploads/elementor/css/global.css
+0 25 0 254364 0 0
+/wp-admin/js/media-upload.min.js
+0 2 0 2294 0 0
+/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css
+0 2 0 3254 0 0
+/gammerprolive/assets/admin_assets/js/plugins/gritter/jquery.gritter.min.js
+0 7 0 30275 0 0
+/wp-admin/js/widgets/text-widgets.min.js
+0 1 0 5911 0 0
+/wp-content/themes/twentytwenty/screenshot.png
+0 1 0 53066 0 0
+/wp-includes/js/wplink.min.js
+0 2 0 22502 0 0
+/wp-content/plugins/elementor/assets/js/editor.min.js
+0 2 0 602797 0 0
+/wp-content/plugins/elementor/assets/js/editor-document.min.js
+0 2 0 215085 0 0
+/gammerprolive/assets/images/gameimage/tmjMbqdY3clR10EXIOai.jpg
+0 14 0 5877620 0 0
+/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js
+0 3 0 3753 0 0
+/
+0 63 0 1265428 28 5
+/wp-includes/js/utils.min.js
+0 1 0 1868 0 0
+/gammerprolive/assets/admin_assets/js/plugins/flot/jquery.flot.resize.js
+0 7 0 23611 0 0
+/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+0 2 0 1801 0 0
+/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js
+0 3 0 45066 0 0
+/gammerprolive/assets/images/gameimage/tsKRdFEQu4VcyMT6Xnib.jpg
+0 15 0 4096302 0 0
+/wp-content/themes/hello-elementor/screenshot.png
+0 2 0 731146 0 0
+/wp-includes/js/jquery/ui/widget.min.js
+0 1 0 6838 0 0
+/wp-admin/js/svg-painter.js
+0 1 0 5532 0 0
+/wp-includes/js/dist/deprecated.min.js
+0 1 0 1688 0 0
+/gammerprolive/webservices/update-profile-image
+0 7 0 1305 1 0
+/gammerprolive/admin/master/create-game
+0 6 37221008 137506 0 0
+/gammerprolive/webservices/update-match-play-status
+0 56 0 3518 0 1
+/wp-includes/js/mediaelement/renderers/vimeo.min.js
+0 1 0 6256 0 0
+/wp-admin/js/language-chooser.min.js
+0 2 0 818 0 0
+/gammerprolive/assets/images/gameimage/GsdISjQK9tiyFZRD10M7.jpg
+0 16 0 1124830 0 0
+/wp-includes/js/dist/block-library.min.js
+0 1 0 385939 0 0
+/gammerprolive/assets/images/gameimage/TWJF7VmrwSqkZN46HfLP.jpg
+0 17 0 2626880 0 0
+/wp-includes/js/codemirror/csslint.js
+0 1 0 366769 0 0
+/wp-admin/images/spinner-2x.gif
+0 2 0 15072 0 0
+/gammerprolive/uploads/images/profile/profile_7_5f1db865bc459.jpg
+0 1 0 10874 0 0
+/gammerprolive/assets/admin_assets/css/plugins/dataTables/datatables.min.css
+0 4 0 25644 0 0
+/gammerprolive/assets/admin_assets/js/plugins/pace/pace.min.js
+0 7 0 87556 0 0
+/wp-admin/js/widgets/media-video-widget.min.js
+0 1 0 2735 0 0
+/comments/feed/
+0 1 0 1624 1 0
+/gammerprolive/assets/admin_assets/css/parsley.css
+0 6 0 40932 0 0
+/wp-admin/setup-config.php
+0 7 0 38949 0 0
+/wp-includes/js/dist/keyboard-shortcuts.min.js
+0 1 0 7334 0 0
+/wp-includes/js/codemirror/esprima.js
+0 1 0 283149 0 0
+/wp-includes/js/dist/compose.min.js
+0 1 0 19783 0 0
+/wp-includes/js/admin-bar.min.js
+0 1 0 3791 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 2 0 18630 0 0
+/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+0 14 0 117645 0 0
+/wp-includes/js/dist/shortcode.min.js
+0 1 0 4079 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+0 1 0 14071 0 0
+/wp-content/plugins/elementor/assets/images/go-pro.svg
+0 2 0 6180 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 1 0 766 0 0
+/gammerprolive/webservices/get-matchlist
+0 1470 0 1476166 0 18
+/wp-includes/js/dist/escape-html.min.js
+0 1 0 1777 0 0
+/wp-includes/css/media-views.min.css
+0 1 0 44517 0 0
+/wp-includes/css/wp-auth-check.min.css
+0 1 0 1940 0 0
+/wp-content/uploads/2020/07/DESIGNFORM-Logo-150x20.png
+0 4 0 1937 0 0
+/wp-content/themes/hello-elementor/assets/images/elementor-logo.png
+0 1 0 23612 0 0
+/gammerprolive/assets/admin_assets/css/summernote-bs3.css
+0 6 0 914178 0 0
+/gammerprolive/webservices/create-team
+0 3825 0 259280 0 0
+/gammerprolive/assets/admin_assets/js/plugins/dataTables/datatables.min.js
+0 5 0 6003155 0 0
+/wp-includes/js/plupload/moxie.min.js
+0 1 0 88108 0 0
+/gammerprolive/uploads/images/profile/profile_17_5f1d2ea9c5cf6.jpg
+0 3 0 8241 0 0
+/gammerprolive/admin/pages/terms-and-condition
+0 1 37230048 15062 0 0
+/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js
+0 2 0 14863 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 1 0 8229 0 0
+/gammerprolive/assets/images/gameimage/7gtukcQja6x9ZiL1AVzy.jpg
+0 15 0 1533546 0 0
+/gammerprolive/admin/transaction/update-withdrawal-details
+0 3 0 173 0 0
+/robots.txt
+0 6 0 402 0 0
+/wp-admin/js/nav-menu.min.js
+0 1 0 21822 0 0
+/wp-includes/js/dist/rich-text.min.js
+0 1 0 54925 0 0
+/wp-content/plugins/elementor/assets/js/editor-modules.min.js
+0 2 0 54354 0 0
+/feed/
+0 1 0 1649 0 0
+/gammerprolive/uploads/images/profile/profile_8_5f1d2ba18fa88.jpg
+0 1 0 64617 0 0
+/wp-admin/async-upload.php
+0 5 0 7142 0 0
+/wp-includes/js/codemirror/fakejshint.js
+0 1 0 1002 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 1 0 5638 0 0
+/gammerprolive/assets/admin_assets/css/patterns/header-profile.png
+0 6 0 35262 0 0
+/wp-content/plugins/elementor/templates/13236.json
+0 1 0 3749 0 0
+/gammerprolive/assets/images/gameimage/1m5v3LTBoMjwHI8pqPzt.jpg
+0 8 0 1066792 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 1 0 10748 0 0
+/wp-includes/images/uploader-icons-2x.png
+0 1 0 3542 0 0
+/wp-includes/js/mce-view.min.js
+0 1 0 9908 0 0
+/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js
+0 2 0 1030 0 0
+/wp-cron.php
+0 34 0 0 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+0 1 0 2264 0 0
+/wp-content/plugins/elementor/assets/images/logo-panel.svg
+0 2 0 9163 0 0
+/gammerprolive/assets/admin_assets/css/animate.css
+0 6 0 414492 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 2 0 19114 0 0
+/wp-json/wp/v2/pages/5
+0 1 0 1797 0 0
+/wp-content/plugins/elementor/assets/js/common.min.js
+0 3 0 114609 0 0
+/wp-includes/js/dist/primitives.min.js
+0 1 0 4284 0 0
+/wp-includes/js/dist/dom.min.js
+0 1 0 8390 0 0
+/wp-content/plugins/elementor/assets/js/gutenberg.min.js
+0 1 0 9775 0 0
+/wp-includes/js/dist/warning.min.js
+0 1 0 2824 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 1 0 11425 0 0
+/gammerprolive/webservices/create-wallet-transaction
+0 46 0 4066 0 1
+/wp-includes/js/dist/server-side-render.min.js
+0 1 0 8422 0 0
+/wp-admin/admin-ajax.php
+0 385 0 1062198 0 0
+/wp-content/plugins/elementor/assets/lib/tipsy/tipsy.min.js
+0 2 0 4987 0 0
+/wp-includes/js/media-views.min.js
+0 1 0 106832 0 0
+/wp-admin/js/image-edit.min.js
+0 1 0 10239 0 0
+/gammerprolive/assets/admin_assets/js/plugins/gritter/jquery.gritter.css
+0 6 0 16158 0 0
+/gammerprolive/uploads/images/profile/profile_8_5f1b0bb62df34.jpg
+0 1 0 23533 0 0
+/wow_gaming.apk
+0 13 37229456 60333961 0 0
+/gammerprolive/assets/images/gameimage/qgQ3NmpRSKFkn4cd1lZ9.jpg
+0 11 0 515060 0 0
+/wp-content/themes/hello-elementor/theme.min.css
+0 23 0 62772 0 0
+/gammerprolive/webservices/winning-loss-match-update
+0 33 0 3730 2 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+0 2 0 57180 0 0
+/wp-admin/js/code-editor.min.js
+0 1 0 3099 0 0
+/gammerprolive/webservices/game/getGameList
+0 439 0 496948 15 0
+/wp-admin/customize.php
+0 1 0 300260 0 0
+/gammerprolive/admin/master/rules-master
+0 1 37201856 21243 0 0
+/gammerprolive/admin/master/manage-filter-list
+0 10 37221264 191792 0 0
+/wp-includes/js/dist/data.min.js
+0 1 0 31026 0 0
+/wp-content/plugins/elementor-pro/assets/css/editor.min.css
+0 1 0 14565 0 0
+/gammerprolive/assets/admin_assets/css/plugins/toastr/toastr.min.css
+0 6 0 41292 0 0
+/gammerprolive/assets/images/gameimage/qNSDf6ZtFh2aOo5y3pYe.png
+0 3 0 1687128 0 0
+/wp-includes/js/dist/core-data.min.js
+0 1 0 41285 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 12 0 643116 0 0
+/wp-includes/js/jquery/ui/position.min.js
+0 12 0 77784 0 0
+# End Of Table - urls
+# -sites- (monthly)
+138.197.101.254
+0 3 3 10671 0 0
+-
+120.79.180.193
+0 3 3 10671 0 0
+-
+web.fruitkings.com
+0 4 0 0 0 0
+-
+69.25.58.61
+0 1 1 623 1 1595570731
+/
+ns3362714.ip-37-187-73.eu
+0 3 3 10671 0 0
+-
+64.225.73.186
+0 3 3 10671 0 0
+-
+212.116.102.246.ptspb.ru
+0 3 3 10671 0 0
+-
+167.71.216.37
+0 6 6 21342 0 0
+-
+vm820411.had.su
+0 3 3 10671 0 0
+-
+178.128.82.148
+0 3 3 10671 0 0
+-
+143.ip-145-239-78.eu
+0 3 3 10671 0 0
+-
+server.tke.pqt.mybluehost.me
+0 3 3 10671 0 0
+-
+198.211.100.116
+0 3 3 10671 0 0
+-
+157.245.62.18
+0 3 3 10671 0 0
+-
+serwer.enigmaonline.pl
+0 3 3 10671 0 0
+-
+expresstech.dev
+0 3 3 10671 0 0
+-
+149.26.221.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+167.99.90.240
+0 3 3 10671 0 0
+-
+ip-54-36-149-83.a.ahrefs.com
+0 1 1 623 1 1595583029
+/
+wearepumpkin.nh-serv.co.uk
+0 3 3 10671 0 0
+-
+ip66.ip-149-202-8.eu
+0 3 3 10671 0 0
+-
+ec2-18-188-210-51.us-east-2.compute.amazonaws.com
+0 3 3 10671 0 0
+-
+122-117-44-59.hinet-ip.hinet.net
+0 3 3 10671 0 0
+-
+ec2-3-122-125-205.eu-central-1.compute.amazonaws.com
+0 3 3 10671 0 0
+-
+52.166.4.83
+0 3 3 10671 0 0
+-
+47.30.159.34
+0 122 102 1402258 1 1595762767
+-
+188.165.234.92
+0 6 6 21342 0 0
+-
+93.158.66.48
+0 2 0 0 0 0
+-
+165.22.210.69
+0 3 3 10671 0 0
+-
+114.143.247.174
+0 2 2 10270 0 0
+-
+crawl-66-249-64-203.googlebot.com
+0 4 3 84647 1 1595709418
+/
+165.227.86.14
+0 3 3 10671 0 0
+-
+ip-148-72-209-191.ip.secureserver.net
+0 6 6 21342 0 0
+-
+45.118.159.80
+0 882 767 30915680 4 1595685235
+/
+qalbnuri.com
+0 3 3 10671 0 0
+-
+179.ip-164-132-48.eu
+0 3 3 10671 0 0
+-
+ibireal.com
+0 3 3 10671 0 0
+-
+106.207.27.82
+0 47 39 1696515 3 1595822132
+/gammerprolive/webservices/winning-loss-match-update
+ec2-13-211-176-220.ap-southeast-2.compute.amazonaws.com
+0 3 3 10671 0 0
+-
+ip-132-148-167-225.ip.secureserver.net
+0 3 3 10671 0 0
+-
+1.186.151.204.dvois.com
+0 36 36 21630 2 1595828083
+/gammerprolive/webservices/get-matchlist
+138.197.131.66
+0 3 3 10671 0 0
+-
+47.30.134.182
+0 359 359 959768 2 1595761632
+/gammerprolive/webservices/get-matchlist
+george-wythe.dreamhost.com
+0 6 6 21342 0 0
+-
+127.ip-54-38-65.eu
+0 3 3 10671 0 0
+-
+159.203.176.82
+0 3 3 10671 0 0
+-
+159.65.185.253
+0 3 3 10671 0 0
+-
+crawl-66-249-69-236.googlebot.com
+0 4 3 214671 0 0
+-
+138.197.179.94
+0 3 3 10671 0 0
+-
+82.80.204.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+111.92.240.206
+0 3 3 10671 0 0
+-
+159.203.37.43
+0 3 3 10671 0 0
+-
+104.131.81.54
+0 3 3 10671 0 0
+-
+103.117.239.5
+0 14 14 1434114 1 1595833348
+/gammerprolive/admin/dashboard
+58.250.137.194
+0 6 6 25789107 0 0
+-
+ec2-54-224-187-228.compute-1.amazonaws.com
+0 3 3 10671 0 0
+-
+106.207.51.172
+0 169 137 6668265 4 1595759712
+/gammerprolive/webservices/delete-team
+103.117.239.4
+0 29 28 1104983 1 1595704914
+/
+47.31.71.153
+0 14 5 51655 1 1595685256
+/
+ec2-18-217-151-134.us-east-2.compute.amazonaws.com
+0 3 3 10671 0 0
+-
+103.216.140.123
+0 13290 13286 13715172 11 1595777505
+/gammerprolive/webservices/get-assign-team
+138.197.194.207
+0 3 3 10671 0 0
+-
+104.210.150.110
+0 3 3 10671 0 0
+-
+static.vnpt.vn
+0 3 3 10671 0 0
+-
+vm1.zagraj.pl
+0 3 3 10671 0 0
+-
+149.129.136.147
+0 4 4 340402 0 0
+-
+93.158.66.50
+0 1 0 0 0 0
+-
+ip-64-202-184-249.secureserver.net
+0 3 3 10671 0 0
+-
+plsklin02.myhost.ie
+0 3 3 10671 0 0
+-
+moke.aserv.co.za
+0 3 3 10671 0 0
+-
+ec2-44-234-60-101.us-west-2.compute.amazonaws.com
+0 1 1 19251 1 1595733539
+/
+149.129.136.157
+0 1 1 3619 0 0
+-
+ip-54-36-148-220.a.ahrefs.com
+0 1 0 0 0 0
+-
+web.agence-awebi.com
+0 3 3 10671 0 0
+-
+ip-192-169-200-145.ip.secureserver.net
+0 3 3 10671 0 0
+-
+93.158.66.49
+0 1 0 0 0 0
+-
+182.180.200.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+192.241.194.230
+0 3 3 10671 0 0
+-
+ip-208-109-53-185.ip.secureserver.net
+0 3 3 10671 0 0
+-
+206.189.183.152
+0 3 3 10671 0 0
+-
+adwell-prod-hosting2.adwell.cloud
+0 3 3 10671 0 0
+-
+206.189.85.88
+0 3 3 10671 0 0
+-
+192.151.145.178
+0 3 3 3340 1 1595735137
+/feed/
+webserver.smbulk.net
+0 3 3 10671 0 0
+-
+271422.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+cpanelwhm.dsi.unair.ac.id
+0 6 6 21342 0 0
+-
+157.245.133.78
+0 3 3 10671 0 0
+-
+119-18-48-91.webhostbox.net
+0 41 37 40721 2 1595764114
+-
+78.216.224.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+202.173.125.178
+0 1408 1305 41540418 6 1595821711
+/gammerprolive/webservices/get-matchlist
+v163-44-198-31.b001.p.bkk1.static.cnode.io
+0 3 3 10671 0 0
+-
+167.99.123.34
+0 3 3 10671 0 0
+-
+167.99.78.164
+0 9 9 32013 0 0
+-
+93.158.66.45
+0 5 2 38640 1 1595817465
+/
+149.129.146.231
+0 1 1 3514 0 0
+-
+182.92.156.152
+0 3 3 10671 0 0
+-
+128.199.245.33
+0 3 3 10671 0 0
+-
+s201.mehost.co
+0 3 3 10671 0 0
+-
+crawl15.bl.semrush.com
+0 1 1 19251 1 1595729745
+/
+45.127.106.204
+0 7 7 21743 0 0
+-
+139.59.78.248
+0 3 3 10671 0 0
+-
+5.253.25.217
+0 3 2 17082 1 1595709296
+/author/admin/
+103.117.239.3
+0 447 441 58028596 8 1595830835
+/gammerprolive/admin/master/upload-image
+ns2.shabakieh.org
+0 3 3 10671 0 0
+-
+u20215667.onlinehome-server.com
+0 3 3 10671 0 0
+-
+45.118.159.14
+0 33 32 1565945 1 1595831647
+/gammerprolive/admin/dashboard
+v150-95-152-199.a091.g.tyo1.static.cnode.io
+0 3 3 10671 0 0
+-
+157.49.124.60
+0 27 27 151980 1 1595831285
+/gammerprolive/webservices/get-matchlist
+47.30.148.30
+0 1302 1291 1126949 1 1595767725
+/gammerprolive/webservices/get-assign-team
+374135.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+crawl-66-249-69-234.googlebot.com
+0 13 8 269285 1 1595825355
+/
+138.68.236.156
+0 6 6 21342 0 0
+-
+47.244.226.247
+0 6 6 21342 0 0
+-
+154076.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+47.114.151.29
+0 3 3 10671 0 0
+-
+31.172.238.173
+0 3 3 10671 0 0
+-
+ecs-119-3-24-235.compute.hwclouds-dns.com
+0 1 1 19251 1 1595744402
+/
+188.166.222.27
+0 3 3 10671 0 0
+-
+52.237.72.57
+0 3 3 10671 0 0
+-
+142-4-4-229.unifiedlayer.com
+0 6 6 21342 0 0
+-
+47.30.191.185
+0 93 93 49269 5 1595773068
+/gammerprolive/webservices/get-matchlist
+112.60.1.73
+0 1 0 0 0 0
+-
+157.245.139.32
+0 3 3 10671 0 0
+-
+83.red-83-43-117.dynamicip.rima-tde.net
+0 1 1 19251 1 1595698464
+/
+ec2-52-80-20-135.cn-north-1.compute.amazonaws.com.cn
+0 3 3 10671 0 0
+-
+178.62.76.138
+0 3 3 10671 0 0
+-
+312540.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+crawl-vfyrb9.mj12bot.com
+0 2 2 19387 1 1595802540
+/
+crawl-pm06ty.mj12bot.com
+0 2 2 19318 1 1595719223
+/
+crawl-66-249-64-205.googlebot.com
+0 1 1 19251 1 1595709999
+/
+vmi212384.contaboserver.net
+0 2 2 12893870 0 0
+-
+ns2.deplaza.id
+0 3 3 10671 0 0
+-
+121.28.234.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+ip-132-148-28-20.ip.secureserver.net
+0 3 3 10671 0 0
+-
+crawl-66-249-73-171.googlebot.com
+0 1 0 0 0 0
+-
+161.35.104.69
+0 3 3 10671 0 0
+-
+deer.whiteready.com
+0 3 3 10671 0 0
+-
+ip-72-167-222-102.ip.secureserver.net
+0 3 3 10671 0 0
+-
+167.71.63.47
+0 3 3 10671 0 0
+-
+113.96.218.51
+0 5 5 12892693 0 0
+-
+web489.default-host.net
+0 3 3 10671 0 0
+-
+45.118.159.155
+0 969 914 14223610 4 1595761767
+/gammerprolive/webservices/get-matchlist
+francis.onyphe.io
+0 2 1 19251 1 1595708084
+/
+157.49.98.90
+0 1544 1543 3278895 1 1595686269
+/gammerprolive/webservices/get-matchlist
+157.230.248.89
+0 3 3 10671 0 0
+-
+crawl-66-249-64-207.googlebot.com
+0 1 1 5231 0 0
+-
+173767.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+223.185.131.239
+0 1321 1320 28351824 1 1595768678
+/gammerprolive/webservices/get-assign-team
+wind198.e-karnet.net
+0 240 232 62662716 4 1595805071
+/gammerprolive/webservices/get-matchlist
+118.69.108.35
+0 3 3 10671 0 0
+-
+93.158.66.47
+0 5 2 38640 1 1595817466
+/
+ip-104-238-94-60.ip.secureserver.net
+0 3 3 10671 0 0
+-
+crawl-66-249-69-238.googlebot.com
+0 2 1 4119 0 0
+-
+66.115.173.18
+0 3 3 10671 0 0
+-
+198.211.108.68
+0 6 6 21342 0 0
+-
+ip-148-72-210-140.ip.secureserver.net
+0 6 6 21342 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ns3362714.ip-37-187-73.eu
+0 3 3 10671 0 0
+-
+64.225.73.186
+0 3 3 10671 0 0
+-
+vm820411.had.su
+0 3 3 10671 0 0
+-
+server.tke.pqt.mybluehost.me
+0 3 3 10671 0 0
+-
+198.211.100.116
+0 3 3 10671 0 0
+-
+149.26.221.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+122-117-44-59.hinet-ip.hinet.net
+0 3 3 10671 0 0
+-
+qalbnuri.com
+0 3 3 10671 0 0
+-
+106.207.27.82
+0 2 2 105 1 1595822132
+/gammerprolive/webservices/winning-loss-match-update
+1.186.151.204.dvois.com
+0 36 36 21630 2 1595828083
+/gammerprolive/webservices/get-matchlist
+crawl-66-249-69-236.googlebot.com
+0 3 3 214671 0 0
+-
+82.80.204.35.bc.googleusercontent.com
+0 3 3 10671 0 0
+-
+103.117.239.5
+0 14 14 1434114 1 1595833348
+/gammerprolive/admin/dashboard
+vm1.zagraj.pl
+0 3 3 10671 0 0
+-
+plsklin02.myhost.ie
+0 3 3 10671 0 0
+-
+ip-208-109-53-185.ip.secureserver.net
+0 3 3 10671 0 0
+-
+206.189.183.152
+0 3 3 10671 0 0
+-
+271422.cloudwaysapps.com
+0 3 3 10671 0 0
+-
+119-18-48-91.webhostbox.net
+0 6 6 0 0 0
+-
+202.173.125.178
+0 58 21 542504 1 1595821711
+/gammerprolive/webservices/get-matchlist
+167.99.78.164
+0 3 3 10671 0 0
+-
+93.158.66.45
+0 5 2 38640 1 1595817465
+/
+s201.mehost.co
+0 3 3 10671 0 0
+-
+45.127.106.204
+0 6 6 21342 0 0
+-
+103.117.239.3
+0 70 67 5793692 1 1595830835
+/gammerprolive/admin/master/upload-image
+45.118.159.14
+0 33 32 1565945 1 1595831647
+/gammerprolive/admin/dashboard
+157.49.124.60
+0 27 27 151980 1 1595831285
+/gammerprolive/webservices/get-matchlist
+crawl-66-249-69-234.googlebot.com
+0 11 8 269285 1 1595825355
+/
+138.68.236.156
+0 3 3 10671 0 0
+-
+47.244.226.247
+0 3 3 10671 0 0
+-
+47.114.151.29
+0 3 3 10671 0 0
+-
+ec2-52-80-20-135.cn-north-1.compute.amazonaws.com.cn
+0 3 3 10671 0 0
+-
+vmi212384.contaboserver.net
+0 2 2 12893870 0 0
+-
+ip-132-148-28-20.ip.secureserver.net
+0 3 3 10671 0 0
+-
+ip-72-167-222-102.ip.secureserver.net
+0 3 3 10671 0 0
+-
+157.230.248.89
+0 3 3 10671 0 0
+-
+93.158.66.47
+0 5 2 38640 1 1595817466
+/
+ip-104-238-94-60.ip.secureserver.net
+0 3 3 10671 0 0
+-
+crawl-66-249-69-238.googlebot.com
+0 1 1 4119 0 0
+-
+ip-148-72-210-140.ip.secureserver.net
+0 3 3 10671 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://wow-gaming.com/wp-includes/css/media-views.min.css
+0 2
+https://wow-gaming.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+0 3
+https://wow-gaming.com/wp-admin/edit.php
+0 34
+https://wow-gaming.com/gammerprolive/assets/admin_assets/font-awesome/css/font-awesome.css
+0 7
+http://www.wow-gaming.com/wp-login.php
+0 1
+https://wow-gaming.com/wp-content/plugins/elementor/templates/13236.json
+0 1
+https://wow-gaming.com/2020/07/25/hello-world/
+0 1
+https://wow-gaming.com/wp-admin/install.php
+0 8
+https://wow-gaming.com/gammerprolive/admin/pages/contact-us
+0 9
+https://wow-gaming.com/wp-admin/setup-config.php
+0 22
+https://wow-gaming.com/gammerprolive/admin/master/manage-filter-list
+0 11
+https://wow-gaming.com/gammerprolive/index.php/admin/master/edit-filter-details
+0 2
+https://wow-gaming.com/wp-admin/plugins.php
+0 18
+https://wow-gaming.com/gammerprolive/admin/transaction/view-wallet-transaction-listing
+0 7
+https://wow-gaming.com/gammerprolive/admin/pages/privacy-policy
+0 1
+https://wow-gaming.com/wp-admin/customize.php
+0 24
+https://wow-gaming.com/wp-admin/themes.php
+0 16
+https://wow-gaming.com/gammerprolive/admin/match/add-match
+0 29
+https://wow-gaming.com/wp-admin/admin.php
+0 16
+- (Direct Request)
+0 20985
+https://wow-gaming.com/gammerprolive/admin/pages/terms-and-condition
+0 1
+https://wow-gaming.com/wp-admin/post.php
+0 468
+https://wow-gaming.com/gammerprolive/admin/master/create-game
+0 19
+http://wow-gaming.com/gammerprolive/admin/login
+0 8
+https://wow-gaming.com/wp-admin/load-styles.php
+0 1
+https://wow-gaming.com/wp-json/wp/v2/types/post
+0 1
+https://wow-gaming.com/gammerprolive/admin/users/listing
+0 15
+https://wow-gaming.com/wp-admin/
+0 55
+https://119.18.48.91:2083/
+0 5
+https://wow-gaming.com/gammerprolive/assets/admin_assets/css/bootstrap.min.css
+0 5
+https://wow-gaming.com/wp-cron.php
+0 34
+https://wow-gaming.com/gammerprolive/assets/admin_assets/css/style.css
+0 6
+https://wow-gaming.com/gammerprolive/admin/master/rules-master
+0 1
+https://wow-gaming.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1
+https://wow-gaming.com/cpanel
+0 1
+https://wow-gaming.com/wp-login.php
+0 3
+https://wow-gaming.com/wp-admin/admin-ajax.php
+0 3
+https://wow-gaming.com/gammerprolive/admin/dashboard
+0 191
+https://wow-gaming.com/gammerprolive/admin/match/match-list
+0 17
+https://wow-gaming.com/gammerprolive/admin/master/upload-image
+0 42
+https://wow-gaming.com/wp-content/plugins/elementor/templates/11198.json
+0 1
+https://wow-gaming.com/wp-admin/css/install.min.css
+0 4
+https://wow-gaming.com/wp-admin/post-new.php
+0 75
+https://wow-gaming.com/gammerprolive/admin/login
+0 65
+https://wow-gaming.com/wp-admin/theme-install.php
+0 12
+https://wow-gaming.com/gammerprolive/index.php/admin/transaction/get-withdrawal-details
+0 5
+https://wow-gaming.com/gammerprolive/admin/master/edit-filter-details
+0 4
+https://wow-gaming.com/gammerprolive/admin/transaction/get-withdrawal-details
+0 20
+https://wow-gaming.com/
+0 517
+https://wow-gaming.com/home/
+0 40
+http://www.wow-gaming.com///
+0 1
+# End Of Table - referrers
+# -agents- 
+Dalvik/2.1.0 (Linux; U; Android 7.1.1; CPH1723 Build/N6F26Q)
+0 33
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.98 Mobile S
+0 1
+Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows N\\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+0 1
+AHC/1.0
+0 6
+Mozilla/5.0 (Linux; U; Android 4.0.4; zh-cn; Lenovo S890 Build/IMM76D) AppleWebKit/534.24 (KHTML, like Gecko) Version/4.0 Mob
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 Pro MIUI/V11.0.4.0.QGGINXM)
+0 204
+Mozilla/5.0 (Linux; U; Android 4.2.2; zh-cn; Coolpad 8970L Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 1
+Mozilla/5.0 (Windows NT 9.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3731.88 Safari/537.36
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; SM-G965F Build/QP1A.190711.020)
+0 1289
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945
+0 32
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 11
+Mozilla/5.0 (Linux; U; Android 4.1.2; zh-CN; Coolpad 5891Q Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 U
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; PE-TL10 Build/HuaweiPE-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 1
+PostmanRuntime/7.26.2
+0 18
+WhatsApp/2.20.195.15 A
+0 5
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-S5830 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile S
+0 1
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/84.0.41
+0 9
+Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM-N9002 Build/KOT49H) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrows
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 84
+Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.
+0 7
+Dalvik/2.1.0 (Linux; U; Android 9; vivo 1909 Build/PKQ1.190302.001)
+0 1855
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; MI 3C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.3
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; zh-cn; SCH-N719 Build/JZO54K) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrows
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.1; zh-cn; C2 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 1
+Mozilla/5.0 (Linux; Android 10; RMX1992) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+0 140
+WordPress/5.4.2; https://wow-gaming.com
+0 41
+Dalvik/2.1.0 (Linux; U; Android 10; RMX1992 Build/QKQ1.191201.002)
+0 3811
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1421
+Mozilla/5.0 (Linux; U; Android 4.1.1; zh-CN; HTC T528d Build/JRO03H) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrow
+0 1
+WhatsApp/2.20.193.9 A
+0 3
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Vers
+0 72
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 351
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 1
+Mozilla/5.0 (Linux; Android 9; vivo 1909 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.8
+0 122
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Linux; Android 4.2.2; HM NOTE 1TD) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Saf
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM-N9008S Build/KOT49H) AppleWebKit/533.1 (KHTML, like Gecko)Version/4.0 MQQBrow
+0 1
+Dalvik/2.1.0 (Linux; U; Android 10; SM-G973F Build/QP1A.190711.020)
+0 13250
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

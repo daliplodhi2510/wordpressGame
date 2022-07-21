@@ -1,0 +1,265 @@
+.nomargin-nopadding{margin: 0px !important; padding: 0px !important;}
+
+.margin5{ margin: 5px;}
+.margin10{ margin: 10px;}
+.margin15{ margin: 15px;}
+.margin20{ margin: 20px;}
+
+.margin-top5{ margin-top: 5px;}
+.margin-top10{ margin-top: 10px;}
+.margin-top15{ margin-top: 15px;}
+.margin-top20{ margin-top: 20px;}
+.margin-top30{ margin-top: 30px;}
+.margin-top40{ margin-top: 40px;}
+.margin-top50{ margin-top: 50px;}
+
+.margin-left5{ margin-left: 5px;}
+.margin-left10{ margin-left: 10px;}
+.margin-left15{ margin-left: 15px;}
+.margin-left20{ margin-left: 20px;}
+
+.margin-right5{ margin-right: 5px;}
+.margin-right10{ margin-right: 10px;}
+.margin-right15{ margin-right: 15px;}
+.margin-right20{ margin-right: 20px;}
+
+.margin-bottom0{ margin-bottom: 0px !important;}
+.margin-bottom5{ margin-bottom: 5px;}
+.margin-bottom10{ margin-bottom: 10px;}
+.margin-bottom15{ margin-bottom: 15px;}
+.margin-bottom20{ margin-bottom: 20px;}
+.margin-bottom30{ margin-bottom: 30px;}
+.margin-bottom40{ margin-bottom: 40px;}
+.margin-bottom50{ margin-bottom: 50px;}
+.margin-bottom60{ margin-bottom: 60px;}
+.margin-bottom70{ margin-bottom: 70px;}
+
+/**PADDING CLASSES**/
+.padding-top0{padding-top: 0px !important;}
+.padding-left0{padding-left: 0px !important;}
+.padding-right0{padding-right: 0px !important;}
+.padding-bottom0{padding-bottom: 0px !important;}
+
+.padding5{ padding: 5px;}
+.padding10{ padding: 10px;}
+.padding15{ padding: 15px;}
+.padding20{ padding: 20px;}
+.padding30{ padding: 30px;}
+.padding40{ padding: 40px;}
+
+.padding-top5{ padding-top: 5px;}
+.padding-top10{ padding-top: 10px;}
+.padding-top15{ padding-top: 15px;}
+.padding-top20{ padding-top: 20px;}
+
+.padding-left0{ padding-left: 0px;}
+.padding-left5{ padding-left: 5px;}
+.padding-left10{ padding-left: 10px;}
+.padding-left15{ padding-left: 15px;}
+.padding-left20{ padding-left: 20px;}
+
+.padding-right5{ padding-right: 5px;}
+.padding-right10{ padding-right: 10px;}
+.padding-right15{ padding-right: 15px;}
+.padding-right20{ padding-right: 20px;}
+.padding-right30{ padding-right: 30px;}
+.padding-right40{ padding-right: 40px;}
+
+.padding-bottom5{ padding-bottom: 5px;}
+.padding-bottom10{ padding-bottom: 10px;}
+.padding-bottom15{ padding-bottom: 15px;}
+.padding-bottom20{ padding-bottom: 20px;}
+.padding-bottom30{ padding-bottom: 30px;}
+
+.padding-top-bottom50{padding: 50px 0 !important;}
+
+.ms-options-wrap,
+.ms-options-wrap * {
+    box-sizing: border-box;
+}
+
+.ms-options-wrap > button:focus,
+.ms-options-wrap > button {
+   position: relative;
+    width: 100%;
+    text-align: left;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 3px 12px;
+    margin-top: 1px;
+    color: #aaa;
+    outline: none;
+    white-space: nowrap;
+    height: 40px;
+    color: #636363;
+    font-size: 14px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.ms-options-wrap > button > span {
+    display: inline-block;
+}
+
+.ms-options-wrap > button[disabled] {
+    background-color: #e5e9ed;
+    color: #808080;
+    opacity: 0.6;
+}
+
+.ms-options-wrap > button:after {
+    content: ' ';
+    height: 0;
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    width: 0;
+    border: 6px solid rgba(0, 0, 0, 0);
+    border-top-color: #999;
+    margin-top: -3px;
+}
+
+.ms-options-wrap > .ms-options {
+    position: absolute;
+    min-width: 92%;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    background: white;
+    z-index: 2000;
+    border: 1px solid #aaa;
+    overflow: auto;
+    visibility: hidden;
+  height:200px;
+}
+
+.ms-options-wrap > .ms-options.ms-active {
+    visibility: visible
+}
+
+.ms-options-wrap > .ms-options > .ms-search input {
+    width: 100%;
+    padding: 4px 5px;
+    border: none;
+    border-bottom: 1px groove;
+    outline: none;
+}
+
+.ms-options-wrap > .ms-options .ms-selectall {
+    display: inline-block;
+    font-size: .9em;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+.ms-options-wrap > .ms-options .ms-selectall:hover {
+    text-decoration: underline;
+}
+
+.ms-options-wrap > .ms-options > .ms-selectall.global {
+    margin: 4px 5px;
+}
+
+.ms-options-wrap > .ms-options > ul,
+.ms-options-wrap > .ms-options > ul > li.optgroup ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ms-options-wrap > .ms-options > ul li.ms-hidden {
+    display: none;
+}
+
+.ms-options-wrap > .ms-options > ul > li.optgroup {
+    padding: 5px;
+}
+.ms-options-wrap > .ms-options > ul > li.optgroup + li.optgroup {
+    border-top: 1px solid #aaa;
+}
+
+.ms-options-wrap > .ms-options > ul > li.optgroup .label {
+    display: block;
+    padding: 5px 0 0 0;
+    font-weight: bold;
+}
+
+.ms-options-wrap > .ms-options > ul label {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    padding: 4px;
+    margin: 1px 0;
+    border: 1px dotted transparent;
+}
+
+.ms-options-wrap > .ms-options > ul label.focused,
+.ms-options-wrap > .ms-options > ul label:hover {
+    background-color: #efefef;
+    border-color: #999;
+}
+
+.ms-options-wrap > .ms-options > ul li.selected label {
+    background-color: #efefef;
+    border-color: transparent;
+}
+
+.ms-options-wrap > .ms-options > ul input[type="checkbox"] {
+    margin: 0 5px 0 0;
+    position: absolute;
+    left: 4px;
+    top: 7px;
+}
+
+.ms-options-wrap > .ms-options.hide-checkbox > ul input[type="checkbox"] {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+}
+.error{
+  color:red;
+}
+
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+    color: #468847;
+    background-color: #F2F9F0 !important;
+    border: 1px solid #D6E9C6;
+}
+
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+    color: #B94A48;
+    background-color: #F9F0F0 !important;
+    border: 1px solid #f09784;
+}
+
+.parsley-errors-list {
+    list-style-type: none;
+    opacity: 0;
+    transition: all .3s ease-in;
+    color: #ff0500;
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding-left: 0;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.parsley-errors-list.filled {
+    opacity: 1;
+}
+.onSuccessMsg{
+    font-weight: bold;
+    
+}
+.parsley-custom-error-message{
+    font-style: italic;
+    font-family: 'Source sans pro Extra-Light',Arial, Helvetica, sans-serif; font-style: 'italic'; font-weight: 300; font-size: 12px;
+}

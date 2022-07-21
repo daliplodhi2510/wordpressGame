@@ -1,0 +1,339 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/wowgaming/tmp/awstats/awstats.wow-gaming.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2686                
+POS_VISITOR 7616                
+POS_DAY 8501                
+POS_DOMAIN 3240                
+POS_LOGIN 3538                
+POS_ROBOT 3693                
+POS_WORMS 4019                
+POS_EMAILSENDER 4150                
+POS_EMAILRECEIVER 4293                
+POS_SESSION 8665                
+POS_SIDER 8834                
+POS_FILETYPES 4428                
+POS_DOWNLOADS 4603                
+POS_OS 4798                
+POS_BROWSER 4995                
+POS_SCREENSIZE 5423                
+POS_UNKNOWNREFERER 5497                
+POS_UNKNOWNREFERERBROWSER 5699                
+POS_ORIGIN 5896                
+POS_SEREFERRALS 6029                
+POS_PAGEREFS 6182                
+POS_SEARCHWORDS 6330                
+POS_KEYWORDS 6491                
+POS_MISC 2350                
+POS_ERRORS 6559                
+POS_CLUSTER 3394                
+POS_SIDER_404 6665                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200727044913 8 1059 8788990602100
+FirstTime 20200723091641
+LastTime 20200727023742
+LastUpdate 20200727070909 8 0 8 0 0
+TotalVisits 41                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 1 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 623 1 2 623
+1 0 0 0 1 2 623
+2 5 5 1869 6 7 12401
+3 0 0 0 0 0 0
+4 4 22 9415 1 6 67
+5 0 0 0 8 8 0
+6 1 1 1185 1 1 0
+7 5 5 3115 1 1 0
+8 0 0 0 0 0 0
+9 4 4 3054 5 6 16
+10 1 1 623 0 0 0
+11 0 0 0 1 1 623
+12 3 8 91543 1 1 0
+13 1 1 623 1 1 0
+14 0 0 0 2 3 1246
+15 1 1 623 0 1 0
+16 3 3 1246 2 2 623
+17 6 6 2492 10 17 623
+18 2 2 1246 0 0 0
+19 4 4 1869 1 1 0
+20 3 3 1209 7 8 11778
+21 0 0 0 1 1 623
+22 0 0 0 1 2 67
+23 4 4 1869 3 7 1313
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 30 35 109488
+in 9 19 6930
+cn 4 4 2492
+gb 2 10 1862
+se 1 1 623
+zz 1 1 623
+kz 1 1 586
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 7 3249 20200727044913 2
+MJ12bot/ 4 1380 20200726222843 2
+AhrefsBot/ 2 1246 20200725012732 0
+curl 1 623 20200723162338 0
+SemrushBot/ 1 67 20200726021540 1
+crawl 1 623 20200725023039 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+html 39 34258 0 0
+css 3 65465 0 0
+Unknown 1 2131 0 0
+js 2 15335 0 0
+txt 17 1296 0 0
+php 8 0 0 0
+png 1 4119 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/FA1FF1184ED858AD4CF176EA8A9F9C3B.txt 16 0 1232
+/.well-known/pki-validation/8AA932E36DB77CDB17123C77DDA946FF.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win16 14 14
+winnt 1 1
+linux 10 10
+linuxandroid 3 2
+win2000 1 1
+win7 1 1
+macosx9 1 1
+winxp 2 2
+Unknown 26 9
+win10 11 6
+ios_ipad 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome78.0.1857.88 1 1
+chrome58.0.3029.81 1 1
+chrome70.0.1713.88 1 1
+chrome83.0.4103.61 1 1
+chrome78.0.3904.108 2 2
+chrome75.0.3765.0 1 1
+firefox51.0 1 1
+msie6.0 1 1
+firefox28.0 3 3
+firefox48.0 1 1
+chrome67.0.3396.79 20 15
+chrome76.0.3809.71 2 2
+Unknown 26 9
+chrome78.0.2430.88 1 1
+chrome84.0.4147.89 3 2
+firefox62.0 1 1
+firefox50.0 1 1
+firefox52.0 2 2
+chrome74.0.3729.131 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+COMODO_DCV 20200724045252
+Go-http-client/1.1 20200724041728
+WordPress/5.4.2;_https://wow-gaming.com 20200727023742
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+COMODO_DCV 20200724045252
+Go-http-client/1.1 20200724041728
+WordPress/5.4.2;_https://wow-gaming.com 20200727023742
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 37 54
+From1 0 0
+From2 2 2
+From3 0 0
+From4 9 15
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 40 23438
+302 1 0
+301 18 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/plugins/system/debug/debug.xml 1 -
+/.env 1 -
+/administrator/language/en-GB/install.xml 1 -
+/wp-admin 1 -
+/js/header-rollup-554.js 1 -
+/humans.txt 1 -
+/administrator/help/en-GB/toc.json 1 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/admin/includes/general.js 1 -
+/admin/view/javascript/common.js 1 -
+/ads.txt 1 -
+/.git/HEAD 8 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/wp-login.php 1 -
+/ 1 http://www.wow-gaming.com///
+/sitemap.xml 1 -
+/wordpress/wp-login.php 1 -
+/images/editor/separator.gif 1 -
+/administrator/ 1 -
+/misc/ajax.js 1 -
+/blog/wp-login.php 1 -
+/cgi-bin/ 3 -
+/wp-includes/js/jquery/jquery.js 1 -
+/robots.txt 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+69.25.58.61 14 14 14283 20200725123052
+119.18.48.91 8 17 680 20200727023742
+119.3.24.235 3 3 1869 20200724193438
+52.255.177.52 3 3 1869 20200723171753
+54.245.166.214 2 2 1246 20200723091642
+51.15.242.22 2 2 1246 20200723181020
+65.154.226.109 2 2 1246 20200724045418
+18.188.64.129 1 1 623 20200723232709
+5.253.25.217 1 1 586 20200725203458
+35.164.161.197 1 1 623 20200724071304
+54.214.85.69 1 1 623 20200724071308
+172.241.134.237 1 6 85860 20200725123436
+192.71.224.240 1 1 623 20200724041728
+34.219.80.196 1 1 623 20200724071307
+104.192.108.9 1 1 623 20200723191225
+54.202.47.147 1 1 623 20200724071307
+45.118.159.155 1 2 6250 20200726040639
+198.74.36.162 1 1 623 20200724151515
+54.202.209.7 1 1 623 20200724071312
+58.30.141.60 1 1 623 20200725004115
+206.189.117.9 1 1 623 20200725024717
+91.199.212.132 0 8 616 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20200723 15 15 9345 11
+20200724 16 33 11264 15
+20200725 14 19 95745 12
+20200726 2 3 6250 2
+20200727 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+15mn-30mn 1
+0s-30s 39
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 38 33672 33 33
+/wp-cron.php 8 0 6 6
+//wp-json/wp/v2/users/ 1 586 1 1
+/gammerprolive/admin/login 1 2131 1 1
+END_SIDER
